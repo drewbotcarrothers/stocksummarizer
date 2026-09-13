@@ -1,0 +1,106 @@
+---
+import { getCollection } from 'astro:content';
+import Layout from '../layouts/Layout.astro';
+import BriefCard from '../components/BriefCard.astro';
+import AdSlot from '../components/AdSlot.astro';
+import AffiliateCTA from '../components/AffiliateCTA.astro';
+import EbookCard from '../components/EbookCard.astro';
+
+const briefs = (await getCollection('briefs', ({ data }) => !data.draft)).sort(
+  (a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf(),
+);
+const latest = briefs.slice(0, 3);
+---
+
+<Layout
+  title="StockSummarizer — Plain-English stock & market briefs"
+  description="Clear, structured stock summaries, sector snapshots, and market wraps for DIY investors. Free briefs — no paywall."
+>
+  <section class="border-b border-border bg-gradient-to-b from-accent-soft/40 to-surface">
+    <div class="mx-auto max-w-6xl px-4 py-14 sm:px-6 sm:py-20">
+      <p class="text-sm font-semibold uppercase tracking-wider text-accent-dark">Clear. Grounded. Useful.</p>
+      <h1 class="mt-3 max-w-3xl font-display text-4xl font-bold leading-tight text-ink sm:text-5xl">
+        Market noise, summarized in plain English.
+      </h1>
+      <p class="mt-5 max-w-2xl text-lg leading-8 text-ink-muted">
+        StockSummarizer turns filings, headlines, and screen data into structured briefs —
+        what happened, why it matters, bull/bear, and what to watch — so everyday DIY investors can decide faster.
+      </p>
+      <div class="mt-8 flex flex-wrap gap-3">
+        <a
+          href="/summaries/"
+          class="inline-flex rounded-md bg-accent px-5 py-3 text-sm font-semibold text-white no-underline hover:bg-accent-dark"
+        >
+          Browse stock summaries
+        </a>
+        <a
+          href="/about/"
+          class="inline-flex rounded-md border border-border bg-surface px-5 py-3 text-sm font-semibold text-ink no-underline hover:border-accent/40"
+        >
+          How we work
+        </a>
+      </div>
+    </div>
+  </section>
+
+  <div class="mx-auto max-w-6xl px-4 sm:px-6">
+    <AdSlot size="leaderboard" />
+
+    <section class="py-4">
+      <div class="flex items-end justify-between gap-4">
+        <div>
+          <h2 class="font-display text-2xl font-semibold sm:text-3xl">Latest stock briefs</h2>
+          <p class="mt-1 text-sm text-ink-muted">Free to read — never paywalled.</p>
+        </div>
+        <a href="/summaries/" class="text-sm font-semibold text-accent-dark no-underline hover:underline">View all</a>
+      </div>
+      <div class="mt-6 grid gap-5 md:grid-cols-2 lg:grid-cols-3">
+        {latest.map((brief) => <BriefCard brief={brief} />)}
+        {latest.length === 0 && (
+          <p class="text-ink-muted">Briefs coming soon.</p>
+        )}
+      </div>
+    </section>
+
+    <section class="py-12">
+      <h2 class="font-display text-2xl font-semibold sm:text-3xl">Explore by pillar</h2>
+      <div class="mt-6 grid gap-4 sm:grid-cols-2 lg:grid-cols-4">
+        {[
+          { href: '/summaries/', title: 'Stock Summaries', body: 'Single-name briefs with a consistent structure.' },
+          { href: '/sectors/', title: 'Sector Snapshots', body: 'Theme, leaders/laggards, and simple framing.' },
+          { href: '/market-wrap/', title: 'Market Wrap', body: 'The broader tape in plain English.' },
+          { href: '/investing/', title: 'Investing Literacy', body: 'How to read earnings, multiples, and more.' },
+        ].map((item) => (
+          <a href={item.href} class="rounded-xl border border-border bg-surface p-5 no-underline transition hover:border-accent/40 hover:shadow-sm">
+            <h3 class="font-display text-lg font-semibold text-ink">{item.title}</h3>
+            <p class="mt-2 text-sm text-ink-muted">{item.body}</p>
+          </a>
+        ))}
+      </div>
+    </section>
+
+    <AffiliateCTA />
+
+    <section class="pb-12">
+      <div class="flex items-end justify-between gap-4">
+        <div>
+          <h2 class="font-display text-2xl font-semibold sm:text-3xl">Ebooks & guides</h2>
+          <p class="mt-1 text-sm text-ink-muted">Deeper frameworks on top of free briefs — not a paywall.</p>
+        </div>
+        <a href="/ebooks/" class="text-sm font-semibold text-accent-dark no-underline hover:underline">See all</a>
+      </div>
+      <div class="mt-6 grid gap-5 md:grid-cols-2">
+        <EbookCard
+          title="How to Read an Earnings Release"
+          description="A practical checklist for DIY investors: revenue vs. profit, guidance, footnotes, and the three numbers that usually matter most."
+          priceLabel="Guide · TBD"
+        />
+        <EbookCard
+          title="Bull / Bear / Watch — A Briefing Framework"
+          description="Use our brief structure on any stock: separate facts from narrative, map risks, and write your own watchlist notes."
+          priceLabel="Playbook · TBD"
+        />
+      </div>
+    </section>
+  </div>
+</Layout>

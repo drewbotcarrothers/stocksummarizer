@@ -1,0 +1,31 @@
+---
+interface Props {
+  title: string;
+  description: string;
+  status?: 'coming-soon' | 'available';
+  priceLabel?: string;
+}
+
+const {
+  title,
+  description,
+  status = 'coming-soon',
+  priceLabel = 'Coming soon',
+} = Astro.props;
+---
+
+<article class="flex h-full flex-col rounded-xl border border-border bg-surface p-6 shadow-sm">
+  <div class="mb-4 inline-flex h-10 w-10 items-center justify-center rounded-lg bg-accent-soft text-accent-dark" aria-hidden="true">
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="currentColor" class="h-5 w-5">
+      <path d="M11.25 4.533A9.707 9.707 0 0 0 6 3a9.735 9.735 0 0 0-3.25.555.75.75 0 0 0-.5.707v14.25a.75.75 0 0 0 1 .707A8.237 8.237 0 0 1 6 18.75c1.585 0 3.09.402 4.286 1.114a.75.75 0 0 0 .928 0A8.239 8.239 0 0 1 15.75 18.75a8.237 8.237 0 0 1 2.75.429.75.75 0 0 0 1-.707V4.262a.75.75 0 0 0-.5-.707A9.735 9.735 0 0 0 15.75 3a9.707 9.707 0 0 0-5.25 1.533Z" />
+    </svg>
+  </div>
+  <h3 class="font-display text-lg font-semibold text-ink">{title}</h3>
+  <p class="mt-2 flex-1 text-sm leading-6 text-ink-muted">{description}</p>
+  <div class="mt-5 flex items-center justify-between gap-3">
+    <span class="text-sm font-semibold text-ink">{priceLabel}</span>
+    <span class="rounded-full bg-surface-soft px-3 py-1 text-xs font-medium uppercase tracking-wide text-ink-muted">
+      {status === 'available' ? 'Available' : 'Coming soon'}
+    </span>
+  </div>
+</article>

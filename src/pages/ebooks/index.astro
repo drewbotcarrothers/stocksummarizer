@@ -1,0 +1,41 @@
+---
+import Layout from '../../layouts/Layout.astro';
+import EbookCard from '../../components/EbookCard.astro';
+import AdSlot from '../../components/AdSlot.astro';
+import AffiliateCTA from '../../components/AffiliateCTA.astro';
+---
+
+<Layout
+  title="Ebooks & Guides"
+  description="Paid digital guides that package literacy and frameworks on top of free StockSummarizer briefs — not a paywall on daily content."
+>
+  <div class="mx-auto max-w-6xl px-4 py-12 sm:px-6">
+    <p class="text-sm font-semibold uppercase tracking-wider text-accent-dark">Products</p>
+    <h1 class="mt-2 font-display text-4xl font-bold">Ebooks & Guides</h1>
+    <p class="mt-3 max-w-2xl text-lg text-ink-muted">
+      Deeper, ownable assets for DIY investors. Daily stock briefs stay free; ebooks go further on frameworks and literacy.
+    </p>
+
+    <AdSlot size="leaderboard" />
+
+    <div class="grid gap-5 md:grid-cols-2 lg:grid-cols-3">
+      <EbookCard
+        title="How to Read an Earnings Release"
+        description="A practical checklist: revenue vs. profit, guidance language, one-time items, and the three numbers that usually drive the stock."
+        priceLabel="Guide · TBD"
+      />
+      <EbookCard
+        title="Bull / Bear / Watch — A Briefing Framework"
+        description="Apply our brief structure to any name: separate facts from narrative, map risks, and write watchlist notes you’ll actually use."
+        priceLabel="Playbook · TBD"
+      />
+      <EbookCard
+        title="Beginner-to-DIY Investor Kit"
+        description="From overwhelm to a repeatable research habit — without tipster noise or fake certainty."
+        priceLabel="Kit · TBD"
+      />
+    </div>
+
+    <AffiliateCTA />
+  </div>
+</Layout>

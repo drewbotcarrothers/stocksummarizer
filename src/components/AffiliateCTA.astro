@@ -1,0 +1,27 @@
+---
+interface Props {
+  title?: string;
+  body?: string;
+  ctaLabel?: string;
+  href?: string;
+}
+
+const {
+  title = 'Tools we use for clearer research',
+  body = 'When we recommend a broker, screener, or learning platform, we may earn a commission. That never changes what we cover — clarity first.',
+  ctaLabel = 'See disclosed partners',
+  href = '/disclosures/#affiliates',
+} = Astro.props;
+---
+
+<section class="my-10 rounded-xl border border-accent/30 bg-accent-soft/60 p-6 sm:p-8">
+  <p class="text-xs font-semibold uppercase tracking-wider text-accent-dark">Affiliate · disclosed</p>
+  <h2 class="mt-2 font-display text-xl font-semibold text-ink sm:text-2xl">{title}</h2>
+  <p class="mt-2 max-w-2xl text-sm leading-6 text-ink-muted sm:text-base">{body}</p>
+  <a
+    href={href}
+    class="mt-4 inline-flex items-center rounded-md bg-accent px-4 py-2.5 text-sm font-semibold text-white no-underline hover:bg-accent-dark"
+  >
+    {ctaLabel}
+  </a>
+</section>

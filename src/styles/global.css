@@ -1,0 +1,86 @@
+@import "tailwindcss";
+
+@theme {
+  --color-ink: #0f172a;
+  --color-ink-muted: #475569;
+  --color-surface: #ffffff;
+  --color-surface-soft: #f8fafc;
+  --color-border: #e2e8f0;
+  --color-accent: #0d9488;
+  --color-accent-dark: #0f766e;
+  --color-accent-soft: #ccfbf1;
+  --color-danger: #dc2626;
+  --font-sans: "Inter", ui-sans-serif, system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+  --font-display: "Source Serif 4", Georgia, "Times New Roman", serif;
+}
+
+@layer base {
+  html {
+    @apply scroll-smooth antialiased;
+  }
+
+  body {
+    @apply bg-surface text-ink font-sans leading-relaxed;
+  }
+
+  h1, h2, h3, h4 {
+    @apply font-display tracking-tight text-ink;
+  }
+
+  a {
+    @apply text-accent-dark underline-offset-2 hover:underline;
+  }
+
+  .prose-brief {
+    @apply max-w-none text-ink;
+  }
+
+  .prose-brief h2 {
+    @apply mt-10 mb-3 text-2xl font-semibold border-b border-border pb-2;
+  }
+
+  .prose-brief h3 {
+    @apply mt-8 mb-2 text-xl font-semibold;
+  }
+
+  .prose-brief p {
+    @apply my-4 text-[1.05rem] leading-7 text-ink;
+  }
+
+  .prose-brief ul, .prose-brief ol {
+    @apply my-4 pl-6 space-y-2;
+  }
+
+  .prose-brief ul {
+    @apply list-disc;
+  }
+
+  .prose-brief ol {
+    @apply list-decimal;
+  }
+
+  .prose-brief strong {
+    @apply font-semibold text-ink;
+  }
+
+  .prose-brief table {
+    @apply w-full my-6 text-sm border-collapse;
+  }
+
+  .prose-brief th,
+  .prose-brief td {
+    @apply border border-border px-3 py-2 text-left;
+  }
+
+  .prose-brief th {
+    @apply bg-surface-soft font-semibold;
+  }
+
+  .prose-brief hr {
+    @apply my-8 border-border;
+  }
+
+  .prose-brief a {
+    @apply text-accent-dark font-medium;
+  }
+}
