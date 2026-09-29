@@ -1,5 +1,14 @@
 ---
 const year = new Date().getFullYear();
+
+const network = [
+  { name: 'Canadian Optimizer', href: 'https://canadianoptimizer.com', blurb: 'Tax, investing, and retirement strategies for Canadians' },
+  { name: 'Canadian Credit Card Finder', href: 'https://canadiancreditcardfinder.com', blurb: 'Find the best Canadian credit cards' },
+  { name: 'Latest Mortgage Rates', href: 'https://latestmortgagerates.ca', blurb: 'Compare Canadian mortgage rates' },
+  { name: 'Canadian Data Insights', href: 'https://canadiandatainsights.com', blurb: 'Statistics Canada data made interactive' },
+  { name: 'Make Money Optimizer', href: 'https://makemoneyoptimizer.com', blurb: 'Canadian side hustle guides' },
+  { name: 'Saving Optimizer', href: 'https://savingoptimizer.com', blurb: 'Canadian money-saving tips' },
+];
 ---
 
 <footer class="mt-16 border-t border-border bg-surface-soft">
@@ -30,6 +39,19 @@ const year = new Date().getFullYear();
         Educational content only — not personalized financial advice. Investing involves risk, including loss of principal.
       </p>
     </div>
+  </div>
+  <div class="border-t border-border">
+    <section class="mx-auto max-w-6xl px-4 py-8 sm:px-6" aria-labelledby="footer-network-heading">
+      <p id="footer-network-heading" class="text-sm font-semibold uppercase tracking-wide text-ink">More from our network</p>
+      <ul class="mt-3 grid gap-x-8 gap-y-3 text-sm sm:grid-cols-2 lg:grid-cols-3">
+        {network.map((site) => (
+          <li>
+            <a href={site.href} target="_blank" rel="noopener" class="font-medium text-ink no-underline hover:text-accent-dark">{site.name}</a>
+            <span class="block text-ink-muted">{site.blurb}</span>
+          </li>
+        ))}
+      </ul>
+    </section>
   </div>
   <div class="border-t border-border">
     <p class="mx-auto max-w-6xl px-4 py-4 text-xs text-ink-muted sm:px-6">
