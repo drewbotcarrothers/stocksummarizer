@@ -1,0 +1,6 @@
+# Canonical host: redirect www -> non-www (preserves path and query string)
+<IfModule mod_rewrite.c>
+RewriteEngine On
+RewriteCond %{HTTP_HOST} ^www\.stocksummarizer\.com$ [NC]
+RewriteRule ^(.*)$ https://stocksummarizer.com/$1 [R=301,L]
+</IfModule>

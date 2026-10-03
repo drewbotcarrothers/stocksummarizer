@@ -10,6 +10,8 @@ const briefs = (await getCollection('briefs', ({ data }) => !data.draft)).sort(
   (a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf(),
 );
 const latest = briefs.slice(0, 3);
+const fmtDate = (d: Date) =>
+  d.toLocaleDateString('en-CA', { year: 'numeric', month: 'short', day: 'numeric', timeZone: 'America/Toronto' });
 ---
 
 <Layout
@@ -61,6 +63,38 @@ const latest = briefs.slice(0, 3);
         )}
       </div>
     </section>
+
+    {briefs.length > 0 && (
+      <section class="py-8" aria-labelledby="all-summaries-heading">
+        <div class="flex items-end justify-between gap-4">
+          <div>
+            <h2 id="all-summaries-heading" class="font-display text-2xl font-semibold sm:text-3xl">All stock summaries</h2>
+            <p class="mt-1 text-sm text-ink-muted">Every brief we've published, newest first.</p>
+          </div>
+          <a href="/summaries/" class="text-sm font-semibold text-accent-dark no-underline hover:underline">All summaries</a>
+        </div>
+        <ul class="mt-6 grid gap-3 sm:grid-cols-2 lg:grid-cols-3">
+          {briefs.map((brief) => (
+            <li>
+              <a
+                href={`/summaries/${brief.id}/`}
+                class="flex h-full items-center gap-3 rounded-lg border border-border bg-surface px-4 py-3 no-underline transition hover:border-accent/40 hover:shadow-sm"
+              >
+                <span class="shrink-0 rounded bg-accent-soft px-2 py-0.5 text-xs font-semibold uppercase tracking-wide text-accent-dark">
+                  {brief.data.ticker}
+                </span>
+                <span class="min-w-0 flex-1">
+                  <span class="block truncate text-sm font-semibold text-ink">{brief.data.company}</span>
+                  <span class="block text-xs text-ink-muted">
+                    {brief.data.market} · <time datetime={brief.data.pubDate.toISOString()}>{fmtDate(brief.data.pubDate)}</time>
+                  </span>
+                </span>
+              </a>
+            </li>
+          ))}
+        </ul>
+      </section>
+    )}
 
     <section class="py-12">
       <h2 class="font-display text-2xl font-semibold sm:text-3xl">Explore by pillar</h2>
