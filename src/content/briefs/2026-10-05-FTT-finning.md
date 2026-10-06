@@ -9,6 +9,8 @@ pubDate: 2026-10-05
 price: "CA$112.30"
 change: "+72.77%"
 marketCap: "~CA$14.6B"
+image: "/images/summaries/2026-10-05-ftt-finning.jpg"
+imageAlt: "Finning (FTT) stock analysis thumbnail: +73% — too far? 27x P/E, UK power-rental deal"
 draft: false
 author: "Andrew"
 ---

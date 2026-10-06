@@ -9,6 +9,8 @@ pubDate: 2026-10-03
 price: "CA$44.99"
 change: "-9.11%"
 marketCap: "~CA$23.9B"
+image: "/images/summaries/2026-10-03-rci-rogers-mlse.jpg"
+imageAlt: "Rogers (RCI.A) stock analysis thumbnail: MLSE done? C$4.35B for 100% ownership"
 draft: false
 author: "Andrew"
 ---

@@ -1,0 +1,32 @@
+---
+import { featuredImage, FEATURED_W, FEATURED_H } from '../lib/featured-image';
+
+interface Props {
+  image?: string;
+  alt?: string;
+  sizes: string;
+  hero?: boolean;
+  class?: string;
+}
+
+const { image, alt = '', sizes, hero = false, class: className } = Astro.props;
+const fi = featuredImage(image);
+---
+
+{fi && (
+  <picture>
+    {fi.webpSrcset && <source type="image/webp" srcset={fi.webpSrcset} sizes={sizes} />}
+    <img
+      src={fi.src}
+      srcset={fi.jpgSrcset}
+      sizes={sizes}
+      alt={alt}
+      width={FEATURED_W}
+      height={FEATURED_H}
+      loading={hero ? 'eager' : 'lazy'}
+      decoding={hero ? 'auto' : 'async'}
+      fetchpriority={hero ? 'high' : 'auto'}
+      class:list={['block aspect-video h-auto w-full object-cover', className]}
+    />
+  </picture>
+)}

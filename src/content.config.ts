@@ -15,6 +15,10 @@ const briefs = defineCollection({
     price: z.string().optional(),
     change: z.string().optional(),
     marketCap: z.string().optional(),
+    // Featured image = the post's YouTube thumbnail, web-optimised into public/images/summaries/
+    // (tools/blog_featured_image.py). Root-relative .jpg path; a .webp and -640 variants sit beside it.
+    image: z.string().startsWith('/images/').optional(),
+    imageAlt: z.string().optional(),
     draft: z.boolean().default(false),
   }),
 });

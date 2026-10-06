@@ -1,5 +1,6 @@
 ---
 import type { CollectionEntry } from 'astro:content';
+import FeaturedImage from './FeaturedImage.astro';
 
 interface Props {
   brief: CollectionEntry<'briefs'>;
@@ -14,7 +15,16 @@ const date = brief.data.pubDate.toLocaleDateString('en-CA', {
 });
 ---
 
-<article class="rounded-xl border border-border bg-surface p-5 shadow-sm transition hover:border-accent/40 hover:shadow-md">
+<article class="overflow-hidden rounded-xl border border-border bg-surface p-5 shadow-sm transition hover:border-accent/40 hover:shadow-md">
+  {brief.data.image && (
+    <a href={`/summaries/${brief.id}/`} class="-mx-5 -mt-5 mb-4 block border-b border-border" tabindex="-1" aria-hidden="true">
+      <FeaturedImage
+        image={brief.data.image}
+        alt=""
+        sizes="(min-width: 1024px) 360px, (min-width: 768px) 50vw, 100vw"
+      />
+    </a>
+  )}
   <div class="flex flex-wrap items-center gap-2 text-xs font-medium uppercase tracking-wide text-ink-muted">
     <span class="rounded bg-accent-soft px-2 py-0.5 text-accent-dark">{brief.data.ticker}</span>
     <span>{brief.data.market}</span>

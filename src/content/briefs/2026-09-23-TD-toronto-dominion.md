@@ -9,6 +9,8 @@ pubDate: 2026-09-23
 price: "CA$170.37"
 change: "+59.22%"
 marketCap: "~CA$288B"
+image: "/images/summaries/2026-09-23-td-toronto-dominion.jpg"
+imageAlt: "TD Bank (TD) stock analysis thumbnail: record Q3, CA$4.7B profit and a $13B+ capital return path"
 draft: false
 author: "Andrew"
 ---

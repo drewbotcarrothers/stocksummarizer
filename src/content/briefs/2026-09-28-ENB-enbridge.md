@@ -9,6 +9,8 @@ pubDate: 2026-09-28
 price: "CA$66.99"
 change: "-2.67%"
 marketCap: "~CA$151.9B"
+image: "/images/summaries/2026-09-28-enb-enbridge.jpg"
+imageAlt: "Enbridge (ENB) stock analysis thumbnail: buy the dip? 5.8% yield after the Tallgrass deal"
 draft: false
 author: "Andrew"
 ---

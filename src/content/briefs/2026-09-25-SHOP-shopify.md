@@ -9,6 +9,8 @@ pubDate: 2026-09-25
 price: "CA$205.30"
 change: "-1.81%"
 marketCap: "~CA$264B"
+image: "/images/summaries/2026-09-25-shop-shopify.jpg"
+imageAlt: "Shopify (SHOP) stock analysis thumbnail: AI's checkout? 100x P/E"
 draft: false
 author: "Andrew"
 ---

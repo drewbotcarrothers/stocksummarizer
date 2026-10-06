@@ -3,6 +3,8 @@ import { getCollection, render } from 'astro:content';
 import Layout from '../../layouts/Layout.astro';
 import AdSlot from '../../components/AdSlot.astro';
 import AffiliateCTA from '../../components/AffiliateCTA.astro';
+import FeaturedImage from '../../components/FeaturedImage.astro';
+import { FEATURED_W, FEATURED_H } from '../../lib/featured-image';
 
 export async function getStaticPaths() {
   const briefs = await getCollection('briefs', ({ data }) => !data.draft);
@@ -27,6 +29,10 @@ const date = brief.data.pubDate.toLocaleDateString('en-CA', {
   description={brief.data.description}
   ogType="article"
   canonicalPath={`/summaries/${brief.id}/`}
+  image={brief.data.image}
+  imageAlt={brief.data.imageAlt}
+  imageWidth={brief.data.image ? FEATURED_W : undefined}
+  imageHeight={brief.data.image ? FEATURED_H : undefined}
 >
   <article class="mx-auto max-w-3xl px-4 py-12 sm:px-6">
     <nav class="text-sm text-ink-muted">
@@ -46,6 +52,16 @@ const date = brief.data.pubDate.toLocaleDateString('en-CA', {
       </div>
       <h1 class="mt-4 font-display text-3xl font-bold leading-tight sm:text-4xl">{brief.data.title}</h1>
       <p class="mt-3 text-lg text-ink-muted">{brief.data.description}</p>
+      {brief.data.image && (
+        <figure class="mt-6 overflow-hidden rounded-xl border border-border bg-surface-soft shadow-sm">
+          <FeaturedImage
+            image={brief.data.image}
+            alt={brief.data.imageAlt ?? `${brief.data.company} (${brief.data.ticker}) stock analysis thumbnail`}
+            sizes="(min-width: 768px) 720px, calc(100vw - 2rem)"
+            hero
+          />
+        </figure>
+      )}
       {(brief.data.price || brief.data.marketCap) && (
         <dl class="mt-6 grid gap-3 rounded-lg border border-border bg-surface-soft p-4 text-sm sm:grid-cols-3">
           {brief.data.price && (

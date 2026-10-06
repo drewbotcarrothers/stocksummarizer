@@ -9,6 +9,8 @@ pubDate: 2026-09-27
 price: "CA$54.49"
 change: "+1.49%"
 marketCap: "~CA$15.0B"
+image: "/images/summaries/2026-09-27-x-tmx-group.jpg"
+imageAlt: "TMX Group (X) stock analysis thumbnail: C$2B target? 25x P/E, TM2X on track"
 draft: false
 author: "Andrew"
 ---
