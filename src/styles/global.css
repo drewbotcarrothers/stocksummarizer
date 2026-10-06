@@ -130,6 +130,39 @@
     font-style: normal;
   }
 
+  .prose-brief th[align='right'],
+  .prose-brief td[align='right'] {
+    text-align: right;
+  }
+
+  .prose-brief th[align='center'],
+  .prose-brief td[align='center'] {
+    text-align: center;
+  }
+
+  /* Embedded landscape YouTube video (from rehype-youtube-embed) */
+  .prose-brief .video-embed {
+    @apply my-6;
+  }
+
+  .prose-brief .video-frame {
+    position: relative;
+    aspect-ratio: 16 / 9;
+    @apply overflow-hidden rounded-lg border border-border bg-ink shadow-sm;
+  }
+
+  .prose-brief .video-frame iframe {
+    position: absolute;
+    inset: 0;
+    width: 100%;
+    height: 100%;
+    border: 0;
+  }
+
+  .prose-brief .video-embed figcaption {
+    @apply mt-2 text-sm leading-6 text-ink-muted;
+  }
+
   /* Cheapest-per-column cell (site teal accent) */
   .prose-brief td mark {
     background-color: var(--color-accent-soft);
