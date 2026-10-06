@@ -80,12 +80,33 @@ const fmtDate = (d: Date) =>
                 href={`/summaries/${brief.id}/`}
                 class="flex h-full items-center gap-3 rounded-lg border border-border bg-surface px-4 py-3 no-underline transition hover:border-accent/40 hover:shadow-sm"
               >
-                <span class="shrink-0 rounded bg-accent-soft px-2 py-0.5 text-xs font-semibold uppercase tracking-wide text-accent-dark">
-                  {brief.data.ticker}
-                </span>
+                {brief.data.logo ? (
+                  <span class="flex h-12 w-12 shrink-0 items-center justify-center rounded-lg border border-border bg-white p-1">
+                    <img
+                      src={brief.data.logo}
+                      alt={`${brief.data.company} logo`}
+                      width="40"
+                      height="40"
+                      loading="lazy"
+                      decoding="async"
+                      class="h-full w-full object-contain"
+                    />
+                  </span>
+                ) : (
+                  <span class="shrink-0 rounded bg-accent-soft px-2 py-0.5 text-xs font-semibold uppercase tracking-wide text-accent-dark">
+                    {brief.data.ticker}
+                  </span>
+                )}
                 <span class="min-w-0 flex-1">
-                  <span class="block truncate text-sm font-semibold text-ink">{brief.data.company}</span>
-                  <span class="block text-xs text-ink-muted">
+                  <span class="flex min-w-0 items-center gap-2">
+                    {brief.data.logo && (
+                      <span class="shrink-0 rounded bg-accent-soft px-1.5 py-0.5 text-[11px] font-semibold uppercase leading-none tracking-wide text-accent-dark">
+                        {brief.data.ticker}
+                      </span>
+                    )}
+                    <span class="truncate text-sm font-semibold text-ink">{brief.data.company}</span>
+                  </span>
+                  <span class="mt-0.5 block text-xs text-ink-muted">
                     {brief.data.market} · <time datetime={brief.data.pubDate.toISOString()}>{fmtDate(brief.data.pubDate)}</time>
                   </span>
                 </span>

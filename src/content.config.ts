@@ -19,6 +19,9 @@ const briefs = defineCollection({
     // (tools/blog_featured_image.py). Root-relative .jpg path; a .webp and -640 variants sit beside it.
     image: z.string().startsWith('/images/').optional(),
     imageAlt: z.string().optional(),
+    // Company logo (the one the video used), normalised into public/images/logos/<ticker>.png
+    // (trimmed, fits 96x96, transparent, dark-on-light). Shown on the homepage "All stock summaries" cards.
+    logo: z.string().startsWith('/images/logos/').optional(),
     draft: z.boolean().default(false),
   }),
 });

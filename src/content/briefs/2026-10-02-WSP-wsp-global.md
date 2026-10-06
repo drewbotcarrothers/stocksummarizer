@@ -11,6 +11,7 @@ change: "-34.32%"
 marketCap: "~CA$24.2B"
 image: "/images/summaries/2026-10-02-wsp-wsp-global.jpg"
 imageAlt: "WSP Global (WSP) stock analysis thumbnail: energy deal? 26x P/E, ~600 pros joining in Q4"
+logo: "/images/logos/wsp.png"
 draft: false
 author: "Andrew"
 ---

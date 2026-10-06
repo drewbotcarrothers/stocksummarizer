@@ -11,6 +11,7 @@ change: "+2.51%"
 marketCap: "~CA$54.3B"
 image: "/images/summaries/2026-09-26-cco-cameco.jpg"
 imageAlt: "Cameco (CCO) stock analysis thumbnail: IPO windfall? 153x P/E, 49% of Westinghouse"
+logo: "/images/logos/cco.png"
 draft: false
 author: "Andrew"
 ---

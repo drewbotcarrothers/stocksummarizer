@@ -11,6 +11,7 @@ change: "+37.87%"
 marketCap: "~CA$60.6B"
 image: "/images/summaries/2026-09-12-cls-celestica.jpg"
 imageAlt: "Celestica (CLS) stock analysis thumbnail: AI run too hot? 36x P/E, +38% in 12 months"
+logo: "/images/logos/cls.png"
 draft: false
 author: "Andrew"
 ---

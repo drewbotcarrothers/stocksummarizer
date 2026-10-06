@@ -11,6 +11,7 @@ change: "+14.47%"
 marketCap: "~CA$84.3B"
 image: "/images/summaries/2026-10-01-trp-tc-energy.jpg"
 imageAlt: "TC Energy (TRP) stock analysis thumbnail: C$560M pivot? 4.2% yield, Mexico pipeline sale"
+logo: "/images/logos/trp.png"
 draft: false
 author: "Andrew"
 ---

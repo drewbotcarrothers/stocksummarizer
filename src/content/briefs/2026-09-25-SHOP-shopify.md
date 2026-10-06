@@ -11,6 +11,7 @@ change: "-1.81%"
 marketCap: "~CA$264B"
 image: "/images/summaries/2026-09-25-shop-shopify.jpg"
 imageAlt: "Shopify (SHOP) stock analysis thumbnail: AI's checkout? 100x P/E"
+logo: "/images/logos/shop.png"
 draft: false
 author: "Andrew"
 ---

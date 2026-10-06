@@ -11,6 +11,7 @@ change: "+55.95%"
 marketCap: "~CA$8.12B"
 image: "/images/summaries/2026-09-29-ac-air-canada.jpg"
 imageAlt: "Air Canada (AC) stock analysis thumbnail: cheap now? $800M buyback, bought back at $29"
+logo: "/images/logos/ac.png"
 draft: false
 author: "Andrew"
 ---
