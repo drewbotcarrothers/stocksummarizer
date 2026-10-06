@@ -19,8 +19,6 @@ author: "Andrew"
 
 Quick version: [60-second Short](https://youtube.com/shorts/QnzWsGqOyJs)
 
-This post follows the video section by section and adds the full peer tables from the TSX screener, so you can check every number yourself.
-
 ---
 
 ## The short version: record high, growth multiple
