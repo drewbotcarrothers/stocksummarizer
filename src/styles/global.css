@@ -111,12 +111,12 @@
 
   /* Focus stock row (first cell = only a <strong>) */
   .prose-brief tbody tr:has(> td:first-child > strong:only-child) td {
-    background-color: #fde8e8;
+    background-color: #f0fdfa;
     @apply font-semibold;
   }
 
   .prose-brief tbody tr:has(> td:first-child > strong:only-child) td:first-child {
-    box-shadow: inset 4px 0 0 var(--color-danger);
+    box-shadow: inset 4px 0 0 var(--color-accent);
   }
 
   /* Average row (first cell = only an <em>) */
@@ -130,13 +130,14 @@
     font-style: normal;
   }
 
-  /* Cheapest-per-column cell (video's yellow highlight) */
+  /* Cheapest-per-column cell (site teal accent) */
   .prose-brief td mark {
-    background-color: #fef3c7;
-    color: inherit;
+    background-color: var(--color-accent-soft);
+    color: var(--color-accent-dark);
+    font-weight: 600;
     border-radius: 0.25rem;
     padding: 0.05rem 0.3rem;
-    box-shadow: inset 0 0 0 1px #dc2626;
+    box-shadow: inset 0 0 0 1px var(--color-accent);
   }
 
   /* Table caption line: an italic-only paragraph right after a table */
