@@ -96,5 +96,3 @@ The old TD story was cleanup / remediation overhang and a softer U.S. print. The
 ---
 
 **Sources:** TD Q3 2026 results (company / newswire, Aug 27, 2026); earnings call commentary on >CA$13B FY27 capital return & ~100 U.S. branches; MarketBeat / stockanalysis peer targets (pulled 2026-09-23); TSX merge `tsx-2026-09-18.csv`.
-
-**Disclaimer:** Educational only — **not financial advice**. Do your own research.

@@ -199,6 +199,4 @@ Table figures are TSX screener values (merge `tsx-2026-10-03.csv`, 3,455 rows; O
 
 Wikimedia Commons: Finning logo (*File:Finning.svg*, public domain); "Caterpillar Diesel Generators" by Bryansfiles (CC BY-SA 3.0); "Finning-Caterpillar at Desford" by Colin Hoskins (CC BY-SA 2.0); "Finning Cat at Ynysmaerdy" by Mick Lobb (CC BY-SA 2.0); "CAT 797 SDB BHPBilliton Escondida Chile" by Duratray (CC BY-SA 4.0). No AI-generated images were used.
 
-Educational only — not financial advice. Do your own research.
-
 By **Andrew** · [stocksummarizer.com](https://stocksummarizer.com)

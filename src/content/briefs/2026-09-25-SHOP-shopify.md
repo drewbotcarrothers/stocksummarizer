@@ -101,5 +101,3 @@ The old worry: AI agents would route shoppers around Shopify. The new story: Sho
 ---
 
 **Sources:** Shopify Q2 2026 results (company release / SEC filing, Aug 5, 2026); Meta–Shopify agentic checkout coverage (PYMNTS, Sep 22, 2026; IBTimes and Retail Insight Network, Sep 23, 2026); Shopify Changelog (Sep 8, 2026); Google AI Mode checkout reporting (PPC Land, Sep 2026); Form 144 filing summary (Sep 4, 2026); S&P Global consensus via stockanalysis.com and MarketBeat TSX forecasts (pulled Sep 25, 2026); TSX screener (September 25, 2026).
-
-**Disclaimer:** Educational only — **not financial advice**. Do your own research.

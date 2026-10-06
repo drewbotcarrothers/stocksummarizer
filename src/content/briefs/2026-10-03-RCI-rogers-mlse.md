@@ -63,6 +63,4 @@ Street consensus on the more liquid **Class B** listing averages about **C$59.31
 
 Rogers logo: Wikimedia Commons (*File:Rogers logo.svg*). Photos: Scotiabank Arena Exterior; Scotiabank Arena summer 2022; ON - Rogers Centre Toronto; Toronto CN Tower skyline; Newer and heritage elements of Rogers Building (Wikimedia Commons; licences per file pages).
 
-Educational only — not financial advice. Do your own research.
-
 By **Andrew** · [stocksummarizer.com](https://stocksummarizer.com)

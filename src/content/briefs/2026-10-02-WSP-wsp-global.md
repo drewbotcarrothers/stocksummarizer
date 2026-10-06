@@ -80,5 +80,3 @@ The old story: a premium global engineering consultant that had already sold off
 **Media credits:** WSP logo via Wikimedia Commons (*File:WSP logo red.png*, public domain). Photos: Mica Dam spillway; Canada Sugar Refinery Montreal REDPATH; Hydroelectric dam and generating buildings in winter (Wikimedia Commons). Licences per Commons file pages. No AI-generated backgrounds in this cut.
 
 **Sources:** WSP news release (October 1, 2026); GlobeNewswire same day; TSX screener merge `tsx-2026-09-25.csv` (929 rows); S&P Global consensus via stockanalysis.com (pulled October 2, 2026). Friday October 2 / September 26+ screener refresh was not found — tables use the September 25 merge.
-
-**Disclaimer:** Educational only — not financial advice. Do your own research.

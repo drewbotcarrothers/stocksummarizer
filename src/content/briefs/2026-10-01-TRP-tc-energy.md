@@ -79,5 +79,3 @@ The old story: a steady Canadian gas midstream with Mexico exposure and a mid-fo
 **Media credits:** TC Energy logo via Wikimedia Commons (*File:TC Energy Logo May 2019.svg*). Photos: Panmure Alvar 2; Trans Canada Keystone Oil Pipeline; Natural Gas Pipeline Station; Gasoducto junto a la B-145 (Wikimedia Commons). Licences per Commons file pages.
 
 **Sources:** TC Energy news release (September 21, 2026); TSX screener merge `tsx-2026-09-25.csv` (929 rows); S&P Global consensus via stockanalysis.com (pulled October 1, 2026). Friday September 26 screener refresh was not found — tables use the September 25 merge.
-
-**Disclaimer:** Educational only — not financial advice. Do your own research.

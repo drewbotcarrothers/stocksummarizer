@@ -76,5 +76,3 @@ The old story: a steady Canadian utility-style pipeline with a growing dividend.
 ---
 
 **Media credits:** Enbridge logo via Wikipedia (*Enbridge Inc, Logo 2022.svg*). Photos: TransCanada Keystone Oil Pipeline; Enbridge Tower Edmonton; Enbridge Tower; Oil Siphon (Wikimedia Commons).
-
-*Educational only — not financial advice. Do your own research.*

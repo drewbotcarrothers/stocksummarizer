@@ -77,5 +77,3 @@ The old story: a leveraged airline rebuilding after the pandemic. The new story:
 ---
 
 **Media credits:** Air Canada logo via Flickr public domain mark (*air-canada-logo-592x300*). Photos: airplane takeoff (StockSnap CC0); Air Canada Executive First cabin (Flickr CC BY-SA); Victoria–Vancouver seaplane (Flickr CC0); aerial looking-down (Flickr CC BY).
-
-*Educational only — not financial advice. Do your own research.*

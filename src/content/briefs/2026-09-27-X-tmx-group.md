@@ -72,7 +72,3 @@ The old story: Canada's exchange utility. The new story: a global market-infrast
 2. SEC approval on BOX + MEMX.
 3. TMX third-quarter results (Yahoo lists October 26, 2026).
 4. Whether recurring and international revenue mix keep climbing toward the aspirational targets.
-
----
-
-*Educational only — not financial advice. Do your own research.*

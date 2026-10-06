@@ -63,5 +63,3 @@ Balance sheet is workable for a grower: debt-to-equity ~**0.40**, current ratio 
 ---
 
 **Source:** TradingView TSX Screen category exports merged as `tsx-2026-09-12.csv` (overview, performance, technicals, forecasts, valuation, profitability, income statement, balance sheet, cash flow, per share).
-
-**Not financial advice.** Educational summary only — do your own research.

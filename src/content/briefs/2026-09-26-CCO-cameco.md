@@ -96,5 +96,3 @@ The old story: a uranium miner riding the price of U3O8. The new story: a nuclea
 ---
 
 **Sources:** Bloomberg report on the Westinghouse IPO (September 18, 2026) via IPO Watch (September 19) and The Northern Miner (September 21); Cameco release on Westinghouse's confidential draft registration (July 31, 2026); World Nuclear News (September 16, 2026) and ANS Nuclear Newswire (September 22, 2026) on the Global Laser Enrichment offtake; Cameco Q2 2026 results (July 31, 2026); The Globe and Mail on Cameco's dividend outlook; MarketBeat TSX analyst forecasts (pulled September 26, 2026); TSX screener (September 25, 2026).
-
-**Disclaimer:** Educational only — **not financial advice**. Do your own research.
