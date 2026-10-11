@@ -18,9 +18,9 @@ author: "Andrew"
 
 ## Watch the video
 
-[Watch on YouTube](https://youtu.be/GdB4HM3zquI) — StockSummarizer landscape briefing: *Cogeco Hits a 52-Week Low: 7.5% Yield at 6x Free Cash Flow — Value or Trap? (CCA)*
+[Watch on YouTube](https://youtu.be/2W4YyYnEHWw) — StockSummarizer landscape briefing: *Cogeco Hits a 52-Week Low: 7.5% Yield at 6x Free Cash Flow — Value or Trap? (CCA)*
 
-Quick version: [60-second Short](https://youtube.com/shorts/ScYqDQbxeYs)
+Quick version: [60-second Short](https://youtube.com/shorts/jdU_xkstkk4)
 
 ---
 
