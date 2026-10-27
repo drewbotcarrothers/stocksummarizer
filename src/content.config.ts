@@ -36,8 +36,11 @@ const sectors = defineCollection({
     thesis: z.string(),
     updatedDate: z.coerce.date(),
     screenerDate: z.coerce.date(),
+    // Featured image under public/images/sectors/<slug>.jpg, with .webp and -640
+    // siblings (same 1280×720 / 640×360 contract as summary thumbnails).
     image: z.string().startsWith('/images/').optional(),
     imageAlt: z.string().optional(),
+    imageCredit: z.string().optional(),
     draft: z.boolean().default(false),
     author: z.string().default('Andrew'),
   }),
