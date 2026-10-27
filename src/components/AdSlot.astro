@@ -4,6 +4,12 @@ interface Props {
   size?: 'leaderboard' | 'rectangle' | 'inline';
 }
 
+/**
+ * Placeholder boxes stay off until real ad inventory is ready.
+ * Set PUBLIC_ADS_ENABLED=true at build time to show slots again.
+ */
+const adsEnabled = import.meta.env.PUBLIC_ADS_ENABLED === 'true';
+
 const { label = 'Advertisement', size = 'leaderboard' } = Astro.props;
 
 const sizeClass =
@@ -14,14 +20,18 @@ const sizeClass =
       : 'min-h-[90px] md:min-h-[100px]';
 ---
 
-<aside
-  class:list={[
-    'my-8 flex w-full flex-col items-center justify-center rounded-lg border border-dashed border-border bg-surface-soft px-4 py-6 text-center',
-    sizeClass,
-  ]}
-  aria-label={label}
-  data-ad-slot={size}
->
-  <p class="text-[11px] font-semibold uppercase tracking-wider text-ink-muted">{label}</p>
-  <p class="mt-1 text-sm text-ink-muted">Ad slot placeholder · {size}</p>
-</aside>
+{
+  adsEnabled && (
+    <aside
+      class:list={[
+        'my-8 flex w-full flex-col items-center justify-center rounded-lg border border-dashed border-border bg-surface-soft px-4 py-6 text-center',
+        sizeClass,
+      ]}
+      aria-label={label}
+      data-ad-slot={size}
+    >
+      <p class="text-[11px] font-semibold uppercase tracking-wider text-ink-muted">{label}</p>
+      <p class="mt-1 text-sm text-ink-muted">Ad slot placeholder · {size}</p>
+    </aside>
+  )
+}
