@@ -26,4 +26,21 @@ const briefs = defineCollection({
   }),
 });
 
-export const collections = { briefs };
+/** Living sector deep-dives at /sectors/<slug>/ (Andrew format lock 2026-10-27). */
+const sectors = defineCollection({
+  loader: glob({ base: './src/content/sectors', pattern: '**/*.{md,mdx}' }),
+  schema: z.object({
+    title: z.string(),
+    description: z.string(),
+    sector: z.string(),
+    thesis: z.string(),
+    updatedDate: z.coerce.date(),
+    screenerDate: z.coerce.date(),
+    image: z.string().startsWith('/images/').optional(),
+    imageAlt: z.string().optional(),
+    draft: z.boolean().default(false),
+    author: z.string().default('Andrew'),
+  }),
+});
+
+export const collections = { briefs, sectors };
