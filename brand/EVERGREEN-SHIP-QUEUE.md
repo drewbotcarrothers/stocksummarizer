@@ -5,7 +5,7 @@
 **Cadence:** **12 posts/day** including weekends (volume reason: clear Wave 1 + High monetization unlocks in ~30 days at quality). ~48/day long-form is not quality-safe; glossary spokes may occasionally lift a day to 15–18.
 **Schedule window:** routine fires **09:50 America/Toronto** daily (avoids 5am video, 7:19 publish, 2:13 IG, 5:30 market wrap).
 **Monetization overlay:** prioritize broker/tools affiliates, pathway/ebook hubs, glossary/sector AdSense spokes; soft CTAs only; CJ promo CID 6417125 / PID 101912042.
-**Brand locks:** byline Andrew; NFA; Wikimedia/CC images never AI; stock/sector/market-adjacent only.
+**Brand locks:** byline Andrew; NFA; Wikimedia/CC images never AI; stock/sector/market-adjacent only; enrich posts with tables, charts, and diagrams where relevant (not decoration).
 **Plan Page:** https://cursor.com/canvas/store-77c8f6e6-1b37-4391-8df2-54a6ecc653ca/e4a55048-2b93-4c56-93df-e460b7723bae
 
 ## Progress
