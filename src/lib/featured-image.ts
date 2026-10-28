@@ -1,7 +1,7 @@
 // Featured image helpers. A post's `image` frontmatter is a root-relative JPEG under
-// /images/summaries/ (written by /workspace/stocksummarizer/tools/blog_featured_image.py)
-// or /images/sectors/ for sector deep-dives. Sibling variants: <id>.webp (1280x720)
-// and <id>-640.jpg / <id>-640.webp (640x360).
+// /images/summaries/ (written by /workspace/stocksummarizer/tools/blog_featured_image.py),
+// /images/sectors/ for sector deep-dives, or /images/market-wrap/ for daily wraps.
+// Sibling variants: <id>.webp (1280x720) and <id>-640.jpg / <id>-640.webp (640x360).
 import { existsSync } from 'node:fs';
 import { join } from 'node:path';
 

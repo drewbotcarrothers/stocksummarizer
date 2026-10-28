@@ -46,4 +46,25 @@ const sectors = defineCollection({
   }),
 });
 
-export const collections = { briefs, sectors };
+/** Daily Canadian/TSX session notes at /market-wrap/<id>/. */
+const marketWrap = defineCollection({
+  loader: glob({ base: './src/content/market-wrap', pattern: '**/*.{md,mdx}' }),
+  schema: z.object({
+    title: z.string(),
+    description: z.string(),
+    pubDate: z.coerce.date(),
+    sessionLabel: z.string(),
+    tsxClose: z.string(),
+    tsxChange: z.string(),
+    // Required on every published wrap (Andrew, 2026-10-28). Root-relative JPEG
+    // under public/images/market-wrap/, with .webp and -640 siblings (same
+    // 1280×720 / 640×360 contract as summary and sector thumbnails).
+    image: z.string().startsWith('/images/'),
+    imageAlt: z.string().min(1),
+    imageCredit: z.string().min(1),
+    draft: z.boolean().default(false),
+    author: z.string().default('Andrew'),
+  }),
+});
+
+export const collections = { briefs, sectors, marketWrap };

@@ -78,7 +78,8 @@ After the first successful deploy on any host:
 | `/summaries/` | Stock summaries index |
 | `/summaries/[id]/` | Individual brief |
 | `/sectors/` | Sector Snapshots (placeholder) |
-| `/market-wrap/` | Market Wrap (placeholder) |
+| `/market-wrap/` | Market Wrap index |
+| `/market-wrap/[id]/` | Individual market wrap |
 | `/investing/` | Investing Literacy (placeholder) |
 | `/ebooks/` | Ebooks & Guides |
 | `/about/` | About |
