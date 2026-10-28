@@ -1,0 +1,119 @@
+---
+import { getCollection, render } from 'astro:content';
+import Layout from '../../../layouts/Layout.astro';
+import AdSlot from '../../../components/AdSlot.astro';
+import AffiliateCTA from '../../../components/AffiliateCTA.astro';
+import FeaturedImage from '../../../components/FeaturedImage.astro';
+import { FEATURED_W, FEATURED_H } from '../../../lib/featured-image';
+import { categoryBySlug, splitInvestingId } from '../../../lib/investing-categories';
+
+export async function getStaticPaths() {
+  const posts = await getCollection('investing', ({ data }) => !data.draft);
+  return posts.map((post) => {
+    const { category, slug } = splitInvestingId(post.id);
+    return {
+      params: { category, slug },
+      props: { post },
+    };
+  });
+}
+
+const { post } = Astro.props;
+const { Content } = await render(post);
+const { category, slug } = splitInvestingId(post.id);
+const meta = categoryBySlug(category);
+const published = post.data.pubDate.toLocaleDateString('en-CA', {
+  year: 'numeric',
+  month: 'long',
+  day: 'numeric',
+  timeZone: 'UTC',
+});
+const showAffiliate =
+  post.data.monetization === 'affiliate' ||
+  post.data.monetization === 'mixed' ||
+  category === 'brokers-tools' ||
+  category === 'pathways';
+---
+
+<Layout
+  title={post.data.title}
+  description={post.data.description}
+  ogType="article"
+  canonicalPath={`/investing/${category}/${slug}/`}
+  image={post.data.image}
+  imageAlt={post.data.imageAlt}
+  imageWidth={post.data.image ? FEATURED_W : undefined}
+  imageHeight={post.data.image ? FEATURED_H : undefined}
+>
+  <article class="mx-auto max-w-3xl px-4 py-12 sm:px-6">
+    <nav class="text-sm text-ink-muted">
+      <a href="/investing/" class="no-underline hover:text-accent-dark">Investing Literacy</a>
+      <span class="mx-2" aria-hidden="true">/</span>
+      <a href={`/investing/${category}/`} class="no-underline hover:text-accent-dark">{meta?.name ?? category}</a>
+      <span class="mx-2" aria-hidden="true">/</span>
+      <span class="line-clamp-1">{post.data.title}</span>
+    </nav>
+
+    <header class="mt-4 border-b border-border pb-8">
+      <div class="flex flex-wrap items-center gap-2 text-xs font-medium uppercase tracking-wide text-ink-muted">
+        <span class="rounded bg-accent-soft px-2 py-0.5 text-accent-dark">{meta?.name ?? category}</span>
+        {post.data.role === 'Hub' && <span class="rounded bg-surface-soft px-2 py-0.5">Hub</span>}
+        <span>Published <time datetime={post.data.pubDate.toISOString()}>{published}</time></span>
+        <span aria-hidden="true">·</span>
+        <span>By Andrew</span>
+      </div>
+      <h1 class="mt-4 font-display text-3xl font-bold leading-tight sm:text-4xl">{post.data.title}</h1>
+      <p class="mt-3 text-lg text-ink-muted">{post.data.description}</p>
+      {post.data.image && (
+        <figure class="mt-6 overflow-hidden rounded-xl border border-border bg-surface-soft shadow-sm">
+          <FeaturedImage
+            image={post.data.image}
+            alt={post.data.imageAlt ?? post.data.title}
+            sizes="(min-width: 768px) 720px, calc(100vw - 2rem)"
+            hero
+          />
+          {post.data.imageCredit && (
+            <figcaption class="px-4 py-2 text-xs leading-5 text-ink-muted">{post.data.imageCredit}</figcaption>
+          )}
+        </figure>
+      )}
+    </header>
+
+    <AdSlot size="inline" />
+
+    <div class="prose-brief">
+      <Content />
+    </div>
+
+    {showAffiliate && (
+      <AffiliateCTA
+        title="Brokers and tools for DIY stock research"
+        body="When we mention discount brokers, screeners, or charting platforms, we may earn a commission from disclosed partners. That never changes what we cover — clarity first. Soft ebook guides are coming; free literacy stays free."
+        ctaLabel="See disclosed partners"
+        href="/disclosures/#affiliates"
+      />
+    )}
+
+    {(post.data.monetization === 'ebook' || post.data.monetization === 'mixed' || category === 'pathways' || category === 'valuation' || category === 'analyze') && (
+      <section class="my-10 rounded-xl border border-border bg-surface-soft p-6 sm:p-8">
+        <p class="text-xs font-semibold uppercase tracking-wider text-accent-dark">Guides · coming soon</p>
+        <h2 class="mt-2 font-display text-xl font-semibold text-ink sm:text-2xl">Want the playbook in one place?</h2>
+        <p class="mt-2 max-w-2xl text-sm leading-6 text-ink-muted sm:text-base">
+          We are compiling free literacy hubs into paid ebook playbooks (Research, Valuation without fake precision, Dividend safety). Soft launch only for now — keep using these free guides, and browse <a href="/ebooks/">ebooks</a> when a guide ships.
+        </p>
+        <a href="/ebooks/" class="mt-4 inline-flex items-center rounded-md border border-accent px-4 py-2.5 text-sm font-semibold text-accent-dark no-underline hover:bg-accent-soft">
+          Preview ebook shelf
+        </a>
+      </section>
+    )}
+
+    <p class="mt-8 rounded-lg border border-border bg-surface-soft p-4 text-sm text-ink-muted">
+      <strong class="text-ink">Educational only — not financial advice.</strong> Do your own research.
+      See our <a href="/disclosures/">disclosures</a>.
+    </p>
+
+    <p class="mt-6 text-sm text-ink-muted">
+      By <strong class="text-ink">Andrew</strong> · <a href="https://stocksummarizer.com">stocksummarizer.com</a>
+    </p>
+  </article>
+</Layout>

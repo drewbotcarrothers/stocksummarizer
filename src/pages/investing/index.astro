@@ -1,21 +1,80 @@
 ---
+import { getCollection } from 'astro:content';
 import Layout from '../../layouts/Layout.astro';
 import AdSlot from '../../components/AdSlot.astro';
+import { INVESTING_CATEGORIES } from '../../lib/investing-categories';
+import { splitInvestingId } from '../../lib/investing-categories';
+
+const posts = (await getCollection('investing', ({ data }) => !data.draft)).sort(
+  (a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf()
+);
+
+const counts = Object.fromEntries(
+  INVESTING_CATEGORIES.map((c) => [
+    c.slug,
+    posts.filter((p) => splitInvestingId(p.id).category === c.slug || p.data.category === c.slug).length,
+  ])
+);
 ---
 
 <Layout
   title="Investing Literacy"
-  description="How to read earnings, multiples, and the language of markets — without the gatekeeping."
+  description="How to research TSX stocks, read multiples, place dividends in the right account, and build a DIY process — without becoming a personal-finance clone."
 >
-  <div class="mx-auto max-w-3xl px-4 py-12 sm:px-6">
+  <div class="mx-auto max-w-6xl px-4 py-12 sm:px-6">
     <p class="text-sm font-semibold uppercase tracking-wider text-accent-dark">Content pillar</p>
     <h1 class="mt-2 font-display text-4xl font-bold">Investing Literacy</h1>
-    <p class="mt-3 text-lg text-ink-muted">How to read earnings, multiples, and the language of markets — without the gatekeeping.</p>
+    <p class="mt-3 max-w-3xl text-lg text-ink-muted">
+      Plain-English hubs for Canadian DIY stock investors: research process, valuation, dividends, accounts, brokers, and a metrics glossary that feeds our stock briefs and sector pages.
+    </p>
     <AdSlot size="leaderboard" />
-    <div class="rounded-xl border border-dashed border-border bg-surface-soft p-8 text-center">
-      <p class="font-medium text-ink">Placeholder</p>
-      <p class="mt-2 text-sm text-ink-muted">Literacy guides are coming soon. Free briefs stay free; ebooks will go deeper.</p>
-      <a href="/summaries/" class="mt-4 inline-block text-sm font-semibold text-accent-dark">Browse stock summaries</a>
-    </div>
+
+    <ul class="mt-8 grid gap-5 sm:grid-cols-2 lg:grid-cols-3">
+      {INVESTING_CATEGORIES.map((c) => (
+        <li>
+          <a
+            href={`/investing/${c.slug}/`}
+            class="flex h-full flex-col rounded-xl border border-border bg-surface p-5 no-underline shadow-sm transition hover:border-accent-dark/40 hover:shadow-md"
+          >
+            <div class="flex flex-wrap items-center gap-2">
+              <h2 class="font-display text-lg font-semibold text-ink">{c.name}</h2>
+              <span class="rounded bg-accent-soft px-2 py-0.5 text-xs font-medium uppercase tracking-wide text-accent-dark">
+                {c.priority}
+              </span>
+            </div>
+            <p class="mt-2 flex-1 text-sm leading-relaxed text-ink-muted">{c.blurb}</p>
+            <p class="mt-3 text-sm font-semibold text-accent-dark">
+              {counts[c.slug] ? `${counts[c.slug]} guide${counts[c.slug] === 1 ? '' : 's'} →` : 'Coming soon →'}
+            </p>
+          </a>
+        </li>
+      ))}
+    </ul>
+
+    {posts.length > 0 && (
+      <section class="mt-14">
+        <h2 class="font-display text-2xl font-bold text-ink">Latest literacy guides</h2>
+        <ul class="mt-4 divide-y divide-border rounded-xl border border-border bg-surface">
+          {posts.slice(0, 12).map((p) => {
+            const { category, slug } = splitInvestingId(p.id);
+            return (
+              <li>
+                <a
+                  href={`/investing/${category}/${slug}/`}
+                  class="flex flex-col gap-1 px-5 py-4 no-underline hover:bg-surface-soft sm:flex-row sm:items-center sm:justify-between"
+                >
+                  <span class="font-medium text-ink">{p.data.title}</span>
+                  <span class="text-xs font-medium uppercase tracking-wide text-ink-muted">{category}</span>
+                </a>
+              </li>
+            );
+          })}
+        </ul>
+      </section>
+    )}
+
+    <p class="mt-10 rounded-lg border border-border bg-surface-soft p-4 text-sm text-ink-muted">
+      <strong class="text-ink">Educational only — not financial advice.</strong> StockSummarizer stays focused on stocks, sectors, and market literacy. See our <a href="/disclosures/">disclosures</a>.
+    </p>
   </div>
 </Layout>

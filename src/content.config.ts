@@ -67,4 +67,40 @@ const marketWrap = defineCollection({
   }),
 });
 
-export const collections = { briefs, sectors, marketWrap };
+/**
+ * Investing Literacy evergreen posts at /investing/<category>/<slug>/
+ * (Andrew evergreen plan 2026-10-28). Nested under src/content/investing/<category>/.
+ */
+const investing = defineCollection({
+  loader: glob({ base: './src/content/investing', pattern: '**/*.{md,mdx}' }),
+  schema: z.object({
+    title: z.string(),
+    description: z.string(),
+    category: z.enum([
+      'analyze',
+      'valuation',
+      'dividends',
+      'indexes-etfs',
+      'sectors',
+      'process',
+      'accounts',
+      'brokers-tools',
+      'glossary',
+      'primers',
+      'pathways',
+      'frameworks',
+    ]),
+    role: z.enum(['Hub', 'Spoke']).default('Spoke'),
+    pubDate: z.coerce.date(),
+    updatedDate: z.coerce.date().optional(),
+    image: z.string().startsWith('/images/').optional(),
+    imageAlt: z.string().optional(),
+    imageCredit: z.string().optional(),
+    draft: z.boolean().default(false),
+    author: z.string().default('Andrew'),
+    /** Soft monetization hint for editorial (not rendered as UI chrome). */
+    monetization: z.enum(['affiliate', 'ebook', 'ads', 'mixed']).optional(),
+  }),
+});
+
+export const collections = { briefs, sectors, marketWrap, investing };
