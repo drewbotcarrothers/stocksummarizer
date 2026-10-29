@@ -12,9 +12,10 @@
 
 | Metric | Value |
 |:--|--:|
-| Live (Batch 1) | 12 |
-| Remaining Wave 1 tracked below | 81 |
-| Remaining full bank (ex-Batch 1) | 1425 |
+| Live (Batch 1 + Batch 2) | 24 |
+| Remaining Wave 1 tracked below | 69 |
+| Remaining full bank (ex-Batches 1–2) | 1413 |
+| Last shipped | Batch 2 — 2026-10-29 (commit eacfc84) |
 | Target daily batch | 12 |
 | Day 30 calendar end | 2026-11-26 |
 
@@ -35,13 +36,32 @@
 | 11 | accounts | TFSA for Stock Investors: What Changes vs ETF-Only Holders | https://stocksummarizer.com/investing/accounts/tfsa-for-stock-investors/ |
 | 12 | process | Position Sizing for DIY Stock Pickers (Canada Context) | https://stocksummarizer.com/investing/process/position-sizing-diy-stock-pickers/ |
 
+## Batch 2 — SHIPPED 2026-10-29 (analyze + valuation core)
+
+| # | Category | Title | URL |
+|--:|:--|:--|:--|
+| 1 | analyze | How to Read an MD&A Like a DIY Investor | https://stocksummarizer.com/investing/analyze/how-to-read-mdna/ |
+| 2 | analyze | How to Read an Annual Information Form (AIF) for Stock Analysis | https://stocksummarizer.com/investing/analyze/how-to-read-annual-information-form/ |
+| 3 | analyze | How to Read Quarterly Earnings for TSX Companies | https://stocksummarizer.com/investing/analyze/how-to-read-quarterly-earnings-tsx/ |
+| 4 | analyze | How to Read an Earnings Call Transcript (What Matters, What Doesn't) | https://stocksummarizer.com/investing/analyze/how-to-read-earnings-call-transcript/ |
+| 5 | analyze | How to Build a Simple Stock Brief Template (Bull / Bear / Watch) | https://stocksummarizer.com/investing/analyze/stock-brief-template-bull-bear-watch/ |
+| 6 | analyze | How to Compare Two TSX Peers Side by Side | https://stocksummarizer.com/investing/analyze/compare-two-tsx-peers/ |
+| 7 | analyze | How to Analyze Free Cash Flow for Stock Decisions | https://stocksummarizer.com/investing/analyze/free-cash-flow-analysis/ |
+| 8 | analyze | How to Read Non-GAAP Metrics Critically (Adjusted EBITDA and Friends) | https://stocksummarizer.com/investing/analyze/read-non-gaap-metrics-critically/ |
+| 9 | valuation | What EV/EBITDA Means for Canadian DIY Investors | https://stocksummarizer.com/investing/valuation/ev-ebitda-for-canadian-diy-investors/ |
+| 10 | valuation | What P/FCF Means for Canadian DIY Investors | https://stocksummarizer.com/investing/valuation/what-p-fcf-means-canadian-diy/ |
+| 11 | valuation | How to Build a Simple DCF Without Fake Precision | https://stocksummarizer.com/investing/valuation/simple-dcf-without-fake-precision/ |
+| 12 | valuation | Valuation for Banks: P/B, ROE, and Why P/E Alone Fails | https://stocksummarizer.com/investing/valuation/valuing-canadian-banks-pb-roe/ |
+
+Enrichment: every post has markdown tables plus at least one inline SVG diagram/chart (`figure.diagram`, styles in `src/styles/global.css`); worked examples are labelled hypothetical. Featured images: new Wikimedia/CC photos under `/images/investing/<slug>.jpg` (+webp/-640), none reused; full attribution in each post's Media credits.
+
 ## Upcoming batches (Wave 1 remainder first)
 
 Routine agent: take the next **12** `queued` rows, write to Astro standards, commit+push `main`, mark `shipped`, update this file + plan Page checklist, report in StockSummarizer chat. Pause/self-delete after day 30 **or** when queue empty — if titles remain after day 30, report remaining count and pause for Andrew direction.
 
 | Day | Date | Status | Titles (take in order) |
 |--:|:--|:--|:--|
-| 2 | 2026-10-29 | queued | How to Read an MD&A Like a DIY Investor; How to Read an Annual Information Form (AIF) for Stock Analysis; How to Read Quarterly Earnings for TSX Companies; How to Read an Earnings Call Transcript (What Matters, What Doesn't); How to Build a Simple Stock Brief Template (Bull / Bear / Watch); How to Compare Two TSX Peers Side by Side; How to Analyze Free Cash Flow for Stock Decisions; How to Read Non-GAAP Metrics Critically (Adjusted EBITDA and Friends); What EV/EBITDA Means for Canadian DIY Investors; What P/FCF Means for Canadian DIY Investors; How to Build a Simple DCF Without Fake Precision; Valuation for Banks: P/B, ROE, and Why P/E Alone Fails |
+| 2 | 2026-10-29 | **shipped 2026-10-29** (Batch 2) | How to Read an MD&A Like a DIY Investor; How to Read an Annual Information Form (AIF) for Stock Analysis; How to Read Quarterly Earnings for TSX Companies; How to Read an Earnings Call Transcript (What Matters, What Doesn't); How to Build a Simple Stock Brief Template (Bull / Bear / Watch); How to Compare Two TSX Peers Side by Side; How to Analyze Free Cash Flow for Stock Decisions; How to Read Non-GAAP Metrics Critically (Adjusted EBITDA and Friends); What EV/EBITDA Means for Canadian DIY Investors; What P/FCF Means for Canadian DIY Investors; How to Build a Simple DCF Without Fake Precision; Valuation for Banks: P/B, ROE, and Why P/E Alone Fails |
 | 3 | 2026-10-30 | queued | Valuation for REITs: NAV, FFO, AFFO Explained for Canadians; How to Compare a TSX Stock to Its US Peer Fairly; Triangulating Multiples, DCF, and Peer Checks; When P/E Misleads on TSX Stocks; Why Yield Alone Is a Terrible Stock Screen; Free Cash Flow Coverage of Dividends: The Better Safety Check; Canadian Dividend Aristocrats Explained (Rules, Not Marketing); Withholding Tax on US Dividends: TFSA vs RRSP vs Taxable; Eligible Dividends vs Ordinary Dividends: Investor Framing; How to Avoid Dividend Traps on the TSX; Payout Ratio Explained for Canadian Operating Companies; REIT Distributions vs Corporate Dividends: Literacy for DIY Investors |
 | 4 | 2026-10-31 | queued | Dividend Growth vs High Yield: Choosing a Framework; What the S&P/TSX Composite Actually Measures; Banks and Energy Weight: Why Canada Is Not the S&P 500; Building a Core-Satellite Portfolio: Index Core + Stock Satellites; How to Read an ETF Factsheet Before You Buy; MER, TER, and Tracking Difference in Plain English; Canadian Equity ETFs vs Owning Individual TSX Stocks; Financials – Banks: Industry Structure and How Money Is Made; Financials – Banks: Key Operating Metrics DIY Investors Should Track; Energy – Producers: Industry Structure and How Money Is Made; Energy – Midstream: Industry Structure and How Money Is Made; Materials – Gold: Industry Structure and How Money Is Made |
 | 5 | 2026-11-01 | queued | Utilities: Industry Structure and How Money Is Made; Telecom: Industry Structure and How Money Is Made; Industrials – Rails: Industry Structure and How Money Is Made; Information Technology: Industry Structure and How Money Is Made; Real Estate – REITs: Industry Structure and How Money Is Made; Financials – Insurance: Industry Structure and How Money Is Made; Financials – Diversified: Industry Structure and How Money Is Made; Energy – Services & Equipment: Industry Structure and How Money Is Made; Materials – Base Metals: Industry Structure and How Money Is Made; Core-Satellite Portfolio Design for Canadian Accounts; Concentration Risk When Canada Is Already Concentrated; Behavioural Biases That Hurt Stock Pickers Most |
@@ -67,10 +87,23 @@ Pull next High-priority titles from the evergreen plan Page category explorer (a
 - [x] `glossary` — What Is EV/EBITDA? A Plain-English Guide for Canadian DIY Investors — /investing/glossary/what-is-ev-ebitda/
 - [x] `accounts` — TFSA for Stock Investors: What Changes vs ETF-Only Holders — /investing/accounts/tfsa-for-stock-investors/
 - [x] `process` — Position Sizing for DIY Stock Pickers (Canada Context) — /investing/process/position-sizing-diy-stock-pickers/
+- [x] `analyze` — How to Read an MD&A Like a DIY Investor — /investing/analyze/how-to-read-mdna/
+- [x] `analyze` — How to Read an Annual Information Form (AIF) for Stock Analysis — /investing/analyze/how-to-read-annual-information-form/
+- [x] `analyze` — How to Read Quarterly Earnings for TSX Companies — /investing/analyze/how-to-read-quarterly-earnings-tsx/
+- [x] `analyze` — How to Read an Earnings Call Transcript (What Matters, What Doesn't) — /investing/analyze/how-to-read-earnings-call-transcript/
+- [x] `analyze` — How to Build a Simple Stock Brief Template (Bull / Bear / Watch) — /investing/analyze/stock-brief-template-bull-bear-watch/
+- [x] `analyze` — How to Compare Two TSX Peers Side by Side — /investing/analyze/compare-two-tsx-peers/
+- [x] `analyze` — How to Analyze Free Cash Flow for Stock Decisions — /investing/analyze/free-cash-flow-analysis/
+- [x] `analyze` — How to Read Non-GAAP Metrics Critically (Adjusted EBITDA and Friends) — /investing/analyze/read-non-gaap-metrics-critically/
+- [x] `valuation` — What EV/EBITDA Means for Canadian DIY Investors — /investing/valuation/ev-ebitda-for-canadian-diy-investors/
+- [x] `valuation` — What P/FCF Means for Canadian DIY Investors — /investing/valuation/what-p-fcf-means-canadian-diy/
+- [x] `valuation` — How to Build a Simple DCF Without Fake Precision — /investing/valuation/simple-dcf-without-fake-precision/
+- [x] `valuation` — Valuation for Banks: P/B, ROE, and Why P/E Alone Fails — /investing/valuation/valuing-canadian-banks-pb-roe/
 
 ## Routine handoff notes
 
 - Queue path: `/workspace/stocksummarizer/brand/EVERGREEN-SHIP-QUEUE.md` (mirror in brand repo; Astro content lives in stocksummarizer-astro)
 - Also keep this file synced when the brand workspace is the content cockpit.
-- Featured images: Wikimedia/CC only; reuse `/images/sectors/*` with credits when thematic, or add `/images/investing/<slug>.jpg` (+webp/-640).
+- Featured images: Wikimedia/CC only; add a new, not-yet-used photo as `/images/investing/<slug>.jpg` (+webp/-640) — Andrew: no reused images across the site.
+- Diagrams/charts: inline SVG inside `<figure class="diagram">` (no blank lines inside the HTML block) plus markdown tables; label all worked numbers hypothetical unless sourced.
 - Soft CTAs: AffiliateCTA on brokers/pathways; ebook soft block on pathways/analyze/valuation; AdSlot already on layouts.
