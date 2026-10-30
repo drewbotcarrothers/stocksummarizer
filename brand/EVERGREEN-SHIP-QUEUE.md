@@ -12,10 +12,10 @@
 
 | Metric | Value |
 |:--|--:|
-| Live (Batch 1 + Batch 2) | 24 |
-| Remaining Wave 1 tracked below | 69 |
-| Remaining full bank (ex-Batches 1–2) | 1413 |
-| Last shipped | Batch 2 — 2026-10-29 (commit eacfc84) |
+| Live (Batches 1–3) | 36 |
+| Remaining Wave 1 tracked below | 57 |
+| Remaining full bank (ex-Batches 1–3) | 1401 |
+| Last shipped | Batch 3 — 2026-10-30 (commit e985780) |
 | Target daily batch | 12 |
 | Day 30 calendar end | 2026-11-26 |
 
@@ -55,6 +55,25 @@
 
 Enrichment: every post has markdown tables plus at least one inline SVG diagram/chart (`figure.diagram`, styles in `src/styles/global.css`); worked examples are labelled hypothetical. Featured images: new Wikimedia/CC photos under `/images/investing/<slug>.jpg` (+webp/-640), none reused; full attribution in each post's Media credits.
 
+## Batch 3 — SHIPPED 2026-10-30 (valuation finish + dividend safety)
+
+| # | Category | Title | URL |
+|--:|:--|:--|:--|
+| 1 | valuation | Valuation for REITs: NAV, FFO, AFFO Explained for Canadians | https://stocksummarizer.com/investing/valuation/valuing-reits-nav-ffo-affo/ |
+| 2 | valuation | How to Compare a TSX Stock to Its US Peer Fairly | https://stocksummarizer.com/investing/valuation/compare-tsx-stock-to-us-peer/ |
+| 3 | valuation | Triangulating Multiples, DCF, and Peer Checks | https://stocksummarizer.com/investing/valuation/triangulating-multiples-dcf-peer-checks/ |
+| 4 | valuation | When P/E Misleads on TSX Stocks | https://stocksummarizer.com/investing/valuation/when-pe-misleads-tsx/ |
+| 5 | dividends | Why Yield Alone Is a Terrible Stock Screen | https://stocksummarizer.com/investing/dividends/why-yield-alone-is-a-terrible-screen/ |
+| 6 | dividends | Free Cash Flow Coverage of Dividends: The Better Safety Check | https://stocksummarizer.com/investing/dividends/fcf-coverage-of-dividends/ |
+| 7 | dividends | Canadian Dividend Aristocrats Explained (Rules, Not Marketing) | https://stocksummarizer.com/investing/dividends/canadian-dividend-aristocrats-explained/ |
+| 8 | dividends | Withholding Tax on US Dividends: TFSA vs RRSP vs Taxable | https://stocksummarizer.com/investing/dividends/us-dividend-withholding-tax-tfsa-rrsp-taxable/ |
+| 9 | dividends | Eligible Dividends vs Ordinary Dividends: Investor Framing | https://stocksummarizer.com/investing/dividends/eligible-vs-ordinary-dividends/ |
+| 10 | dividends | How to Avoid Dividend Traps on the TSX | https://stocksummarizer.com/investing/dividends/avoid-dividend-traps-tsx/ |
+| 11 | dividends | Payout Ratio Explained for Canadian Operating Companies | https://stocksummarizer.com/investing/dividends/payout-ratio-explained-canadian-companies/ |
+| 12 | dividends | REIT Distributions vs Corporate Dividends: Literacy for DIY Investors | https://stocksummarizer.com/investing/dividends/reit-distributions-vs-corporate-dividends/ |
+
+Enrichment: same standard as Batch 2 — markdown tables plus two inline SVG figures per post (flows, bars, waterfalls, and a new football-field range chart); all worked numbers hypothetical. New Wikimedia/CC photos (none reused), full Media credits. Note: Day 6 lists "US Withholding Tax on Dividends: TFSA vs RRSP vs Taxable", which is a near-duplicate of Batch 3 #8 — swap or re-angle it (e.g. account-location focus) before Day 6.
+
 ## Upcoming batches (Wave 1 remainder first)
 
 Routine agent: take the next **12** `queued` rows, write to Astro standards, commit+push `main`, mark `shipped`, update this file + plan Page checklist, report in StockSummarizer chat. Pause/self-delete after day 30 **or** when queue empty — if titles remain after day 30, report remaining count and pause for Andrew direction.
@@ -62,7 +81,7 @@ Routine agent: take the next **12** `queued` rows, write to Astro standards, com
 | Day | Date | Status | Titles (take in order) |
 |--:|:--|:--|:--|
 | 2 | 2026-10-29 | **shipped 2026-10-29** (Batch 2) | How to Read an MD&A Like a DIY Investor; How to Read an Annual Information Form (AIF) for Stock Analysis; How to Read Quarterly Earnings for TSX Companies; How to Read an Earnings Call Transcript (What Matters, What Doesn't); How to Build a Simple Stock Brief Template (Bull / Bear / Watch); How to Compare Two TSX Peers Side by Side; How to Analyze Free Cash Flow for Stock Decisions; How to Read Non-GAAP Metrics Critically (Adjusted EBITDA and Friends); What EV/EBITDA Means for Canadian DIY Investors; What P/FCF Means for Canadian DIY Investors; How to Build a Simple DCF Without Fake Precision; Valuation for Banks: P/B, ROE, and Why P/E Alone Fails |
-| 3 | 2026-10-30 | queued | Valuation for REITs: NAV, FFO, AFFO Explained for Canadians; How to Compare a TSX Stock to Its US Peer Fairly; Triangulating Multiples, DCF, and Peer Checks; When P/E Misleads on TSX Stocks; Why Yield Alone Is a Terrible Stock Screen; Free Cash Flow Coverage of Dividends: The Better Safety Check; Canadian Dividend Aristocrats Explained (Rules, Not Marketing); Withholding Tax on US Dividends: TFSA vs RRSP vs Taxable; Eligible Dividends vs Ordinary Dividends: Investor Framing; How to Avoid Dividend Traps on the TSX; Payout Ratio Explained for Canadian Operating Companies; REIT Distributions vs Corporate Dividends: Literacy for DIY Investors |
+| 3 | 2026-10-30 | **shipped 2026-10-30** (Batch 3) | Valuation for REITs: NAV, FFO, AFFO Explained for Canadians; How to Compare a TSX Stock to Its US Peer Fairly; Triangulating Multiples, DCF, and Peer Checks; When P/E Misleads on TSX Stocks; Why Yield Alone Is a Terrible Stock Screen; Free Cash Flow Coverage of Dividends: The Better Safety Check; Canadian Dividend Aristocrats Explained (Rules, Not Marketing); Withholding Tax on US Dividends: TFSA vs RRSP vs Taxable; Eligible Dividends vs Ordinary Dividends: Investor Framing; How to Avoid Dividend Traps on the TSX; Payout Ratio Explained for Canadian Operating Companies; REIT Distributions vs Corporate Dividends: Literacy for DIY Investors |
 | 4 | 2026-10-31 | queued | Dividend Growth vs High Yield: Choosing a Framework; What the S&P/TSX Composite Actually Measures; Banks and Energy Weight: Why Canada Is Not the S&P 500; Building a Core-Satellite Portfolio: Index Core + Stock Satellites; How to Read an ETF Factsheet Before You Buy; MER, TER, and Tracking Difference in Plain English; Canadian Equity ETFs vs Owning Individual TSX Stocks; Financials – Banks: Industry Structure and How Money Is Made; Financials – Banks: Key Operating Metrics DIY Investors Should Track; Energy – Producers: Industry Structure and How Money Is Made; Energy – Midstream: Industry Structure and How Money Is Made; Materials – Gold: Industry Structure and How Money Is Made |
 | 5 | 2026-11-01 | queued | Utilities: Industry Structure and How Money Is Made; Telecom: Industry Structure and How Money Is Made; Industrials – Rails: Industry Structure and How Money Is Made; Information Technology: Industry Structure and How Money Is Made; Real Estate – REITs: Industry Structure and How Money Is Made; Financials – Insurance: Industry Structure and How Money Is Made; Financials – Diversified: Industry Structure and How Money Is Made; Energy – Services & Equipment: Industry Structure and How Money Is Made; Materials – Base Metals: Industry Structure and How Money Is Made; Core-Satellite Portfolio Design for Canadian Accounts; Concentration Risk When Canada Is Already Concentrated; Behavioural Biases That Hurt Stock Pickers Most |
 | 6 | 2026-11-02 | queued | Risk of Business-Like Trading Inside a TFSA; Documenting Sell Criteria Before You Buy; Account Location for Canadian Dividend Stocks; Account Location for US Dividend Stocks; Adjusted Cost Base (ACB) Tracking for DIY Stock Portfolios; Superficial Loss Rule for Stock Swaps and Replacements; US Withholding Tax on Dividends: TFSA vs RRSP vs Taxable; Commission-Free Trading: What You Still Pay in FX and Spreads; How to Use SEDAR+ for Canadian Stock Analysis; Screener Literacy: Designing Filters That Match Your Process; How to Evaluate Third-Party Stock Score Apps Critically; What Is ROE? A Plain-English Guide for Canadian DIY Investors |
@@ -99,6 +118,18 @@ Pull next High-priority titles from the evergreen plan Page category explorer (a
 - [x] `valuation` — What P/FCF Means for Canadian DIY Investors — /investing/valuation/what-p-fcf-means-canadian-diy/
 - [x] `valuation` — How to Build a Simple DCF Without Fake Precision — /investing/valuation/simple-dcf-without-fake-precision/
 - [x] `valuation` — Valuation for Banks: P/B, ROE, and Why P/E Alone Fails — /investing/valuation/valuing-canadian-banks-pb-roe/
+- [x] `valuation` — Valuation for REITs: NAV, FFO, AFFO Explained for Canadians — /investing/valuation/valuing-reits-nav-ffo-affo/
+- [x] `valuation` — How to Compare a TSX Stock to Its US Peer Fairly — /investing/valuation/compare-tsx-stock-to-us-peer/
+- [x] `valuation` — Triangulating Multiples, DCF, and Peer Checks — /investing/valuation/triangulating-multiples-dcf-peer-checks/
+- [x] `valuation` — When P/E Misleads on TSX Stocks — /investing/valuation/when-pe-misleads-tsx/
+- [x] `dividends` — Why Yield Alone Is a Terrible Stock Screen — /investing/dividends/why-yield-alone-is-a-terrible-screen/
+- [x] `dividends` — Free Cash Flow Coverage of Dividends: The Better Safety Check — /investing/dividends/fcf-coverage-of-dividends/
+- [x] `dividends` — Canadian Dividend Aristocrats Explained (Rules, Not Marketing) — /investing/dividends/canadian-dividend-aristocrats-explained/
+- [x] `dividends` — Withholding Tax on US Dividends: TFSA vs RRSP vs Taxable — /investing/dividends/us-dividend-withholding-tax-tfsa-rrsp-taxable/
+- [x] `dividends` — Eligible Dividends vs Ordinary Dividends: Investor Framing — /investing/dividends/eligible-vs-ordinary-dividends/
+- [x] `dividends` — How to Avoid Dividend Traps on the TSX — /investing/dividends/avoid-dividend-traps-tsx/
+- [x] `dividends` — Payout Ratio Explained for Canadian Operating Companies — /investing/dividends/payout-ratio-explained-canadian-companies/
+- [x] `dividends` — REIT Distributions vs Corporate Dividends: Literacy for DIY Investors — /investing/dividends/reit-distributions-vs-corporate-dividends/
 
 ## Routine handoff notes
 
