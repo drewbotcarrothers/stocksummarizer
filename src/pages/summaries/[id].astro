@@ -1,5 +1,11 @@
 ---
 import { getCollection, render } from 'astro:content';
+import Byline from '../../components/Byline.astro';
+import AuthorBox from '../../components/AuthorBox.astro';
+import RelatedReading from '../../components/RelatedReading.astro';
+import JsonLd from '../../components/JsonLd.astro';
+import { resolveDates, articleLd, breadcrumbLd, faqLd } from '../../lib/seo';
+import { relatedForBrief } from '../../lib/related';
 import Layout from '../../layouts/Layout.astro';
 import AdSlot from '../../components/AdSlot.astro';
 import AffiliateCTA from '../../components/AffiliateCTA.astro';
@@ -22,6 +28,10 @@ const date = brief.data.pubDate.toLocaleDateString('en-CA', {
   day: 'numeric',
   timeZone: 'UTC',
 });
+const dates = resolveDates({ id: brief.id, filePath: brief.filePath, pub: brief.data.pubDate });
+const related = await relatedForBrief(brief.id);
+const url = `/summaries/${brief.id}/`;
+
 ---
 
 <Layout
@@ -34,6 +44,7 @@ const date = brief.data.pubDate.toLocaleDateString('en-CA', {
   imageWidth={brief.data.image ? FEATURED_W : undefined}
   imageHeight={brief.data.image ? FEATURED_H : undefined}
 >
+  <JsonLd slot="head" data={[articleLd({ url, headline: brief.data.title, description: brief.data.description, image: brief.data.image, ...dates, section: 'Stock Summaries' }), breadcrumbLd([{ name: 'Home', url: '/' }, { name: 'Stock Summaries', url: '/summaries/' }, { name: brief.data.title, url }]), faqLd(brief.body)]} />
   <article class="mx-auto max-w-3xl px-4 py-12 sm:px-6">
     <nav class="text-sm text-ink-muted">
       <a href="/summaries/" class="no-underline hover:text-accent-dark">Stock Summaries</a>
@@ -52,6 +63,7 @@ const date = brief.data.pubDate.toLocaleDateString('en-CA', {
       </div>
       <h1 class="mt-4 font-display text-3xl font-bold leading-tight sm:text-4xl">{brief.data.title}</h1>
       <p class="mt-3 text-lg text-ink-muted">{brief.data.description}</p>
+      <Byline published={dates.published} updated={dates.updated} />
       {brief.data.image && (
         <figure class="mt-6 overflow-hidden rounded-xl border border-border bg-surface-soft shadow-sm">
           <FeaturedImage
@@ -98,9 +110,12 @@ const date = brief.data.pubDate.toLocaleDateString('en-CA', {
       body="We may earn a commission from disclosed affiliate partners (brokers, screeners, learning platforms). We only surface tools that match our clarity-first standard."
     />
 
+    <RelatedReading links={related} />
+
     <p class="mt-8 rounded-lg border border-border bg-surface-soft p-4 text-sm text-ink-muted">
       <strong class="text-ink">Educational only — not financial advice.</strong> Do your own research.
       See our <a href="/disclosures/">disclosures</a>.
     </p>
+    <AuthorBox />
   </article>
 </Layout>

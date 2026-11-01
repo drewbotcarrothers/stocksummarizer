@@ -1,0 +1,5 @@
+---
+interface Props { data: (Record<string, unknown> | undefined)[] }
+const items = Astro.props.data.filter(Boolean);
+---
+{items.map((d) => <script type="application/ld+json" set:html={JSON.stringify(d).replace(/</g, '\\u003c')} />)}

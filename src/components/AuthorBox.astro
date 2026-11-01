@@ -1,0 +1,10 @@
+---
+import { AUTHOR_BIO } from '../lib/seo';
+---
+<aside class="mt-8 flex gap-4 rounded-xl border border-border bg-surface p-5" aria-label="About the author">
+  <span class="flex h-12 w-12 shrink-0 items-center justify-center rounded-full bg-accent-soft font-display text-lg font-bold text-accent-dark" aria-hidden="true">A</span>
+  <div>
+    <p class="text-sm font-semibold text-ink">By <a href="/author/andrew/" rel="author" class="text-ink">Andrew</a></p>
+    <p class="mt-1 text-sm leading-6 text-ink-muted">{AUTHOR_BIO}</p>
+  </div>
+</aside>

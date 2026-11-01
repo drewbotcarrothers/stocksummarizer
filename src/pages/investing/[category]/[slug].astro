@@ -1,5 +1,11 @@
 ---
 import { getCollection, render } from 'astro:content';
+import Byline from '../../../components/Byline.astro';
+import AuthorBox from '../../../components/AuthorBox.astro';
+import RelatedReading from '../../../components/RelatedReading.astro';
+import JsonLd from '../../../components/JsonLd.astro';
+import { resolveDates, articleLd, breadcrumbLd, faqLd } from '../../../lib/seo';
+import { relatedForInvesting } from '../../../lib/related';
 import Layout from '../../../layouts/Layout.astro';
 import AdSlot from '../../../components/AdSlot.astro';
 import AffiliateCTA from '../../../components/AffiliateCTA.astro';
@@ -33,6 +39,10 @@ const showAffiliate =
   post.data.monetization === 'mixed' ||
   category === 'brokers-tools' ||
   category === 'pathways';
+const dates = resolveDates({ id: post.id, filePath: post.filePath, pub: post.data.pubDate, updated: post.data.updatedDate });
+const related = await relatedForInvesting(post.id);
+const url = `/investing/${category}/${slug}/`;
+
 ---
 
 <Layout
@@ -45,6 +55,7 @@ const showAffiliate =
   imageWidth={post.data.image ? FEATURED_W : undefined}
   imageHeight={post.data.image ? FEATURED_H : undefined}
 >
+  <JsonLd slot="head" data={[articleLd({ url, headline: post.data.title, description: post.data.description, image: post.data.image, ...dates, section: 'Investing Literacy' }), breadcrumbLd([{ name: 'Home', url: '/' }, { name: 'Investing Literacy', url: '/investing/' }, { name: meta?.name ?? category, url: `/investing/${category}/` }, { name: post.data.title, url }]), faqLd(post.body)]} />
   <article class="mx-auto max-w-3xl px-4 py-12 sm:px-6">
     <nav class="text-sm text-ink-muted">
       <a href="/investing/" class="no-underline hover:text-accent-dark">Investing Literacy</a>
@@ -58,12 +69,10 @@ const showAffiliate =
       <div class="flex flex-wrap items-center gap-2 text-xs font-medium uppercase tracking-wide text-ink-muted">
         <span class="rounded bg-accent-soft px-2 py-0.5 text-accent-dark">{meta?.name ?? category}</span>
         {post.data.role === 'Hub' && <span class="rounded bg-surface-soft px-2 py-0.5">Hub</span>}
-        <span>Published <time datetime={post.data.pubDate.toISOString()}>{published}</time></span>
-        <span aria-hidden="true">·</span>
-        <span>By Andrew</span>
       </div>
       <h1 class="mt-4 font-display text-3xl font-bold leading-tight sm:text-4xl">{post.data.title}</h1>
       <p class="mt-3 text-lg text-ink-muted">{post.data.description}</p>
+      <Byline published={dates.published} updated={dates.updated} />
       {post.data.image && (
         <figure class="mt-6 overflow-hidden rounded-xl border border-border bg-surface-soft shadow-sm">
           <FeaturedImage
@@ -107,13 +116,13 @@ const showAffiliate =
       </section>
     )}
 
+    <RelatedReading links={related} />
+
     <p class="mt-8 rounded-lg border border-border bg-surface-soft p-4 text-sm text-ink-muted">
       <strong class="text-ink">Educational only — not financial advice.</strong> Do your own research.
       See our <a href="/disclosures/">disclosures</a>.
     </p>
 
-    <p class="mt-6 text-sm text-ink-muted">
-      By <strong class="text-ink">Andrew</strong> · <a href="https://stocksummarizer.com">stocksummarizer.com</a>
-    </p>
+    <AuthorBox />
   </article>
 </Layout>

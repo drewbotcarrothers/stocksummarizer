@@ -10,6 +10,13 @@ const briefs = (await getCollection('briefs', ({ data }) => !data.draft)).sort(
   (a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf(),
 );
 const latest = briefs.slice(0, 3);
+const evergreen = (await getCollection('investing', ({ data }) => !data.draft))
+  .sort((a, b) => (b.data.updatedDate ?? b.data.pubDate).valueOf() - (a.data.updatedDate ?? a.data.pubDate).valueOf())
+  .slice(0, 9);
+const sectorDives = (await getCollection('sectors', ({ data }) => !data.draft)).sort((a, b) => a.data.sector.localeCompare(b.data.sector));
+const wraps = (await getCollection('marketWrap', ({ data }) => !data.draft))
+  .sort((a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf())
+  .slice(0, 5);
 const fmtDate = (d: Date) =>
   d.toLocaleDateString('en-CA', { year: 'numeric', month: 'short', day: 'numeric', timeZone: 'UTC' });
 ---
@@ -112,6 +119,51 @@ const fmtDate = (d: Date) =>
                 </span>
               </a>
             </li>
+          ))}
+        </ul>
+      </section>
+    )}
+
+    <section class="py-8" aria-labelledby="sector-dives-heading">
+      <div class="flex items-end justify-between gap-4">
+        <h2 id="sector-dives-heading" class="font-display text-2xl font-semibold sm:text-3xl">Sector deep dives</h2>
+        <a href="/sectors/" class="text-sm font-semibold text-accent-dark no-underline hover:underline">All sectors</a>
+      </div>
+      <ul class="mt-6 grid gap-3 sm:grid-cols-2 lg:grid-cols-3">
+        {sectorDives.map((s) => (
+          <li>
+            <a href={`/sectors/${s.id}/`} class="block h-full rounded-lg border border-border bg-surface px-4 py-3 no-underline transition hover:border-accent/40 hover:shadow-sm">
+              <span class="block text-xs font-semibold uppercase tracking-wide text-accent-dark">{s.data.sector}</span>
+              <span class="mt-1 block text-sm font-semibold text-ink">{s.data.title}</span>
+            </a>
+          </li>
+        ))}
+      </ul>
+    </section>
+
+    <section class="py-8" aria-labelledby="evergreen-heading">
+      <div class="flex items-end justify-between gap-4">
+        <h2 id="evergreen-heading" class="font-display text-2xl font-semibold sm:text-3xl">Latest investing guides</h2>
+        <a href="/investing/" class="text-sm font-semibold text-accent-dark no-underline hover:underline">All guides</a>
+      </div>
+      <ul class="mt-6 grid gap-3 sm:grid-cols-2 lg:grid-cols-3">
+        {evergreen.map((p) => (
+          <li>
+            <a href={`/investing/${p.id}/`} class="block h-full rounded-lg border border-border bg-surface px-4 py-3 text-sm font-semibold text-ink no-underline transition hover:border-accent/40 hover:shadow-sm">{p.data.title}</a>
+          </li>
+        ))}
+      </ul>
+    </section>
+
+    {wraps.length > 0 && (
+      <section class="py-8" aria-labelledby="wraps-heading">
+        <div class="flex items-end justify-between gap-4">
+          <h2 id="wraps-heading" class="font-display text-2xl font-semibold sm:text-3xl">Latest market wraps</h2>
+          <a href="/market-wrap/" class="text-sm font-semibold text-accent-dark no-underline hover:underline">All wraps</a>
+        </div>
+        <ul class="mt-6 space-y-2">
+          {wraps.map((w) => (
+            <li><a href={`/market-wrap/${w.id}/`} class="text-sm font-semibold text-accent-dark">{w.data.title}</a> <span class="text-xs text-ink-muted">· {fmtDate(w.data.pubDate)}</span></li>
           ))}
         </ul>
       </section>

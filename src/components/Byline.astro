@@ -1,0 +1,13 @@
+---
+import { fmtLong } from '../lib/seo';
+interface Props { published: Date; updated: Date }
+const { published, updated } = Astro.props;
+const showUpdated = fmtLong(updated) !== fmtLong(published);
+---
+<p class="mt-3 flex flex-wrap items-center gap-x-2 text-sm text-ink-muted">
+  <span>By <a href="/author/andrew/" rel="author" class="font-semibold text-ink no-underline hover:text-accent-dark">Andrew</a></span>
+  <span aria-hidden="true">·</span>
+  <span>Published <time datetime={published.toISOString()}>{fmtLong(published)}</time></span>
+  <span aria-hidden="true">·</span>
+  <span>Updated <time datetime={updated.toISOString()}>{fmtLong(showUpdated ? updated : published)}</time></span>
+</p>

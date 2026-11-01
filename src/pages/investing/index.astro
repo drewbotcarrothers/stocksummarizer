@@ -53,9 +53,9 @@ const counts = Object.fromEntries(
 
     {posts.length > 0 && (
       <section class="mt-14">
-        <h2 class="font-display text-2xl font-bold text-ink">Latest literacy guides</h2>
+        <h2 class="font-display text-2xl font-bold text-ink">All literacy guides</h2>
         <ul class="mt-4 divide-y divide-border rounded-xl border border-border bg-surface">
-          {posts.slice(0, 12).map((p) => {
+          {posts.map((p) => {
             const { category, slug } = splitInvestingId(p.id);
             return (
               <li>
