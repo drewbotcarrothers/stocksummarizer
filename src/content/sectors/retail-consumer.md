@@ -1,10 +1,10 @@
 ---
 title: "Canadian retail stocks: Aritzia’s plan, Dollarama’s multiple, Metro’s year and which targets are CAD"
-description: "Loblaw, Couche-Tard, Dollarama, Restaurant Brands, Weston, Metro, Aritzia, Empire, Canadian Tire, North West, Pet Valu and Canada Goose on the October 23, 2026 close: returns, multiples and which targets are CAD."
+description: "Loblaw, Couche-Tard, Dollarama, Restaurant Brands, Weston, Metro, Aritzia, Empire, Canadian Tire, North West, Pet Valu and Canada Goose on the November 3, 2026 screener: returns, multiples and which targets are CAD."
 sector: "Retail & consumer"
 thesis: "The median retailer almost matched the TSX over the past year, Aritzia’s five-year plan landed this morning after a 64% year, and two of the widely quoted targets are US-listing numbers that do not belong in a Canadian-dollar average."
-updatedDate: 2026-10-27
-screenerDate: 2026-10-25
+updatedDate: 2026-11-03
+screenerDate: 2026-11-03
 image: "/images/sectors/retail-consumer.jpg"
 imageAlt: "A Dollarama storefront on Yonge Street in Toronto, red sign above the entrance and sale posters in the windows"
 imageCredit: "Dollarama at 730 Yonge Street, Toronto, May 22, 2026. Photo by Dillan Payne, CC BY-SA 4.0, via Wikimedia Commons. Cropped and resized."
@@ -18,12 +18,12 @@ Twelve liquid names — Loblaw, Couche-Tard, Dollarama, Restaurant Brands, Georg
 
 | Metric | Peer set (12) | vs TSX (approx.) |
 |:--|--:|--:|
-| Combined market cap | ~CA$363B | — |
-| Median trailing P/E | 22.5x | — |
-| Median forward P/E | 18.5x | — |
-| Median indicated yield | 1.72% | — |
-| Median 1M price return | +7.5% | TSX ~+0.1% |
-| Median 1Y price return | +15.9% | TSX ~+18.6% |
+| Combined market cap | ~CA$366.0B | — |
+| Median trailing P/E | 22.7x | — |
+| Median forward P/E | 18.3x | — |
+| Median indicated yield | 1.80% | — |
+| Median 1M price return | +8.7% | TSX ~+0.1% |
+| Median 1Y price return | +16.6% | TSX ~+18.6% |
 
 *Prices are the October 23, 2026 TSX closes. See Data notes. The combined market cap adds George Weston and Loblaw. Weston’s trailing revenue is about CA$65.2 billion and Loblaw’s is about CA$64.6 billion, because Weston consolidates Loblaw. The yield median is the ten dividend payers. Aritzia and Canada Goose pay no dividend. The TSX figures are the Composite’s exchange-close returns on the same windows as the peer table. Other sector notes on this site use an approximate Composite move of +1.4% and +18.2% near October 26. Restaurant Brands and Canada Goose have US listings. Those USD targets are not in the CAD averages below.*
 
@@ -65,19 +65,19 @@ Peer set: **Loblaw (L), Couche-Tard (ATD), Dollarama (DOL), Restaurant Brands (Q
 
 | Company (Ticker) | Price | Market cap | Revenue (LTM) | Net income (LTM) |
 |:--|--:|--:|--:|--:|
-| Loblaw (L) | $68.67 | $79.0B | $64.6B | $2.8B |
-| Couche-Tard (ATD) | $83.33 | $76.5B | $112.1B | $4.4B |
-| Dollarama (DOL) | $207.45 | $55.7B | $7.9B | $1.4B |
+| Loblaw (L) | $69.63 | $80.1B | $64.6B | $2.8B |
+| Couche-Tard (ATD) | $82.14 | $75.4B | $112.1B | $4.4B |
+| Dollarama (DOL) | $212.00 | $56.9B | $7.9B | $1.4B |
 | Restaurant Brands (QSR) | $105.58 | $48.0B | $13.8B | $1.8B |
-| George Weston (WN) | $105.91 | $39.5B | $65.2B | $1.0B |
-| Metro (MRU) | $96.33 | $20.0B | $22.5B | $899M |
-| Aritzia (ATZ) | $155.15 | $17.6B | $4.3B | $592M |
-| Empire (EMP.A) | $50.45 | $11.2B | $32.2B | $219M |
+| George Weston (WN) | $109.69 | $40.9B | $65.2B | $1.0B |
+| Metro (MRU) | $98.25 | $20.4B | $22.5B | $899M |
+| Aritzia (ATZ) | $150.86 | $17.1B | $4.3B | $592M |
+| Empire (EMP.A) | $50.10 | $11.2B | $32.2B | $219M |
 | Canadian Tire (CTC.A) | $204.59 | $10.7B | $16.5B | $679M |
-| North West (NWC) | $56.13 | $2.7B | $2.6B | $142M |
-| Pet Valu (PET) | $19.85 | $1.3B | $1.2B | $99M |
-| Canada Goose (GOOS) | $11.28 | $1.1B | $1.5B | $57M |
-| *Average* | — | $30.3B | $28.7B | $1.2B |
+| North West (NWC) | $57.58 | $2.7B | $2.6B | $142M |
+| Pet Valu (PET) | $21.08 | $1.4B | $1.2B | $99.2M |
+| Canada Goose (GOOS) | $11.63 | $1.1B | $1.5B | $56.9M |
+| *Average* | — | $30.5B | $28.7B | $1.2B |
 
 *Price is the October 23, 2026 close. Market cap is the TradingView Canada field scaled to that close. Revenue and net income are trailing twelve-month figures in that same CAD field. Average includes all twelve names. Couche-Tard reports in US dollars; the October 15 brief’s quarter is US dollars, and the table is the CAD field. Weston’s revenue is not additive with Loblaw’s. Empire’s trailing profit of CA$219 million is the same depressed figure the October 15 brief showed on the October 8 screener, so the 51.7x trailing P/E below is not a new glitch. Aritzia’s trailing profit is higher than the CA$457 million in the October 10 brief because the second quarter is now inside the trailing twelve months.*
 
@@ -87,19 +87,19 @@ Couche-Tard’s **CA$112 billion** of revenue is fuel. The profit is **CA$4.4 bi
 
 | Company (Ticker) | 1M | 3M | 6M | YTD | 1Y | 5Y | 10Y |
 |:--|--:|--:|--:|--:|--:|--:|--:|
-| Loblaw (L) | +10.9% | +8.6% | +11.2% | +11.5% | +18.5% | +211% | +500% |
-| Couche-Tard (ATD) | +6.2% | −5.8% | +7.3% | +12.4% | +15.7% | +80% | +167% |
-| Dollarama (DOL) | +16.4% | +14.4% | +21.9% | +1.0% | +11.7% | +275% | +525% |
+| Loblaw (L) | +12.0% | +6.0% | +11.9% | +12.3% | +26.4% | +199% | +430% |
+| Couche-Tard (ATD) | +6.0% | −10.1% | +1.9% | +9.2% | +16.2% | +70% | +142% |
+| Dollarama (DOL) | +15.6% | +10.6% | +21.9% | +3.0% | +17.0% | +276% | +529% |
 | Restaurant Brands (QSR) | +4.4% | +4.6% | −3.4% | +15.2% | +16.0% | +64% | +130% |
-| George Weston (WN) | +5.3% | +3.8% | +9.9% | +13.1% | +20.2% | +149% | +250% |
-| Metro (MRU) | +7.3% | +6.7% | +8.6% | −0.6% | +3.7% | +67% | +172% |
-| **Aritzia (ATZ)** | **+30.0%** | +16.8% | +9.9% | +33.5% | **+63.6%** | +213% | +741% |
-| Empire (EMP.A) | +7.7% | +3.2% | +8.8% | +7.6% | +5.8% | +48% | +205% |
+| George Weston (WN) | +8.5% | +4.5% | +11.6% | +16.2% | +31.1% | +145% | +206% |
+| Metro (MRU) | +9.4% | +5.4% | +9.2% | −0.7% | +6.0% | +57% | +137% |
+| **Aritzia (ATZ)** | **+23.9%** | +5.6% | +5.4% | +27.7% | **+56.5%** | +205% | +750% |
+| Empire (EMP.A) | +4.3% | −2.2% | +7.8% | +4.8% | +7.2% | +35% | +160% |
 | Canadian Tire (CTC.A) | +8.9% | +6.4% | +9.8% | +21.5% | +22.1% | +37% | +118% |
-| North West (NWC) | +7.3% | +12.8% | +11.6% | +18.3% | +24.4% | +103% | +226% |
-| Pet Valu (PET) | +12.0% | +8.8% | −5.8% | −27.0% | −43.9% | −28% | — |
-| Canada Goose (GOOS) | +6.3% | −12.8% | −29.8% | −37.1% | −39.9% | −77% | — |
-| *Average* | +10.2% | +5.6% | +5.0% | +5.8% | +9.8% | +95% | +303% |
+| North West (NWC) | +6.9% | +14.0% | +15.1% | +18.0% | +27.9% | +70% | +126% |
+| Pet Valu (PET) | +17.1% | +7.4% | +2.5% | −24.6% | −39.4% | −28% | −12% |
+| Canada Goose (GOOS) | +4.9% | −7.0% | −26.7% | −35.4% | −39.7% | −75% | −51% |
+| *Average* | +10.1% | +3.8% | +5.6% | +5.6% | +12.3% | +88% | +222% |
 
 *Price returns from the prior TSX close on the window date to the October 23, 2026 close, split-adjusted (1M Sep 23, 3M Jul 23, 6M Apr 23, YTD Dec 30 2025, 1Y Oct 23 2025, 5Y Oct 22 2021, 10Y Oct 21 2016). This is not the screener’s own Perf column. On Royal Bank, year-to-date matches the October 25 file and the one-month does not. Pet Valu and Canada Goose have no ten-year cell. Pet Valu’s initial public offering was in 2021. Canada Goose’s was in 2017. Bold = leader on 1M and 1Y. The one-year average is pulled down by Pet Valu and Canada Goose. The median is the figure in the snapshot. Loblaw’s ten-year return is split-adjusted for the four-for-one split effective August 18, 2025.*
 
@@ -109,19 +109,19 @@ Dollarama’s five-year **+275%** and ten-year **+525%** are the long compound, 
 
 | Company (Ticker) | P/E | Fwd P/E | PEG | P/S | P/B | P/FCF |
 |:--|--:|--:|--:|--:|--:|--:|
-| Loblaw (L) | 29.1 | 27.0 | 1.72 | 1.24 | 7.24 | 16.8 |
-| Couche-Tard (ATD) | 17.4 | 18.4 | 0.66 | 0.69 | 3.27 | 15.0 |
-| Dollarama (DOL) | 41.6 | 40.3 | 3.95 | 7.15 | 37.81 | 37.8 |
+| Loblaw (L) | 29.5 | 26.1 | 1.73 | 1.25 | 7.34 | 17.0 |
+| Couche-Tard (ATD) | 17.2 | 18.0 | 0.64 | 0.66 | 3.22 | 14.8 |
+| Dollarama (DOL) | 42.5 | 39.6 | 3.95 | 7.15 | 38.64 | 38.7 |
 | Restaurant Brands (QSR) | 22.0 | 18.6 | 0.79 | 3.61 | 8.73 | 22.4 |
-| George Weston (WN) | 41.3 | 22.7 | — | 0.61 | 10.69 | 9.4 |
-| Metro (MRU) | 22.9 | 21.2 | — | 0.91 | 2.90 | 19.1 |
-| Aritzia (ATZ) | 31.3 | 29.5 | 0.30 | 4.34 | 11.84 | 27.7 |
-| Empire (EMP.A) | 51.7 | 14.1 | — | 0.35 | 2.21 | 8.7 |
+| George Weston (WN) | 42.8 | 21.1 | — | 0.62 | 11.07 | 9.7 |
+| Metro (MRU) | 23.4 | 19.3 | — | 0.91 | 2.95 | 19.5 |
+| Aritzia (ATZ) | 30.4 | 26.4 | 0.29 | 4.25 | 11.52 | 26.9 |
+| Empire (EMP.A) | 51.3 | 13.8 | — | 0.35 | 2.19 | 8.6 |
 | Canadian Tire (CTC.A) | 16.0 | 14.4 | — | 0.65 | 1.78 | 17.8 |
-| North West (NWC) | 19.2 | 17.7 | 7.29 | 1.03 | 3.19 | 20.9 |
-| Pet Valu (PET) | 13.8 | 12.5 | 1.85 | 1.13 | 14.65 | 9.2 |
-| Canada Goose (GOOS) | 20.5 | 10.9 | 1.07 | 0.71 | 2.09 | 12.2 |
-| *Average* | 27.2 | 20.6 | 2.20 | 1.87 | 8.87 | 18.1 |
+| North West (NWC) | 19.7 | 16.6 | 7.45 | 1.06 | 3.27 | 21.4 |
+| Pet Valu (PET) | 14.6 | 12.8 | 1.85 | 1.13 | 15.56 | 9.8 |
+| Canada Goose (GOOS) | 21.1 | 12.4 | 1.06 | 0.71 | 2.16 | 12.6 |
+| *Average* | 27.5 | 19.9 | 2.22 | 1.86 | 9.04 | 18.3 |
 
 *Trailing P/E, P/S, P/B, P/FCF and PEG use the TradingView fields scaled back to the October 23 price. PEG above 30, missing, or not meaningful is blank. Forward P/E is the October 23 price divided by TradingView’s next-fiscal-year EPS consensus, pulled October 27, 2026. It is not the file’s forward-P/E cell. On Royal Bank that method prints 17.2 against the file’s 16.2. Average skips blanks. The price-to-book average includes Dollarama’s 37.81x. Price/Cash is omitted. Empire’s forward multiple is far below its trailing multiple, which means the next-year earnings estimate is well above the trailing run-rate.*
 
@@ -139,19 +139,19 @@ Dollarama’s five-year **+275%** and ten-year **+525%** are the long compound, 
 
 | Company (Ticker) | Dividend / share | Yield (ind.) | Payout ratio |
 |:--|--:|--:|--:|
-| Loblaw (L) | $0.55 | 0.86% | 24.3% |
-| Couche-Tard (ATD) | $0.84 | 1.03% | 18.0% |
-| Dollarama (DOL) | $0.42 | 0.22% | 9.0% |
+| Loblaw (L) | $0.55 | 0.89% | 24.3% |
+| Couche-Tard (ATD) | $0.84 | 1.05% | 18.0% |
+| Dollarama (DOL) | $0.42 | 0.23% | 9.0% |
 | Restaurant Brands (QSR) | $3.41 | 3.41% | 75.1% |
 | George Weston (WN) | $1.17 | 1.17% | 46.5% |
-| Metro (MRU) | $1.48 | 1.65% | 37.8% |
-| Aritzia (ATZ) | — | — | — |
-| Empire (EMP.A) | $0.88 | 1.79% | 92.0% |
+| Metro (MRU) | $1.48 | 1.66% | 37.8% |
+| Aritzia (ATZ) | $0.00 | — | 0.0% |
+| Empire (EMP.A) | $0.88 | 1.94% | 92.0% |
 | Canadian Tire (CTC.A) | $7.13 | 3.51% | 56.0% |
-| North West (NWC) | $1.62 | 2.94% | 55.1% |
-| Pet Valu (PET) | $0.49 | 2.57% | 35.2% |
-| Canada Goose (GOOS) | — | — | — |
-| *Average* | $1.80 | 1.92% | 44.9% |
+| North West (NWC) | $1.62 | 2.92% | 55.1% |
+| Pet Valu (PET) | $0.49 | 2.47% | 35.2% |
+| Canada Goose (GOOS) | $0.00 | — | 0.0% |
+| *Average* | $1.50 | 1.92% | 37.4% |
 
 *DPS is the annual dividend field. Yield is the indicated yield scaled from the live field back to the October 23 price. Aritzia and Canada Goose pay no dividend. Average skips those blanks. Loblaw’s latest declared quarterly dividend is $0.155183, paid October 1, 2026, to holders of record September 15. Four quarters at that rate is about $0.62, against the table’s $0.55 field. Dollarama’s September 16 declaration is $0.1200 quarterly, or $0.48 annualized, payable November 6 to holders of record October 9, against the table’s $0.42 field. The yields in the table are the scaled indicated-yield field, not a second calculation off those declarations. Restaurant Brands’ CAD dividend field is about $3.41. It is not a conversion this page performed of a US-dollar dividend.*
 
@@ -161,21 +161,21 @@ Empire’s **92%** payout is the coverage on the depressed trailing profit, the 
 
 | Company (Ticker) | Rating | Price | Target 1Y | Upside | Analysts |
 |:--|:--|--:|--:|--:|--:|
-| Loblaw (L) | Buy | $68.67 | CA$73.00 | +6.3% | 9 |
-| Couche-Tard (ATD) | Buy | $83.33 | CA$99.13 | +19.0% | 12 |
-| Dollarama (DOL) | Buy | $207.45 | CA$216.06 | +4.2% | 12 |
+| Loblaw (L) | Buy | $69.63 | CA$73.00 | +4.8% | 9 |
+| Couche-Tard (ATD) | Buy | $82.14 | CA$99.13 | +20.7% | 12 |
+| Dollarama (DOL) | Buy | $212.00 | CA$216.06 | +1.9% | 12 |
 | Restaurant Brands (QSR) | Buy | $105.58 | CA$84.00 | −20.4% | 3 |
-| George Weston (WN) | Buy | $105.91 | CA$115.83 | +9.4% | 5 |
-| Metro (MRU) | Neutral | $96.33 | CA$104.00 | +8.0% | 9 |
-| Aritzia (ATZ) | Strong buy | $155.15 | CA$177.53 | +14.4% | 17 |
-| Empire (EMP.A) | Neutral | $50.45 | CA$53.56 | +6.2% | 9 |
+| George Weston (WN) | Buy | $109.69 | CA$115.83 | +5.6% | 5 |
+| Metro (MRU) | Neutral | $98.25 | CA$104.00 | +5.9% | 9 |
+| Aritzia (ATZ) | Strong buy | $150.86 | CA$177.53 | +17.7% | 17 |
+| Empire (EMP.A) | Neutral | $50.10 | CA$53.56 | +6.9% | 9 |
 | Canadian Tire (CTC.A) | Neutral | $204.59 | CA$204.00 | −0.3% | 9 |
-| North West (NWC) | Strong buy | $56.13 | CA$60.67 | +8.1% | 4 |
-| Pet Valu (PET) | Buy | $19.85 | CA$24.89 | +25.4% | 9 |
-| Canada Goose (GOOS) | Neutral | $11.28 | CA$12.50 | +10.8% | 2 |
-| *Average* | — | — | CA$118.67 | +10.3% | — |
+| North West (NWC) | Strong buy | $57.58 | CA$60.67 | +5.4% | 4 |
+| Pet Valu (PET) | Strong buy | $21.08 | CA$24.89 | +18.1% | 9 |
+| Canada Goose (GOOS) | Neutral | $11.63 | CA$12.50 | +7.5% | 2 |
+| *Average* | — | — | CA$102.10 | +6.1% | — |
 
-*Rating = TradingView Canada recommendation mark, mapped with the same buckets that match the October 25 file on the published bank, utility and software rows (Strong buy below 1.25, Buy below 1.75, Neutral below 2.25). Target 1Y = MarketBeat’s Canadian-listing consensus in **CAD**, pulled October 27, 2026. Upside is versus the October 23 TSX price. The average includes only Loblaw, Couche-Tard, Dollarama, Weston, Metro, Aritzia, Empire, Canadian Tire and Pet Valu — the CAD targets with at least five analysts and a real range. Restaurant Brands is shown and excluded: three analysts, and the high and the low are both C$84.00. North West has four. Canada Goose has two. The dollar average mixes a $25 stock’s target with a $216 target. The upside average is the figure that compares.*
+*Rating = screener analyst rating on the November 3, 2026 file. Target 1Y and analyst counts are the MarketBeat TSE consensus figures (CAD) pulled October 27, 2026, not re-pulled for this refresh. Upside is the October 27 target versus the November 3 screener price. The dollar average mixes very different share prices; read the upside column.*
 
 **Dollarama and Canadian Tire have little Canadian-dollar room.** Dollarama **+4.2%** to **CA$216.06** from **12**, on a **41.6x** trailing multiple. Canadian Tire **−0.3%** to **CA$204.00** from **9**. The general merchant’s one-year return of **+22%** used up the target. Loblaw **+6.3%** to **CA$73.00** from **9** and Empire **+6.2%** to **CA$53.56** from **9** are the other tight CAD gaps among the grocers. Metro still has **+8.0%** to **CA$104** from **9**, which is a target on the Laval year, not a target that has been run over.
 

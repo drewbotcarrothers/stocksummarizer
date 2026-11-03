@@ -1,10 +1,10 @@
 ---
 title: "Canadian base-metals stocks: the one-year copper run, October’s drop, valuation and targets"
-description: "Teck, First Quantum, Lundin Mining, Hudbay, Ivanhoe, Capstone and Ero Copper on the October 23, 2026 close: returns, multiples and Canadian-dollar targets."
+description: "Teck, First Quantum, Lundin Mining, Hudbay, Ivanhoe, Capstone and Ero Copper on the November 3, 2026 screener: returns, multiples and Canadian-dollar targets."
 sector: "Base metals & mining"
 thesis: "Teck, Lundin Mining, Hudbay and Ero Copper are still up about 40% over the past year, but every name in this set is down double digits over the past month, and First Quantum’s trailing loss plus Ivanhoe’s thin revenue mean two of the forward multiples are not normal producer math."
-updatedDate: 2026-10-27
-screenerDate: 2026-10-25
+updatedDate: 2026-11-03
+screenerDate: 2026-11-03
 image: "/images/sectors/base-metals-mining.jpg"
 imageAlt: "Highland Valley copper mine in British Columbia, an open pit beside a turquoise tailings pond with roads along the ridge"
 imageCredit: "Highland Valley Copper Mine, British Columbia, and its tailings dam. Photo by Alvestrand, CC BY-SA 3.0, via Wikimedia Commons. Cropped and resized."
@@ -18,12 +18,12 @@ Seven liquid names — Teck, First Quantum, Lundin Mining, Hudbay, Ivanhoe Mines
 
 | Metric | Peer set (7) | vs TSX (approx.) |
 |:--|--:|--:|
-| Combined market cap | ~CA$133B | — |
-| Median trailing P/E | 13.1x | — |
-| Median forward P/E | 14.4x | — |
+| Combined market cap | ~CA$132.5B | — |
+| Median trailing P/E | 16.2x | — |
+| Median forward P/E | 13.1x | — |
 | Median indicated yield | 0.37% | — |
-| Median 1M price return | −18.6% | TSX ~+0.1% |
-| Median 1Y price return | +39.2% | TSX ~+18.6% |
+| Median 1M price return | −18.5% | TSX ~+0.1% |
+| Median 1Y price return | +30.9% | TSX ~+18.6% |
 
 *Prices are the October 23, 2026 TSX closes. See Data notes. The trailing-P/E median skips First Quantum, which has no trailing P/E because trailing earnings are a loss. The forward-P/E median is the usable column: the average in the valuation table is pulled up by First Quantum at 83.5x and Ivanhoe at 41.3x. The yield median is the three dividend payers only (Teck, Lundin Mining, Hudbay). The TSX figures are the Composite’s exchange-close returns on the same windows as the peer table. Other sector notes on this site use an approximate Composite move of +1.4% and +18.2% near October 26. Copper is the COMEX HG=F settlement, not a company realized price.*
 
@@ -66,13 +66,13 @@ Peer set: **Teck Class B (TECK.B), First Quantum (FM), Lundin Mining (LUN), Hudb
 | Company (Ticker) | Price | Market cap | Revenue (LTM) | Net income (LTM) |
 |:--|--:|--:|--:|--:|
 | Teck (TECK.B) | $82.68 | $40.6B | $14.0B | $2.5B |
-| First Quantum (FM) | $33.44 | $27.9B | $7.9B | −$112M |
-| Lundin Mining (LUN) | $29.50 | $25.2B | $5.9B | $2.1B |
-| Hudbay (HBM) | $30.76 | $13.7B | $3.4B | $936M |
-| Ivanhoe Mines (IVN) | $9.16 | $13.1B | $810M | $191M |
-| Capstone (CS) | $11.19 | $8.6B | $3.7B | $656M |
-| Ero Copper (ERO) | $42.03 | $4.4B | $1.4B | $430M |
-| *Average* | — | $19.1B | $5.3B | $956M |
+| First Quantum (FM) | $32.38 | $27.0B | $9.0B | $244M |
+| Lundin Mining (LUN) | $29.96 | $25.6B | $5.9B | $2.1B |
+| Hudbay (HBM) | $30.36 | $13.5B | $3.4B | $936M |
+| Ivanhoe Mines (IVN) | $9.00 | $12.8B | $810M | $191M |
+| Capstone (CS) | $11.39 | $8.7B | $3.9B | $452M |
+| Ero Copper (ERO) | $40.76 | $4.3B | $1.4B | $430M |
+| *Average* | — | $18.9B | $5.5B | $977M |
 
 *Price is the October 23, 2026 close. Market cap is the TradingView Canada field scaled to that close. Revenue and net income are trailing twelve-month figures in that same CAD field. Average includes all seven names. Several of these companies report in US dollars; these are the CAD amounts in that field, not a second conversion. First Quantum’s trailing loss is why the trailing P/E below is blank.*
 
@@ -82,14 +82,14 @@ Teck is the only name with **CA$14 billion** of trailing revenue, and it earned 
 
 | Company (Ticker) | 1M | 3M | 6M | YTD | 1Y | 5Y | 10Y |
 |:--|--:|--:|--:|--:|--:|--:|--:|
-| **Teck (TECK.B)** | **−12.2%** | −1.8% | −0.8% | +25.9% | +39.2% | +140% | +203% |
-| First Quantum (FM) | −26.0% | −14.4% | −10.6% | −8.7% | +11.9% | +14% | +186% |
-| Lundin Mining (LUN) | −15.4% | −18.6% | −21.4% | +0.0% | +44.1% | +187% | +470% |
-| Hudbay (HBM) | −18.6% | −3.4% | −6.3% | +12.8% | +42.7% | +245% | +470% |
-| Ivanhoe Mines (IVN) | −24.9% | −13.8% | −22.8% | −42.1% | −37.1% | −7% | +293% |
-| Capstone (CS) | −23.2% | −13.7% | −5.3% | −19.5% | −1.6% | +100% | +1392% |
-| **Ero Copper (ERO)** | −18.3% | +13.0% | +12.8% | +6.9% | **+46.2%** | +72% | — |
-| *Average* | −19.8% | −7.5% | −7.8% | −3.5% | +20.8% | +107% | +502% |
+| **Teck (TECK.B)** | −12.2% | −1.8% | −0.8% | +25.9% | **+39.2%** | +140% | +203% |
+| First Quantum (FM) | −17.8% | −20.2% | −1.6% | −14.0% | +9.9% | +11% | +161% |
+| **Lundin Mining (LUN)** | **−11.6%** | −18.3% | −15.5% | −0.4% | +30.9% | +172% | +465% |
+| Hudbay (HBM) | −20.0% | −12.9% | −5.4% | +8.7% | +36.0% | +257% | +417% |
+| Ivanhoe Mines (IVN) | −24.6% | −14.5% | −20.5% | −44.4% | −37.7% | −9% | +300% |
+| Capstone (CS) | −18.5% | −20.1% | −1.8% | −15.6% | −7.8% | +123% | +1240% |
+| Ero Copper (ERO) | −21.8% | +3.0% | +11.3% | +3.1% | +35.9% | +78% | +728% |
+| *Average* | −18.1% | −12.1% | −4.9% | −5.2% | +15.2% | +110% | +502% |
 
 *Price returns from the prior TSX close on the window date to the October 23, 2026 close (1M Sep 23, 3M Jul 23, 6M Apr 23, YTD Dec 30 2025, 1Y Oct 23 2025, 5Y Oct 22 2021, 10Y Oct 21 2016). This is not the screener’s own Perf column. On Royal Bank, year-to-date matches the October 25 file and the one-month does not. Ero has not traded for ten years, so that cell is blank. The ten-year average is not a typical base-metals return — Capstone’s +1,392% dominates it. Bold = leader on 1M and 1Y. The one-month leader is the smallest loss. Lundin Mining’s year-to-date of +0.0% is a flat print after rounding a move of a few basis points.*
 
@@ -100,13 +100,13 @@ Ero is the only name up over three months (**+13.0%**) and over six months (**+1
 | Company (Ticker) | P/E | Fwd P/E | PEG | P/S | P/B | P/FCF |
 |:--|--:|--:|--:|--:|--:|--:|
 | Teck (TECK.B) | 16.2 | 13.1 | 0.01 | 2.84 | 1.49 | 25.2 |
-| First Quantum (FM) | — | 83.5 | — | 3.43 | 1.73 | 294.0 |
-| Lundin Mining (LUN) | 12.1 | 15.8 | — | 4.18 | 2.53 | 18.0 |
-| Hudbay (HBM) | 13.1 | 14.4 | 0.10 | 3.56 | 2.01 | 39.5 |
-| Ivanhoe Mines (IVN) | 67.8 | 41.3 | — | 16.16 | 1.54 | — |
-| Capstone (CS) | 13.1 | 13.2 | 0.02 | 2.30 | 1.69 | 51.1 |
-| Ero Copper (ERO) | 10.3 | 7.5 | 0.09 | 2.96 | 2.55 | 20.4 |
-| *Average* | 22.1 | 27.0 | 0.05 | 5.06 | 1.93 | 74.7 |
+| First Quantum (FM) | 110.9 | 15.0 | 0.40 | 3.02 | 1.64 | — |
+| Lundin Mining (LUN) | 12.3 | 14.9 | — | 4.22 | 2.57 | 18.3 |
+| Hudbay (HBM) | 12.9 | 12.3 | 0.10 | 3.56 | 1.98 | 39.0 |
+| Ivanhoe Mines (IVN) | 66.7 | 18.7 | — | 15.99 | 1.51 | — |
+| Capstone (CS) | 19.3 | 9.8 | 3.90 | 2.18 | 1.66 | 56.8 |
+| Ero Copper (ERO) | 10.0 | 5.9 | 0.09 | 2.98 | 2.47 | 19.8 |
+| *Average* | 35.5 | 12.8 | 0.90 | 4.97 | 1.90 | 31.8 |
 
 *Trailing P/E, P/S, P/B, P/FCF and PEG use the TradingView fields scaled back to the October 23 price. PEG above 30, missing, or not meaningful is blank. Forward P/E is the October 23 price divided by TradingView’s next-fiscal-year EPS consensus, pulled October 27, 2026. It is not the file’s forward-P/E cell. On Royal Bank that method prints 17.2 against the file’s 16.2. Average skips blanks. The trailing average includes Ivanhoe’s 67.8x. The forward average includes First Quantum’s 83.5x and Ivanhoe’s 41.3x. The free-cash-flow average includes First Quantum’s 294x and is not a usable sector multiple. Price/Cash is omitted. A PEG of 0.01 or 0.02 is a trailing-growth artifact after a commodity spike, not a bargain score.*
 
@@ -117,13 +117,13 @@ Ero is the only name up over three months (**+13.0%**) and over six months (**+1
 | Company (Ticker) | Dividend / share | Yield (ind.) | Payout ratio |
 |:--|--:|--:|--:|
 | Teck (TECK.B) | $0.50 | 0.60% | 9.8% |
-| First Quantum (FM) | — | — | — |
+| First Quantum (FM) | $0.00 | — | 0.0% |
 | Lundin Mining (LUN) | $0.17 | 0.37% | 4.5% |
 | Hudbay (HBM) | $0.02 | 0.13% | 1.3% |
-| Ivanhoe Mines (IVN) | — | — | — |
-| Capstone (CS) | — | — | — |
-| Ero Copper (ERO) | — | — | — |
-| *Average* | $0.23 | 0.37% | 5.2% |
+| Ivanhoe Mines (IVN) | $0.00 | — | 0.0% |
+| Capstone (CS) | $0.00 | — | 0.0% |
+| Ero Copper (ERO) | $0.00 | — | 0.0% |
+| *Average* | $0.10 | 0.37% | 2.2% |
 
 *DPS is the annual dividend field. Yield is the indicated yield scaled from the live field back to the October 23 price. Average skips blanks. Four of the seven names pay no dividend. Hudbay’s C$0.02 is a token. Payouts on the three payers are in single digits because trailing earnings are high relative to a small coupon.*
 
@@ -134,15 +134,15 @@ Teck’s **0.60%** is the income line in this table, with a **9.8%** payout. Any
 | Company (Ticker) | Rating | Price | Target 1Y | Upside | Analysts |
 |:--|:--|--:|--:|--:|--:|
 | Teck (TECK.B) | Neutral | $82.68 | CA$87.90 | +6.3% | 8 |
-| First Quantum (FM) | Strong buy | $33.44 | CA$46.78 | +39.9% | 12 |
-| Lundin Mining (LUN) | Buy | $29.50 | CA$39.82 | +35.0% | 14 |
-| Hudbay (HBM) | Strong buy | $30.76 | CA$42.58 | +38.4% | 13 |
-| Ivanhoe Mines (IVN) | Buy | $9.16 | CA$14.72 | +60.7% | 10 |
-| Capstone (CS) | Strong buy | $11.19 | CA$17.50 | +56.4% | 11 |
-| Ero Copper (ERO) | Buy | $42.03 | CA$48.67 | +15.8% | 15 |
-| *Average* | — | — | CA$42.57 | +36.1% | — |
+| First Quantum (FM) | Strong buy | $32.38 | CA$46.78 | +44.5% | 12 |
+| Lundin Mining (LUN) | Buy | $29.96 | CA$39.82 | +32.9% | 14 |
+| Hudbay (HBM) | Strong buy | $30.36 | CA$42.58 | +40.3% | 13 |
+| Ivanhoe Mines (IVN) | Buy | $9.00 | CA$14.72 | +63.6% | 10 |
+| Capstone (CS) | Strong buy | $11.39 | CA$17.50 | +53.6% | 11 |
+| Ero Copper (ERO) | Buy | $40.76 | CA$48.67 | +19.4% | 15 |
+| *Average* | — | — | CA$42.57 | +37.2% | — |
 
-*Rating = TradingView Canada recommendation mark, mapped with the same buckets that match the October 25 file on the published bank, utility and software rows (Strong buy below 1.25, Buy below 1.75, Neutral below 2.25). Target 1Y = MarketBeat’s Canadian-listing consensus in **CAD**, pulled October 27, 2026. Upside is versus the October 23 TSX price. All seven targets have at least eight analysts. All are labelled CAD and all are in the average. The dollar average mixes Teck’s CA$87.90 with Ivanhoe’s CA$14.72. The upside average is the figure that compares.*
+*Rating = screener analyst rating on the November 3, 2026 file. Target 1Y and analyst counts are the MarketBeat TSE consensus figures (CAD) pulled October 27, 2026, not re-pulled for this refresh. Upside is the October 27 target versus the November 3 screener price. The dollar average mixes very different share prices; read the upside column.*
 
 **Teck is the name with no gap to speak of.** **CA$87.90 from 8 analysts is +6.3%** versus **$82.68**, and the rating is Neutral. The one-month leader is the stock the Street has already marked near the price. **Ero at +15.8%** from **15** analysts is the other tight target, on the one-year winner. The large gaps are **Ivanhoe +61%**, **Capstone +56%**, **First Quantum +40%**, **Hudbay +38%** and **Lundin Mining +35%**. Three of those five are the stocks that fell more than **23%** in the month or, in Ivanhoe’s case, **37%** over the year. The targets did not come down with the October tape. That can mean the October move was noise. It can also mean the targets are stale. The November prints are how that gets settled. This page does not have a separate US-listing consensus in the average. The TSE counts are the liquid Canadian pages.
 
