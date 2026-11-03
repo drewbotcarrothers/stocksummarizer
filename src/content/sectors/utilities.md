@@ -12,7 +12,7 @@ draft: false
 author: "Andrew"
 ---
 
-Eight liquid Canadian names — Fortis, Hydro One, Emera, Canadian Utilities, Brookfield Renewable, Capital Power, ATCO and Algonquin — add up to about **CA$144 billion** of market value on the October 25, 2026 screener. The sum double-counts Canadian Utilities, because ATCO still controls it. Over the past month the peer median is up about **3.1%**, ahead of the S&P/TSX Composite’s approximate **+1.4%**. Over one year the median is only about **+1.5%**, far behind the Composite’s approximate **+18%**. Setup for this living note: a yield sector that did not get the bank or pipeline re-rating, with a late-2027 merger sitting on top of three of the rows.
+Eight liquid Canadian names — Fortis, Hydro One, Emera, Canadian Utilities, Brookfield Renewable, Capital Power, ATCO and Algonquin — add up to about **CA$144 billion** of market value on the November 3, 2026 screener. The sum double-counts Canadian Utilities, because ATCO still controls it. Over the past month the peer median is up about **3.1%**, ahead of the S&P/TSX Composite’s approximate **+1.4%**. Over one year the median is only about **+1.5%**, far behind the Composite’s approximate **+18%**. Setup for this living note: a yield sector that did not get the bank or pipeline re-rating, with a late-2027 merger sitting on top of three of the rows.
 
 ## Canadian utility snapshot: market cap, P/E, yield and returns vs the TSX
 
@@ -25,7 +25,9 @@ Eight liquid Canadian names — Fortis, Hydro One, Emera, Canadian Utilities, Br
 | Median 1M price return | +6.0% | TSX ~+1.4% |
 | Median 1Y price return | +6.3% | TSX ~+18.2% |
 
-*Prices are the October 23, 2026 TSX closes inside the October 25, 2026 screener file. See Data notes for what is reconstructed rather than copied cell-for-cell. The trailing-P/E median is pulled up by Canadian Utilities and Capital Power, whose trailing earnings are thin. Fortis, Hydro One and Emera sit at 21.6x–23.8x. TSX Composite 1M/1Y are approximate public index price returns near October 26, 2026.*
+*Screener as of November 3, 2026 (CAD; merge `tsx-2026-11-03.csv`, 2,569 rows). Peer set: FTS, H, EMA, CU, BEP.UN, CPX, ACO.X, AQN. Medians skip blank cells; P/E medians skip non-positive multiples. The TSX column is the approximate index return carried from the October 26 build and was not re-pulled for this refresh.*
+
+**November 3, 2026 refresh.** Between the October 25 and November 3 screener files the median peer price moved **+3.2%**. Best: Brookfield Renewable (+5.1%) and Capital Power (+4.0%). The snapshot and every peer table below are on the November 3 file. Commentary paragraphs between the tables were written on the October 25 file and quote those figures unless they give a later date.
 
 The income case is intact: indicated yields run from Hydro One at **2.52%** to Brookfield Renewable at **5.39%**, with the median at **4%**. The valuation case depends on which earnings you use. Trailing P/E is not a clean sector multiple while Canadian Utilities prints **292.9x** and Capital Power **114.8x**.
 
@@ -75,7 +77,7 @@ Peer set: **Fortis (FTS), Hydro One (H), Emera (EMA), Canadian Utilities (CU), B
 | Algonquin (AQN) | $7.85 | $6.0B | $3.5B | $206M |
 | *Average* | — | $18.5B | $7.0B | $582M |
 
-*Price is the October 23, 2026 close. Market cap, revenue and net income are reconstructed from the TradingView Canada fields that match `tsx-2026-10-25.csv` on the published bank, pipeline and October 26 software rows, scaled to that close where the live field has moved. CAD. Average includes all eight names. Canadian Utilities’ trailing profit of CA$124 million is the same depressed figure the October 3 Emera brief showed, so the 292.9x trailing P/E below is not a new glitch. The CA$144 billion sum double-counts CU inside ATCO. Algonquin and Brookfield Renewable report in US dollars; these are the CAD figures in that same field, not a second conversion.*
+*Source: TSX screener merge `tsx-2026-11-03.csv` (2,569 rows, November 3, 2026) · CAD · LTM = last 12 months. Average includes every row.*
 
 Fortis and Hydro One are the scale poles, together about **CA$74 billion**. Emera is the deal issuer at **CA$21 billion**. Canadian Utilities’ **CA$124 million** of trailing earnings is why its trailing multiple is not usable; the October 3 brief already flagged one-off items. Brookfield Renewable is a partnership with a trailing loss, not a provincial rate-base utility. ATCO is smaller than the subsidiary it controls because the market is capitalizing the parent, not a second full copy of Canadian Utilities — which is also why adding the two market caps overstates the group.
 
@@ -93,7 +95,7 @@ Fortis and Hydro One are the scale poles, together about **CA$74 billion**. Emer
 | Algonquin (AQN) | +9.0% | −2.5% | −9.7% | −7.1% | +0.5% | −56% | −33% |
 | *Average* | +6.2% | −3.1% | +0.6% | +12.8% | +13.7% | +35% | +81% |
 
-*Price returns from the prior TSX close on the window date to the October 23, 2026 close (1M Sep 23, 3M Jul 23, 6M Apr 23, YTD Dec 30 2025, 1Y Oct 23 2025, 5Y Oct 22 2021, 10Y Oct 21 2016). This is not the screener’s own Perf column. On Royal Bank, year-to-date matches the October 25 file (+19.9%) and the one-month does not (file −1.4%, this series +0.1%). Bold = leader on 1M and 1Y.*
+*Source: TSX screener merge `tsx-2026-11-03.csv` (2,569 rows, November 3, 2026) · CAD · price returns. Bold = leader on 1M and on 1Y. Average skips blanks.*
 
 The one-year average of **+8.4%** is ATCO and Canadian Utilities doing the work. Strip the deal and the sector looks like a bond proxy that lost to the index. Three-month returns are negative for every name except ATCO. That is the digestion after a spring rally, visible in Fortis’s year-to-date **+13.8%** against its three-month **−1.7%**.
 
@@ -111,7 +113,7 @@ The one-year average of **+8.4%** is ATCO and Canadian Utilities doing the work.
 | Algonquin (AQN) | 31.7 | 14.2 | — | 1.69 | 0.99 | — |
 | *Average* | 76.3 | 19.2 | 75.33 | 2.57 | 2.03 | 52.3 |
 
-*Trailing P/E, P/S, P/B and P/FCF use the TradingView “current” fields that matched the October 25 file within rounding on Royal Bank (P/S can sit about 0.02 away). Forward P/E is the October 23 price divided by TradingView’s next-fiscal-year EPS consensus, pulled October 27, 2026. That is not the file’s forward-P/E cell: on Royal Bank the file prints 16.2 and this method prints 17.2. Average skips blanks. PEG above 30 is omitted (Fortis’s raw figure was not usable). Brookfield Renewable’s forward EPS estimate is negative, so forward P/E is blank. Price/Cash is omitted.*
+*Source: TSX screener merge `tsx-2026-11-03.csv` (2,569 rows, November 3, 2026) · CAD. Average skips blanks; one large multiple can dominate a column average, so read the medians in the snapshot.*
 
 **Emera (21.6x trailing, 18.6x forward)** is the cleanest large-cap multiple in the regulated group. **Fortis and Hydro One** cluster just above **23x**, and Hydro One’s forward multiple (**23.5x**) does not compress. **Canadian Utilities at 292.9x** and **Capital Power at 114.8x** are thin-earnings artifacts; Canadian Utilities’ forward multiple (**19.2x**) is the number that belongs in a comparison, and Capital Power’s **42.8x** forward says the Street’s next-year earnings estimate is still modest. **Algonquin at 0.95x book** is the only name in the set under book. **ATCO at 16.8x forward** is cheap against Fortis only if the New ATCO spin-off is worth what the October jump implied.
 
@@ -137,7 +139,7 @@ The one-year average of **+8.4%** is ATCO and Canadian Utilities doing the work.
 | Algonquin (AQN) | $0.36 | 4.64% | 146.4% |
 | *Average* | $1.96 | 3.76% | 260.6% |
 
-*DPS is the annual dividend field. Yield is the indicated yield scaled from the live field back to the October 23 price (the same adjustment that matched Royal Bank’s 2.50% on the October 25 file). Payout above 500%, or negative, is blank — Canadian Utilities, Capital Power and Brookfield Renewable. Average payout excludes those three.*
+*Source: TSX screener merge `tsx-2026-11-03.csv` (2,569 rows, November 3, 2026) · CAD. DPS is annual; yield is indicated. Payout is trailing; negative payouts show as — and are left out of the average.*
 
 Hydro One and ATCO yield about **2.5%**. They are total-return wires, not the income sleeve. Emera at **4.31%** still carries the sector’s flagship coupon, with a payout just under **100%** of trailing accounting earnings. Algonquin’s **4.82%** and Brookfield Renewable’s **5.39%** are the high yields, and both sit on weaker earnings coverage. ATCO’s payout above **100%** is the parent’s accounting, not a second Canadian Utilities dividend.
 
@@ -205,6 +207,8 @@ The merger is not a fourth business model. It is a clock. Nothing in the **C$32 
 Fortis, Hydro One, Algonquin, Brookfield Renewable, Capital Power and ATCO are not in the coverage log yet. Those two briefs use earlier screener files (October 3 and October 8). The tables on this page are the October 23 closes.
 
 ## Data notes: screener date, peer set and where the targets come from
+
+**November 3, 2026 refresh.** The snapshot strip and every peer table now come straight from merge `tsx-2026-11-03.csv` (2,569 rows): prices, market caps, LTM revenue and net income, returns, multiples, dividends and screener ratings. Average rows skip blanks. Target 1Y and analyst counts are still the MarketBeat figures pulled October 27, 2026; upside compares those targets with the November 3 price. Rows for tickers missing from the November 3 export keep the previous build’s values and are named under the snapshot. The method notes below describe the October 27 build and still apply to the commentary written on it.
 
 Prices are the October 23, 2026 TSX closes (the close inside merge `tsx-2026-10-25.csv`; the file itself is not in this checkout). Market cap, revenue, net income, trailing P/E, P/S, P/B, P/FCF, annual DPS, indicated yield and payout are reconstructed from TradingView Canada fields that reproduce that file on the published Royal Bank, Enbridge and October 26 Constellation rows, with market cap and the live yield scaled back to the October 23 close. P/S can sit about 0.02 away from the file. PEG is the TradingView trailing PEG scaled the same way, blank above 30 or when missing. Forward P/E is October 23 price ÷ TradingView’s next-fiscal-year EPS consensus, pulled October 27, 2026. It is **not** the file’s forward-P/E cell (Royal Bank: file 16.2, this method 17.2). Performance is the exchange-close price return on the windows under the performance table, not the file’s Perf column (Royal Bank year-to-date matches; the one-month does not). Peer rule: liquid Canadian utilities — FTS, H, EMA, CU, ACO.X, AQN, plus BEP.UN and CPX as the renewable partnership and the contracted generator. Excluded: ALA (on the midstream page), ENB, TRP, Brookfield Infrastructure, Northland Power, TransAlta, and preferreds. Average rows include all eight names and skip blank cells. The market-cap sum double-counts Canadian Utilities inside ATCO. Target 1Y is MarketBeat TSE consensus in **CAD**, pulled October 27, 2026. The average uses the seven targets with at least five analysts. Brookfield Renewable’s TSE consensus is CA$41.50 from 2 analysts and is excluded from the average; the NYSE consensus the same day is US$37.14 from 16 analysts and is not converted. Screener ratings are in the analyst table. Algonquin and Brookfield Renewable report in US dollars; revenue and earnings are the CAD figures in the TradingView field, the same treatment that matched Constellation’s CAD revenue in the October 26 brief. TSX Composite 1M/1Y are approximate public index price returns near October 26, 2026. Snapshot medians use the eight-name set; trailing P/E uses the seven names with a positive multiple.
 

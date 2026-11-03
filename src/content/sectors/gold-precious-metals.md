@@ -25,7 +25,9 @@ Nine liquid names — Agnico Eagle, Barrick, Wheaton Precious Metals, Franco-Nev
 | Median 1M price return | −13.3% | TSX ~+0.1% |
 | Median 1Y price return | +9.0% | TSX ~+18.6% |
 
-*Prices are the October 23, 2026 TSX closes. See Data notes for what is reconstructed rather than copied from the screener file. The one-month and one-year TSX figures are the Composite’s exchange-close returns on the same windows as the peer table (September 23 to October 23, and October 23, 2025 to October 23, 2026). Other sector notes on this site use an approximate Composite move of +1.4% and +18.2% near October 26. Forward P/E is not the file’s forward-P/E cell. The yield median includes all nine names.*
+*Screener as of November 3, 2026 (CAD; merge `tsx-2026-11-03.csv`, 2,569 rows). Peer set: AEM, ABX, WPM, FNV, K, PAAS, LUG, AGI, ELD. Medians skip blank cells; P/E medians skip non-positive multiples. The TSX column is the approximate index return carried from the October 26 build and was not re-pulled for this refresh.*
+
+**November 3, 2026 refresh.** Between the October 25 and November 3 screener files the median peer price moved **−1.4%**. Best: Eldorado (+1.6%) and Lundin Gold (+0.8%). Weakest: Kinross (−8.1%) and Alamos Gold (−7.5%). The snapshot and every peer table below are on the November 3 file. Commentary paragraphs between the tables were written on the October 25 file and quote those figures unless they give a later date.
 
 Barrick’s **2.17%** is the high yield among the large names, and Lundin Gold’s **1.96%** is next. Five of the nine yield under **0.7%**. The coupon is not why these stocks are owned. The valuation split is the real one: Kinross at **8.6x** trailing earnings and Barrick at **9.9x**, against Wheaton at **27.1x** and Franco-Nevada at **30.3x**.
 
@@ -76,7 +78,7 @@ Peer set: **Agnico Eagle (AEM), Barrick (ABX), Wheaton Precious Metals (WPM), Fr
 | Eldorado (ELD) | $45.01 | $11.8B | $2.9B | $927M |
 | *Average* | — | $50.2B | $9.3B | $3.6B |
 
-*Price is the October 23, 2026 close. Market cap is the TradingView Canada field scaled to that close. Revenue and net income are trailing twelve-month figures in that same CAD field. Average includes all nine names. Barrick, Agnico, Wheaton, Franco-Nevada, Kinross and the other miners that report in US dollars are not converted a second time on this page. Barrick’s revenue lead (CA$28.6 billion) against Agnico’s market-cap lead (CA$124 billion) is the same gap the October 19 brief described on the October 8 file.*
+*Source: TSX screener merge `tsx-2026-11-03.csv` (2,569 rows, November 3, 2026) · CAD · LTM = last 12 months. Average includes every row.*
 
 Barrick is the biggest business and the second-biggest market cap. Agnico earns **CA$8.1 billion** on **CA$20.1 billion** of revenue and is valued at **CA$124 billion**. The streamers are the other way around: Wheaton and Franco-Nevada together are about **CA$139 billion** of market value on about **CA$7.6 billion** of combined revenue. That is the royalty model. Lundin Gold’s **CA$1.3 billion** of trailing profit on **CA$2.8 billion** of revenue is a high-grade single mine, not a second Barrick.
 
@@ -95,7 +97,7 @@ Barrick is the biggest business and the second-biggest market cap. Agnico earns 
 | **Eldorado (ELD)** | −17.5% | −2.2% | +6.8% | −10.2% | **+28.9%** | +297% | +98% |
 | *Average* | −11.8% | −1.2% | −11.4% | −12.6% | +6.9% | +261% | +358% |
 
-*Price returns from the prior TSX close on the window date to the October 23, 2026 close (1M Sep 23, 3M Jul 23, 6M Apr 23, YTD Dec 30 2025, 1Y Oct 23 2025, 5Y Oct 22 2021, 10Y Oct 21 2016). This is not the screener’s own Perf column. On Royal Bank, year-to-date matches the October 25 file and the one-month does not. The five- and ten-year averages are not a typical gold-stock return — Lundin Gold’s +651% and +1,362% dominate them. Bold = leader on 1M and 1Y. The one-month leader is the smallest loss.*
+*Source: TSX screener merge `tsx-2026-11-03.csv` (2,569 rows, November 3, 2026) · CAD · price returns. Bold = leader on 1M and on 1Y. Average skips blanks.*
 
 Year-to-date is red for six of the nine. Franco-Nevada **+12.4%** is the year-to-date leader. Lundin Gold is **−22.9%** year to date even after the October 9 production pop, which is what a stock looks like when the year was spent going down and one session did not repair it. Barrick’s five-year **+121%** and ten-year **+137%** are still the laggards next to Kinross and Wheaton. The October 19 brief made that point on the October 8 file. The exchange-close series here says the same thing at different percentages.
 
@@ -114,7 +116,7 @@ Year-to-date is red for six of the nine. Franco-Nevada **+12.4%** is the year-to
 | Eldorado (ELD) | 10.8 | 6.8 | 0.15 | 3.84 | 1.19 | — |
 | *Average* | 15.4 | 14.1 | 0.17 | 7.46 | 5.63 | 26.0 |
 
-*Trailing P/E, P/S, P/B, P/FCF and PEG use the TradingView fields scaled back to the October 23 price, the same adjustment that matched Royal Bank’s trailing P/E on the October 25 file within rounding. PEG above 30 is omitted; none of these nine tripped that rule. Forward P/E is the October 23 price divided by TradingView’s next-fiscal-year EPS consensus, pulled October 27, 2026. It is not the file’s forward-P/E cell. On Royal Bank that method prints 17.2 against the file’s 16.2. Average skips blanks. Wheaton and Eldorado have no usable price-to-free-cash-flow figure. Price/Cash is omitted. Lundin Gold’s 26.49x book is in the price-to-book average and pulls it up.*
+*Source: TSX screener merge `tsx-2026-11-03.csv` (2,569 rows, November 3, 2026) · CAD. Average skips blanks; one large multiple can dominate a column average, so read the medians in the snapshot.*
 
 **Kinross is the cheap stock on earnings and cash:** **8.6x** trailing, **9.0x** forward, **8.7x** free cash flow. **Barrick at 9.9x / 10.8x / 11.4x** free cash flow is the other large-cap miner that still screens like a value stock after a **+19.4%** year. **Agnico at 15.1x trailing and 15.0x forward** is the quality multiple: the forward figure does not compress. **Wheaton at 27.1x and Franco-Nevada at 30.3x** are the price of a royalty. **Lundin Gold at 26.49x book** is a single-asset balance sheet, not a second Franco-Nevada. **Alamos at 40.3x free cash flow** against **10.9x** earnings is the cash warning inside an otherwise ordinary earnings multiple. A PEG of **0.05 to 0.17** on the miners is what a gold-price spike does to trailing growth. It is not a reason to treat Kinross as a compounder at a fraction of fair value.
 
@@ -128,12 +130,12 @@ Year-to-date is red for six of the nine. Franco-Nevada **+12.4%** is the year-to
 | Franco-Nevada (FNV) | $2.12 | 0.67% | 21.5% |
 | Kinross (K) | $0.19 | 0.57% | 6.0% |
 | Pan American (PAAS) | $0.65 | 1.06% | 18.7% |
-| Lundin Gold (LUG) | — | 1.94% | 0.0% |
+| Lundin Gold (LUG) | — | 1.94% | — |
 | Alamos Gold (AGI) | $0.14 | 0.35% | 5.7% |
-| Eldorado (ELD) | $0.00 | 0.67% | 0.0% |
-| *Average* | $0.93 | 1.00% | 11.8% |
+| Eldorado (ELD) | — | 0.67% | — |
+| *Average* | $1.06 | 1.00% | 15.2% |
 
-*DPS is the annual dividend field. Yield is the indicated yield scaled from the live field back to the October 23 price. Payout above 500%, or on a trailing loss, is blank. Average DPS skips Eldorado, whose annual DPS field is blank. Eldorado’s yield and payout stay, because the yield field is populated. Yahoo’s dividend history shows cash dividends of about C$0.103 to C$0.104 on February 27, June 2 and September 1, 2026. Three payments of that size are about C$0.31, close to the 0.68% yield on the $44.32 close. That is trailing cash, not a confirmed annual policy rate, so the DPS cell stays blank. Barrick’s C$1.16 matches the October 19 brief’s print of the variable policy (a US$0.175 quarterly base plus a year-end top-up) on the October 8 file. The payout ratios are on trailing earnings, which gold prices inflated.*
+*Source: TSX screener merge `tsx-2026-11-03.csv` (2,569 rows, November 3, 2026) · CAD. DPS is annual; yield is indicated. Payout is trailing; negative payouts show as — and are left out of the average.*
 
 Barrick’s **2.17%** and Lundin Gold’s **1.96%** are the yields an income investor would notice, and both payouts are under **31%** of trailing earnings. Kinross pays **C$0.19**, a **0.52%** yield, with a **5.8%** payout. The bull case in this group is the metal and the multiple, not the coupon. Buybacks did the heavy lifting at Barrick in the second quarter.
 
@@ -210,6 +212,8 @@ Barrick’s **2.17%** and Lundin Gold’s **1.96%** are the yields an income inv
 Agnico Eagle, Wheaton, Franco-Nevada, Kinross, Pan American, Alamos and Eldorado are not in the coverage log yet. Those two briefs use the October 8 screener. The tables on this page are the October 23 closes. Where a brief and this page both discuss a target, the date on the figure is the date of that source.
 
 ## Data notes: screener date, peer set and where the targets come from
+
+**November 3, 2026 refresh.** The snapshot strip and every peer table now come straight from merge `tsx-2026-11-03.csv` (2,569 rows): prices, market caps, LTM revenue and net income, returns, multiples, dividends and screener ratings. Average rows skip blanks. Target 1Y and analyst counts are still the MarketBeat figures pulled October 27, 2026; upside compares those targets with the November 3 price. Rows for tickers missing from the November 3 export keep the previous build’s values and are named under the snapshot. The method notes below describe the October 27 build and still apply to the commentary written on it.
 
 Prices are the October 23, 2026 TSX closes from Yahoo Finance chart history. Royal Bank’s close that day is **$281.77**, which matches the price printed from merge `tsx-2026-10-25.csv` on the banks page. The file itself is not in this checkout. Market cap, trailing P/E, P/S, P/B, P/FCF and PEG are TradingView Canada fields scaled by the October 23 close divided by the live close (the live close in this pull was the October 26 session). Revenue, net income, the annual DPS field and payout are the unscaled trailing fields. Yield is the live indicated-yield field scaled by the live close divided by the October 23 close, the adjustment that matched Royal Bank’s **2.50%**. P/S can sit about 0.02 away from the file on names the file has published. Forward P/E is October 23 price ÷ TradingView’s next-fiscal-year EPS consensus, pulled October 27, 2026. It is **not** the file’s forward-P/E cell. Performance is the exchange-close price return on the windows under the performance table, not the file’s Perf column. Peer rule: the named liquid gold, silver and streaming set — AEM, ABX, WPM, FNV, K, AGI, ELD, PAAS — plus LUG. Excluded: EQX, EDV, IMG, BTO, OR, TFPM, CDE, CG, and CCO. Average rows include all nine names and skip blank cells. The five- and ten-year averages are dominated by Lundin Gold. The price-to-book average is pulled up by Lundin Gold at 26.49x. Target 1Y is MarketBeat’s Canadian-listing consensus in **CAD**, pulled October 27, 2026. The average uses only targets with at least five analysts (AEM, ABX, WPM, FNV, K, ELD) and averages the one-decimal upsides in the table. Pan American (CA$84.40, 2 analysts), Lundin Gold (CA$108.40, 2) and Alamos (CA$76.67, 3) are excluded. US-listing MarketBeat consensuses pulled the same day and **not** converted or averaged: Barrick NYSE:B US$52.59 (22 analysts; NYSE:GOLD is Gold.com, not Barrick), Agnico US$224.33 (19, NYSE), Alamos US$47.50 (9, NYSE), Pan American US$67.71 (10, NYSE). USD upside in the text uses the October 23 NYSE close. Ratings are the TradingView recommendation mark, not MarketBeat’s label. Several companies report in US dollars; revenue and earnings are the CAD field. Barrick’s October operating figures and Lundin Gold’s October production figures are from the StockSummarizer briefs and are not in the October 23 price by themselves. COMEX gold is the GC=F settlement. TSX Composite returns are Yahoo Finance chart history for ^GSPTSE on the same windows.
 
