@@ -353,6 +353,18 @@ Pull next High-priority titles from the evergreen plan Page category explorer (a
 - [x] `analyze` — How to Spot Dilution Risk in Canadian Equity Issuers — /investing/analyze/spot-dilution-risk-canadian-issuers/
 - [x] `analyze` — How to Read Share Buyback Disclosures in Canada — /investing/analyze/read-share-buyback-disclosures-canada/
 - [x] `analyze` — How to Analyze Insider Ownership Without Overweighting It — /investing/analyze/analyze-insider-ownership/
+- [x] `analyze` — How to Read a Management Information Circular for Investors — /investing/analyze/read-management-information-circular/
+- [x] `analyze` — How to Evaluate Executive Compensation Alignment (Investor Angle) — /investing/analyze/evaluate-executive-compensation-alignment/
+- [x] `analyze` — How to Analyze Working Capital Swings in Quarterly Results — /investing/analyze/analyze-working-capital-swings-quarterly/
+- [x] `analyze` — How to Read Cash Flow from Operations vs Net Income — /investing/analyze/read-cfo-vs-net-income/
+- [x] `analyze` — FCF for Stock Decisions: A Quick Decision Checklist (re-angled from bank FCF-for-decisions title) — /investing/analyze/fcf-stock-decisions-quick-checklist/
+- [x] `analyze` — How to Read Debt Notes and Covenant Language Simply — /investing/analyze/read-debt-notes-covenant-language/
+- [x] `analyze` — How to Analyze Interest Coverage for Levered TSX Names — /investing/analyze/analyze-interest-coverage-levered-tsx/
+- [x] `analyze` — How to Evaluate Pension and Other Long-Term Liabilities — /investing/analyze/evaluate-pension-long-term-liabilities/
+- [x] `analyze` — How to Read Related-Party Disclosures Without Panic — /investing/analyze/read-related-party-disclosures/
+- [x] `analyze` — How to Analyze Customer Concentration Risk — /investing/analyze/analyze-customer-concentration-risk/
+- [x] `analyze` — How to Analyze Geographic Revenue Mix for Canadian Multinationals — /investing/analyze/analyze-geographic-revenue-mix-canadian-multinationals/
+- [x] `analyze` — How to Build a One-Page Competitive Moat Checklist — /investing/analyze/build-one-page-competitive-moat-checklist/
 
 ## Routine handoff notes
 
