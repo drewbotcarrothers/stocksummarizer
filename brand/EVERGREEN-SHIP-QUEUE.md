@@ -12,10 +12,10 @@
 
 | Metric | Value |
 |:--|--:|
-| Live (Batches 1–10) | 120 |
+| Live (Batches 1–11) | 132 |
 | Remaining Wave 1 tracked below | 0 (Wave 1 complete) |
-| Remaining full bank (ex-Batches 1–10) | 1317 |
-| Last shipped | Batch 10 — 2026-11-06 (commit 126640d) |
+| Remaining full bank (ex-Batches 1–11) | 1305 |
+| Last shipped | Batch 11 — 2026-11-07 (commit 302bcb5) |
 | Target daily batch | 12 |
 | Day 30 calendar end | 2026-11-26 |
 
@@ -223,6 +223,28 @@ Enrichment: markdown tables plus two inline SVG figures per post (flows, horizon
 
 Overlap watch for Day 11+: (1) Next 12 from TM_ANALYZE after bank #35 (0-index bank after moat checklist): How to Map a Company's Business Model in Plain English; How to Identify Recurring vs Cyclical Revenue; How to Read Order Backlog and Book-to-Bill When Disclosed; How to Analyze Same-Store Sales and Volume Metrics; How to Read Unit Economics When a Company Discloses Them; How to Compare Organic Growth vs Acquisition Growth; How to Analyze M&A Track Records for Serial Acquirers; How to Stress-Test a Stock Thesis Against a Recession Scenario; How to Build a Watchlist Process That Is Not Noise; How to Use Peer Tables Without Cherry-Picking Comps; How to Update a Stock Thesis After a Beat or Miss; How to Read Auditor Opinions and Going-Concern Language. (2) #57 thesis-broken / #83 kill-criteria still duplicate Batch 6 #2 + Batch 8 #6 — skip or re-angle when reached. (3) FCF bank title was re-angled this batch — do not ship a second FCF hub. (4) Later sector "How to Analyze …" posts (#67–#77) must link Batch 4/5 sector explainers and Batch 8 bank playbook, not repeat them. After analyze bank empties of unique titles, continue valuation → dividends → accounts → glossary → sector concepts → pathways per After Wave 1 order.
 
+
+## Batch 11 — SHIPPED 2026-11-07 (After Wave 1 analyze: business model through auditor opinions)
+
+| # | Category | Title | URL |
+|--:|:--|:--|:--|
+| 1 | analyze | How to Map a Company's Business Model in Plain English | https://stocksummarizer.com/investing/analyze/map-company-business-model-plain-english/ |
+| 2 | analyze | How to Identify Recurring vs Cyclical Revenue | https://stocksummarizer.com/investing/analyze/identify-recurring-vs-cyclical-revenue/ |
+| 3 | analyze | How to Read Order Backlog and Book-to-Bill When Disclosed | https://stocksummarizer.com/investing/analyze/read-order-backlog-book-to-bill/ |
+| 4 | analyze | How to Analyze Same-Store Sales and Volume Metrics | https://stocksummarizer.com/investing/analyze/analyze-same-store-sales-volume-metrics/ |
+| 5 | analyze | How to Read Unit Economics When a Company Discloses Them | https://stocksummarizer.com/investing/analyze/read-unit-economics-when-disclosed/ |
+| 6 | analyze | How to Compare Organic Growth vs Acquisition Growth | https://stocksummarizer.com/investing/analyze/compare-organic-vs-acquisition-growth/ |
+| 7 | analyze | How to Analyze M&A Track Records for Serial Acquirers | https://stocksummarizer.com/investing/analyze/analyze-ma-track-records-serial-acquirers/ |
+| 8 | analyze | How to Stress-Test a Stock Thesis Against a Recession Scenario | https://stocksummarizer.com/investing/analyze/stress-test-stock-thesis-recession-scenario/ |
+| 9 | analyze | How to Build a Watchlist Process That Is Not Noise | https://stocksummarizer.com/investing/analyze/build-watchlist-process-not-noise/ |
+| 10 | analyze | How to Use Peer Tables Without Cherry-Picking Comps | https://stocksummarizer.com/investing/analyze/use-peer-tables-without-cherry-picking/ |
+| 11 | analyze | How to Update a Stock Thesis After a Beat or Miss | https://stocksummarizer.com/investing/analyze/update-stock-thesis-after-beat-or-miss/ |
+| 12 | analyze | How to Read Auditor Opinions and Going-Concern Language | https://stocksummarizer.com/investing/analyze/read-auditor-opinions-going-concern-language/ |
+
+Enrichment: markdown tables plus three inline SVG figures per post (flows, horizontal/vertical bars, 100% stacked mix bars, decision cards, reliability ladder, zoned scatter); all worked numbers labelled hypothetical; no current company financials stated as fact. Sources cited where standards/regulation appear: NI 51-102, NI 52-112, IFRS 3/7/8/9/15, IAS 1/36, CAS 570/700/701/705/706 (literacy framing). Overlap handling: no re-angles required this batch — all 12 titles were unshipped unique analyze spokes. Cross-links heavy to Batch 2–10 analyze/frameworks hubs (revenue quality, segment reporting, FCF checklist, non-GAAP, Bull/Bear/Watch, thesis-catalyst-kill, debt notes, interest coverage, SEDAR+ alerts). monetization ebook on all 12. New Wikimedia/CC photos (none reused; md5 unique; Commons pages HTTP 200). Build clean (220 pages); internal investing links in the new posts verified against content tree. Commit 302bcb5.
+
+Overlap watch for Day 12+: (1) Next 12 from TM_ANALYZE after bank #47 (auditor opinions): How to Analyze Inventory Turns and Receivables Quality; How to Read Non-GAAP Metrics Critically (Adjusted EBITDA and Friends); How to Separate Price Action from Fundamentals in Your Notes; … continue in bank order. **Note: bank #48 Non-GAAP already shipped in Batch 2** (`read-non-gaap-metrics-critically`) — skip or re-angle when reached (do not re-ship). (2) #57 thesis-broken / #83 kill-criteria still duplicate Batch 6 #2 + Batch 8 #6 — skip or re-angle when reached. (3) Do not ship a second FCF hub (Batch 10 already re-angled the FCF-for-decisions title). (4) Later sector "How to Analyze …" posts (#67–#77) must link Batch 4/5 sector explainers and Batch 8 bank playbook, not repeat them. After analyze bank empties of unique titles, continue valuation → dividends → accounts → glossary → sector concepts → pathways per After Wave 1 order.
+
 ## Upcoming batches (Wave 1 remainder first)
 
 Routine agent: take the next **12** `queued` rows, write to Astro standards, commit+push `main`, mark `shipped`, update this file + plan Page checklist, report in StockSummarizer chat. Pause/self-delete after day 30 **or** when queue empty — if titles remain after day 30, report remaining count and pause for Andrew direction.
@@ -238,6 +260,7 @@ Routine agent: take the next **12** `queued` rows, write to Astro standards, com
 | 8 | 2026-11-04 | **shipped 2026-11-04** (Batch 8, commit e3e331a; +3 After Wave 1 analyze top-ups: How to Read a Canadian Annual Report Without an Accounting Degree; SEDAR+ vs EDGAR: What Changes When You Own US Stocks from Canada; How to Read an Earnings Press Release Before the Charts) | How to Use StockSummarizer Briefs as Learning Objects; Playbook: Your First Canadian Bank Analysis; Myth: A Low P/E Always Means Cheap; Myth: High Dividend Yield Means Safe Income; Framework: Bull / Bear / Watch Decision Card; Framework: Thesis → Catalyst → Kill Criteria; Mistake: Putting US Dividend Payers in a TFSA by Default; Framework: Source Hierarchy (Filings > Transcripts > Commentary); Mistake: Building a TFSA Like a Day-Trading Account |
 | 9 | 2026-11-05 | **shipped 2026-11-05** (Batch 9, commit 86347f2; 12 After-Wave-1 analyze posts: one-time items through insider ownership) | How to Spot One-Time Items in Canadian Financial Statements; How to Separate News from Thesis for Individual Stocks; How to Track a Stock Thesis Over Multiple Quarters; How to Read Segment Reporting in Canadian Filings; How to Analyze Revenue Quality for Canadian Issuers; How to Analyze Gross Margin Trends Before You Buy; How to Analyze Operating Leverage in a Simple Business Model; How to Read Capex Plans in an MD&A; How to Evaluate Management Guidance Language; How to Spot Dilution Risk in Canadian Equity Issuers; How to Read Share Buyback Disclosures in Canada; How to Analyze Insider Ownership Without Overweighting It |
 | 10 | 2026-11-06 | **shipped 2026-11-06** (Batch 10, commit 126640d; 12 After-Wave-1 analyze posts: MIC through moat checklist; FCF re-angled as checklist spoke) | How to Read a Management Information Circular for Investors; How to Evaluate Executive Compensation Alignment (Investor Angle); How to Analyze Working Capital Swings in Quarterly Results; How to Read Cash Flow from Operations vs Net Income; FCF for Stock Decisions: A Quick Decision Checklist *(re-angled)*; How to Read Debt Notes and Covenant Language Simply; How to Analyze Interest Coverage for Levered TSX Names; How to Evaluate Pension and Other Long-Term Liabilities; How to Read Related-Party Disclosures Without Panic; How to Analyze Customer Concentration Risk; How to Analyze Geographic Revenue Mix for Canadian Multinationals; How to Build a One-Page Competitive Moat Checklist |
+| 11 | 2026-11-07 | **shipped 2026-11-07** (Batch 11, commit 302bcb5; 12 After-Wave-1 analyze posts: business-model map through auditor opinions / going-concern) | How to Map a Company's Business Model in Plain English; How to Identify Recurring vs Cyclical Revenue; How to Read Order Backlog and Book-to-Bill When Disclosed; How to Analyze Same-Store Sales and Volume Metrics; How to Read Unit Economics When a Company Discloses Them; How to Compare Organic Growth vs Acquisition Growth; How to Analyze M&A Track Records for Serial Acquirers; How to Stress-Test a Stock Thesis Against a Recession Scenario; How to Build a Watchlist Process That Is Not Noise; How to Use Peer Tables Without Cherry-Picking Comps; How to Update a Stock Thesis After a Beat or Miss; How to Read Auditor Opinions and Going-Concern Language |
 
 ## After Wave 1
 
@@ -365,6 +388,18 @@ Pull next High-priority titles from the evergreen plan Page category explorer (a
 - [x] `analyze` — How to Analyze Customer Concentration Risk — /investing/analyze/analyze-customer-concentration-risk/
 - [x] `analyze` — How to Analyze Geographic Revenue Mix for Canadian Multinationals — /investing/analyze/analyze-geographic-revenue-mix-canadian-multinationals/
 - [x] `analyze` — How to Build a One-Page Competitive Moat Checklist — /investing/analyze/build-one-page-competitive-moat-checklist/
+- [x] `analyze` — How to Map a Company's Business Model in Plain English — /investing/analyze/map-company-business-model-plain-english/
+- [x] `analyze` — How to Identify Recurring vs Cyclical Revenue — /investing/analyze/identify-recurring-vs-cyclical-revenue/
+- [x] `analyze` — How to Read Order Backlog and Book-to-Bill When Disclosed — /investing/analyze/read-order-backlog-book-to-bill/
+- [x] `analyze` — How to Analyze Same-Store Sales and Volume Metrics — /investing/analyze/analyze-same-store-sales-volume-metrics/
+- [x] `analyze` — How to Read Unit Economics When a Company Discloses Them — /investing/analyze/read-unit-economics-when-disclosed/
+- [x] `analyze` — How to Compare Organic Growth vs Acquisition Growth — /investing/analyze/compare-organic-vs-acquisition-growth/
+- [x] `analyze` — How to Analyze M&A Track Records for Serial Acquirers — /investing/analyze/analyze-ma-track-records-serial-acquirers/
+- [x] `analyze` — How to Stress-Test a Stock Thesis Against a Recession Scenario — /investing/analyze/stress-test-stock-thesis-recession-scenario/
+- [x] `analyze` — How to Build a Watchlist Process That Is Not Noise — /investing/analyze/build-watchlist-process-not-noise/
+- [x] `analyze` — How to Use Peer Tables Without Cherry-Picking Comps — /investing/analyze/use-peer-tables-without-cherry-picking/
+- [x] `analyze` — How to Update a Stock Thesis After a Beat or Miss — /investing/analyze/update-stock-thesis-after-beat-or-miss/
+- [x] `analyze` — How to Read Auditor Opinions and Going-Concern Language — /investing/analyze/read-auditor-opinions-going-concern-language/
 
 ## Routine handoff notes
 
