@@ -1,10 +1,10 @@
 ---
 title: "Canadian insurance stocks: life vs P&C valuation, dividends, catastrophe losses and analyst targets"
-description: "How Canadian insurance stocks look on the November 3, 2026 screener: Manulife, Great-West, Sun Life, Intact, Fairfax and peers on performance, valuation, dividends and analyst targets, plus the November earnings window."
+description: "How Canadian insurance stocks look on the November 9, 2026 screener: Manulife, Great-West, Sun Life, Intact, Fairfax and peers on performance, valuation, dividends and analyst targets, plus the November earnings window."
 sector: "Insurers"
-thesis: "Life insurers have outrun the TSX over the past year, but Intact has already flagged a heavy catastrophe quarter and the Street’s upside is concentrated in P&C, not in the names that led the tape."
-updatedDate: 2026-11-03
-screenerDate: 2026-11-03
+thesis: "Life insurers have outrun the TSX over the past year, but Sun Life’s 10% drop on MFS outflows and U.S. disability losses shows how fast a leader can reset, while Fairfax jumped on its third quarter and the Street’s upside is concentrated in P&C."
+updatedDate: 2026-11-09
+screenerDate: 2026-11-09
 image: "/images/sectors/insurers.jpg"
 imageAlt: "Sun Life Centre in Toronto, a pair of light-coloured office towers at King Street West and University Avenue"
 imageCredit: "Sun Life Centre, Toronto, at King Street West and University Avenue. The photographer’s description identifies the complex as Sun Life’s Toronto headquarters. Photo by Ken Lund, CC BY-SA 2.0, via Wikimedia Commons. Cropped and resized."
@@ -20,20 +20,22 @@ Power Corp’s market value sits on top of its stake in Great-West, so that CA$4
 
 | Metric | Peer set (8) | vs TSX (approx.) |
 |:--|--:|--:|
-| Combined market cap | ~CA$438.8B | — |
-| Median trailing P/E | 18.7x | — |
-| Median forward P/E | 14.1x | — |
-| Median indicated yield | 2.51% | — |
-| Median 1M price return | +6.2% | TSX ~+1.4% |
-| Median 1Y price return | +31.9% | TSX ~+18.2% |
+| Combined market cap | ~CA$454.5B | — |
+| Median trailing P/E | 17.6x | — |
+| Median forward P/E | 13.6x | — |
+| Median indicated yield | 2.43% | — |
+| Median 1M price return | +3.5% | TSX ~+1.4% |
+| Median 1Y price return | +25.0% | TSX ~+18.2% |
 
-*Screener as of November 3, 2026 (CAD; merge `tsx-2026-11-03.csv`, 2,569 rows). Peer set: MFC, GWO, SLF, POW, FFH, IFC, IAG, DFY. Medians skip blank cells; P/E medians skip non-positive multiples. The TSX column is the approximate index return carried from the October 26 build and was not re-pulled for this refresh.*
+*Screener as of November 9, 2026 (CAD; merge `tsx-2026-11-09.csv`, 2,564 rows). Peer set: MFC, GWO, SLF, POW, FFH, IFC, IAG, DFY. Medians skip blank cells; P/E medians skip non-positive multiples. The TSX column is the approximate index return carried from the October 26 build and was not re-pulled for this refresh.*
 
-**November 3, 2026 refresh.** Between the October 25 and November 3 screener files the median peer price moved **+2.0%**. Best: iA Financial (+3.9%) and Power Corp (+3.5%). The snapshot and every peer table below are on the November 3 file. Commentary paragraphs between the tables were written on the October 25 file and quote those figures unless they give a later date.
+**November 9, 2026 refresh.** Between the November 3 and November 9 screener files the median peer price moved **−1.9%**. Best: Fairfax (+7.3%) and Intact (+4.3%). Weakest: Sun Life (−10.4%) and Power Corp (−4.5%). The snapshot and every peer table below are on the November 9 file. Commentary paragraphs between the tables were written on the October 25 file and quote those figures unless they give a later date.
 
 Valuation is a split screen. Fairfax is the cheap outlier on trailing earnings (**8.7x**) and book (**1.33x**). The lifecos cluster in the high teens on trailing P/E and the low-to-mid teens on forward P/E. Intact and Definity, the two P&C operators, are the names where the forward multiple does not compress. Yields are real but not the reason to own the group: the median indicated yield is about **2.6%**, with Sun Life highest at **3.47%** and Fairfax under **1%**.
 
 ## What is driving Canadian insurance stocks: catastrophe losses, Boots and November earnings
+
+**November 9, 2026 update.** Sun Life reported after the close on November 4: underlying EPS of C$2.05 (+10%) and a 4% dividend increase to C$1.00, but US$81 million of U.S. experience losses on long-term disability and US$26.9 billion of MFS net outflows. Shares fell about 10% on November 5 and National Bank and TD Cowen downgraded to Sector Perform and Hold. Fairfax reported net earnings of US$929.6 million (down 19% on investment losses) with strong insurance and reinsurance operating income, and its shares jumped nearly 10%. Between the November 3 and November 9 screener files the peer median price moved **−1.9%**: Fairfax +7.3% and Intact +4.3%; Sun Life −10.4% and Power Corp −4.5%. On **October 28, 2026** the Bank of Canada raised the overnight target by 25 basis points to **2.50%**, its first hike since July 2023 and the end of seven straight holds at 2.25%. It said further increases may be needed but it would proceed carefully; the next decision is **December 9**. Manulife and Great-West also reported on November 4 and are not summarized here. Calendar items below dated November 3–8 have since reported; this update summarizes only the results named here.
 
 1. **October 6, 2026 — Intact’s catastrophe estimate.** Intact said third-quarter catastrophe losses were about **CA$660 million** pre-tax and net of reinsurance, or about **CA$2.76** per diluted share after tax. Personal property was about **CA$390 million** of that, commercial lines about **CA$173 million**, and Canada about **CA$615 million**, with smaller amounts in the UK & Ireland and the US. Management tied the quarter to storms, flooding, wind and wildfires in British Columbia, and said catastrophe losses over the past 12 months were about **CA$1.29 billion**, modestly above annual guidance of **CA$1.20 billion**. Results themselves come after the close on **November 3**, with the call on **November 4**.
 
@@ -41,7 +43,7 @@ Valuation is a split screen. Fairfax is the cheap outlier on trailing earnings (
 
 3. **October 21–22, 2026 — lifeco reporting dates.** Great-West, Manulife and Sun Life each set third-quarter releases for after the close on **November 4, 2026**, with calls on **November 5** (Great-West at 9:30 a.m. ET, Manulife at 8:00 a.m. ET, Sun Life at 11:00 a.m. ET). Sun Life’s advisory still cites assets under management of **$1.70 trillion** as of June 30, 2026. None of those quarters are out as of this note.
 
-4. **October 28, 2026 — Bank of Canada decision.** The overnight target was **2.25%** after the September 2 hold. Insurer book values, discount rates and the yield on new investments all feel that print. It is the same decision the banks note is watching for net interest margins; here the channel is the investment portfolio and the liability discount, not the loan book.
+4. **October 28, 2026 — Bank of Canada hike.** On **October 28, 2026** the Bank of Canada raised the overnight target by 25 basis points to **2.50%**, its first hike since July 2023 and the end of seven straight holds at 2.25%. It said further increases may be needed but it would proceed carefully; the next decision is **December 9**. Insurer book values, discount rates and the yield on new investments all feel that print; the channel is the investment portfolio and the liability discount, not the loan book.
 
 5. **Life versus P&C is already in the one-year tape.** Great-West (**+52.7%**), Power Corp (**+48.3%**) and Manulife (**+38.7%**) did the heavy lifting. Intact is about flat over one year (**+0.7%**) and Definity is up about **9%**. A beat-or-miss November will land on two different starting points: lifecos that have already re-rated, and P&C names that have not.
 
@@ -67,17 +69,17 @@ Peer set: **Manulife (MFC), Great-West Lifeco (GWO), Sun Life (SLF), Power Corpo
 
 | Company (Ticker) | Price | Market cap | Revenue (LTM) | Net income (LTM) |
 |:--|--:|--:|--:|--:|
-| Manulife (MFC) | $62.68 | $104.0B | $65.7B | $6.6B |
-| Great-West (GWO) | $91.82 | $82.1B | $48.6B | $4.6B |
-| Sun Life (SLF) | $112.79 | $62.7B | $44.2B | $3.4B |
-| Power Corp (POW) | $95.65 | $59.8B | $59.3B | $2.7B |
-| Fairfax (FFH) | $2,490.61 | $55.7B | $61.7B | $6.2B |
-| Intact (IFC) | $264.66 | $46.7B | $30.5B | $3.3B |
-| iA Financial (IAG) | $215.18 | $18.8B | $13.9B | $1.1B |
-| Definity (DFY) | $73.92 | $9.0B | $6.7B | $467M |
-| *Average* | — | $54.9B | $41.3B | $3.5B |
+| Manulife (MFC) | $61.00 | $106.5B | $65.7B | $6.6B |
+| Great-West (GWO) | $90.17 | $84.2B | $48.6B | $4.6B |
+| Sun Life (SLF) | $101.10 | $63.7B | $44.2B | $3.4B |
+| Power Corp (POW) | $91.36 | $60.0B | $59.3B | $2.7B |
+| Fairfax (FFH) | $2,673.14 | $61.6B | $61.7B | $5.9B |
+| Intact (IFC) | $276.00 | $49.7B | $30.2B | $3.0B |
+| iA Financial (IAG) | $210.72 | $19.3B | $13.9B | $1.1B |
+| Definity (DFY) | $74.57 | $9.4B | $6.7B | $467M |
+| *Average* | — | $56.8B | $41.3B | $3.5B |
 
-*Source: TSX screener merge `tsx-2026-11-03.csv` (2,569 rows, November 3, 2026) · CAD · LTM = last 12 months. Average includes every row.*
+*Source: TSX screener merge `tsx-2026-11-09.csv` (2,564 rows, November 9, 2026) · CAD · LTM = last 12 months. Average includes every row.*
 
 Manulife is the scale pole at about **CA$103 billion**. Great-West, Sun Life, Power and Fairfax sit in a **CA$55–80 billion** band. Intact is the P&C leader at about **CA$47 billion**. iA and Definity are the smaller operating companies in the set. Fairfax’s profit (about **CA$6.2 billion**) is close to Manulife’s on a smaller revenue base, which is why the earnings multiple looks so different in the next table.
 
@@ -85,17 +87,17 @@ Manulife is the scale pole at about **CA$103 billion**. Great-West, Sun Life, Po
 
 | Company (Ticker) | 1M | 3M | 6M | YTD | 1Y | 5Y | 10Y |
 |:--|--:|--:|--:|--:|--:|--:|--:|
-| Manulife (MFC) | +3.3% | +0.3% | +16.1% | +25.3% | +39.2% | +156% | +227% |
-| **Great-West (GWO)** | +3.7% | −1.4% | +25.1% | +35.6% | **+54.8%** | +151% | +172% |
-| Sun Life (SLF) | +1.9% | −3.1% | +12.8% | +31.6% | +31.9% | +59% | +154% |
-| Power Corp (POW) | +6.8% | −1.0% | +23.4% | +31.5% | +46.6% | +131% | +234% |
-| **Fairfax (FFH)** | **+13.0%** | +5.5% | +10.5% | −4.8% | +10.1% | +393% | +273% |
-| Intact (IFC) | +6.7% | −3.2% | +0.7% | −7.4% | +2.3% | +61% | +193% |
-| iA Financial (IAG) | +5.9% | +3.4% | +30.3% | +20.9% | +31.9% | +193% | +315% |
-| Definity (DFY) | +6.5% | −7.9% | +10.3% | −2.5% | +14.6% | +164% | +164% |
-| *Average* | +6.0% | −0.9% | +16.2% | +16.3% | +28.9% | +163% | +217% |
+| Manulife (MFC) | +0.5% | −2.5% | +12.5% | +21.9% | +30.0% | +151% | +219% |
+| **Great-West (GWO)** | +1.2% | −1.9% | +18.0% | +33.2% | **+48.9%** | +139% | +172% |
+| Sun Life (SLF) | −8.0% | −13.0% | +6.5% | +17.9% | +19.1% | +42% | +126% |
+| Power Corp (POW) | +3.3% | −2.3% | +15.6% | +25.6% | +38.1% | +116% | +221% |
+| **Fairfax (FFH)** | **+21.2%** | +11.4% | +20.9% | +2.1% | +20.0% | +414% | +289% |
+| Intact (IFC) | +16.0% | −1.3% | +9.7% | −3.4% | +2.1% | +66% | +200% |
+| iA Financial (IAG) | +3.8% | −0.6% | +29.2% | +18.4% | +30.1% | +182% | +317% |
+| Definity (DFY) | +12.6% | −6.4% | +12.6% | −1.6% | +10.3% | +166% | +166% |
+| *Average* | +6.3% | −2.1% | +15.6% | +14.3% | +24.8% | +160% | +214% |
 
-*Source: TSX screener merge `tsx-2026-11-03.csv` (2,569 rows, November 3, 2026) · CAD · price returns. Bold = leader on 1M and on 1Y. Average skips blanks.*
+*Source: TSX screener merge `tsx-2026-11-09.csv` (2,564 rows, November 9, 2026) · CAD · price returns. Bold = leader on 1M and on 1Y. Average skips blanks.*
 
 One-year is the lifeco story. One-month is Fairfax and, to a lesser extent, Intact. Three-month returns are negative for Intact (**−8.7%**) and Definity (**−7.3%**), which lines up with a market that had the catastrophe season in view before the October 6 estimate made the number explicit.
 
@@ -103,17 +105,17 @@ One-year is the lifeco story. One-month is Fairfax and, to a lesser extent, Inta
 
 | Company (Ticker) | P/E | Fwd P/E | PEG | P/S | P/B | P/FCF |
 |:--|--:|--:|--:|--:|--:|--:|
-| Manulife (MFC) | 16.9 | 13.1 | 0.89 | 1.59 | 2.28 | 3.4 |
-| Great-West (GWO) | 18.9 | 15.4 | 0.88 | 1.71 | 3.08 | 19.7 |
-| Sun Life (SLF) | 19.1 | 13.7 | 3.89 | 1.43 | 2.65 | 3.6 |
-| Power Corp (POW) | 23.5 | 14.1 | — | 1.03 | 2.53 | 12.1 |
-| Fairfax (FFH) | 8.8 | 9.3 | 3.42 | 0.90 | 1.35 | 30.8 |
-| Intact (IFC) | 14.7 | 16.1 | 0.38 | 1.51 | 2.37 | 13.0 |
-| iA Financial (IAG) | 18.5 | 14.2 | 2.10 | 1.38 | 2.67 | 7.3 |
-| Definity (DFY) | 19.2 | 19.8 | 1.25 | 1.33 | 2.11 | 24.0 |
-| *Average* | 17.5 | 14.4 | 1.83 | 1.36 | 2.38 | 14.2 |
+| Manulife (MFC) | 16.5 | 12.4 | 0.89 | 1.59 | 2.22 | 3.3 |
+| Great-West (GWO) | 18.6 | 14.7 | 0.88 | 1.71 | 3.02 | 19.3 |
+| Sun Life (SLF) | 17.2 | 12.0 | 3.88 | 1.43 | 2.38 | 3.3 |
+| Power Corp (POW) | 22.5 | 13.4 | — | 1.02 | 2.42 | 11.5 |
+| Fairfax (FFH) | 9.9 | 8.6 | — | 0.87 | 1.40 | 23.3 |
+| Intact (IFC) | 16.9 | 15.5 | — | 1.55 | 2.48 | 14.5 |
+| iA Financial (IAG) | 18.1 | 13.9 | 2.11 | 1.39 | 2.61 | 7.1 |
+| Definity (DFY) | 19.4 | 20.0 | 1.26 | 1.35 | 2.13 | 24.2 |
+| *Average* | 17.4 | 13.8 | 1.80 | 1.36 | 2.33 | 13.3 |
 
-*Source: TSX screener merge `tsx-2026-11-03.csv` (2,569 rows, November 3, 2026) · CAD. Average skips blanks; one large multiple can dominate a column average, so read the medians in the snapshot.*
+*Source: TSX screener merge `tsx-2026-11-09.csv` (2,564 rows, November 9, 2026) · CAD. Average skips blanks; one large multiple can dominate a column average, so read the medians in the snapshot.*
 
 **Fairfax** is the discount on trailing P/E (**8.7x**), forward P/E (**9.1x**), sales (**0.90x**) and book (**1.33x**). **Great-West** is the rich book multiple (**3.01x**), which fits a stock that has led the one-year tape. **Intact** screens cheaper than the lifecos on trailing earnings (**14.7x**) and then more expensive on the forward multiple (**15.9x**) — the catastrophe year is in that gap. **Definity** is similar: trailing and forward P/E both sit near **19x**. **Power Corp** is the most expensive trailing earnings multiple (**22.7x**) and compresses to **13.8x** forward, with the lowest price-to-sales ratio among the non-Fairfax names (**1.01x**), which is what a holding-company structure often looks like.
 
@@ -121,17 +123,17 @@ One-year is the lifeco story. One-month is Fairfax and, to a lesser extent, Inta
 
 | Company (Ticker) | Dividend / share | Yield (ind.) | Payout ratio |
 |:--|--:|--:|--:|
-| Manulife (MFC) | $1.76 | 3.10% | 49.9% |
-| Great-West (GWO) | $2.44 | 2.92% | 52.4% |
-| Sun Life (SLF) | $3.52 | 3.40% | 62.1% |
-| Power Corp (POW) | $2.45 | 2.79% | 62.1% |
-| Fairfax (FFH) | $20.84 | 0.87% | 0.0% |
-| Intact (IFC) | $5.32 | 2.22% | 31.1% |
-| iA Financial (IAG) | $3.78 | 2.04% | 34.7% |
-| Definity (DFY) | $0.78 | 1.16% | 21.4% |
-| *Average* | $5.11 | 2.31% | 39.2% |
+| Manulife (MFC) | $1.76 | 3.02% | 49.9% |
+| Great-West (GWO) | $2.44 | 2.84% | 52.4% |
+| Sun Life (SLF) | $3.52 | 3.35% | 62.1% |
+| Power Corp (POW) | $2.45 | 2.78% | 62.1% |
+| Fairfax (FFH) | $20.84 | 0.78% | 0.0% |
+| Intact (IFC) | $5.32 | 2.08% | 35.2% |
+| iA Financial (IAG) | $3.78 | 1.99% | 34.7% |
+| Definity (DFY) | $0.78 | 1.12% | 21.4% |
+| *Average* | $5.11 | 2.25% | 39.7% |
 
-*Source: TSX screener merge `tsx-2026-11-03.csv` (2,569 rows, November 3, 2026) · CAD. DPS is annual; yield is indicated. Payout is trailing; negative payouts show as — and are left out of the average.*
+*Source: TSX screener merge `tsx-2026-11-09.csv` (2,564 rows, November 9, 2026) · CAD. DPS is annual; yield is indicated. Payout is trailing; negative payouts show as — and are left out of the average.*
 
 This is a total-return sector with a coupon, not an income sleeve. Sun Life’s **3.47%** indicated yield leads the operating companies. Intact and iA pay out about a third of trailing earnings. Definity’s payout is about **21%**. Fairfax’s yield is under **1%**; the owner’s return there has been book-value compounding, which is what the five-year chart is showing.
 
@@ -139,17 +141,17 @@ This is a total-return sector with a coupon, not an income sleeve. Sun Life’s 
 
 | Company (Ticker) | Rating | Price | Target 1Y | Upside | Analysts |
 |:--|:--|--:|--:|--:|--:|
-| Manulife (MFC) | Buy | $62.68 | CA$65.91 | +5.2% | 11 |
-| Great-West (GWO) | Buy | $91.82 | CA$93.18 | +1.5% | 11 |
-| Sun Life (SLF) | Buy | $112.79 | CA$115.92 | +2.8% | 11 |
-| Power Corp (POW) | Buy | $95.65 | CA$86.60 | −9.5% | 10 |
-| Fairfax (FFH) | Buy | $2,490.61 | CA$2,666.13 | +7.0% | 7 |
-| Intact (IFC) | Buy | $264.66 | CA$323.08 | +22.1% | 11 |
-| iA Financial (IAG) | Neutral | $215.18 | CA$213.50 | −0.8% | 9 |
-| Definity (DFY) | Buy | $73.92 | CA$83.08 | +12.4% | 9 |
-| *Average* | — | — | CA$455.93 | +5.1% | — |
+| Manulife (MFC) | Buy | $61.00 | CA$65.91 | +8.0% | 11 |
+| Great-West (GWO) | Buy | $90.17 | CA$93.18 | +3.3% | 11 |
+| Sun Life (SLF) | Neutral | $101.10 | CA$115.92 | +14.7% | 11 |
+| Power Corp (POW) | Buy | $91.36 | CA$86.60 | −5.2% | 10 |
+| Fairfax (FFH) | Buy | $2,673.14 | CA$2,666.13 | −0.3% | 7 |
+| Intact (IFC) | Buy | $276.00 | CA$323.08 | +17.1% | 11 |
+| iA Financial (IAG) | Neutral | $210.72 | CA$213.50 | +1.3% | 9 |
+| Definity (DFY) | Buy | $74.57 | CA$83.08 | +11.4% | 9 |
+| *Average* | — | — | CA$455.93 | +6.3% | — |
 
-*Rating = screener analyst rating on the November 3, 2026 file. Target 1Y and analyst counts are the MarketBeat TSE consensus figures (CAD) pulled October 27, 2026, not re-pulled for this refresh. Upside is the October 27 target versus the November 3 screener price. The dollar average mixes very different share prices; read the upside column.*
+*Rating = screener analyst rating on the November 9, 2026 file. Target 1Y and analyst counts are the MarketBeat TSE consensus figures (CAD) pulled October 27, 2026, not re-pulled in bulk for this refresh (Royal Bank spot-checked November 9, unchanged). Upside is the October 27 target versus the November 9 screener price. The dollar average mixes very different share prices; read the upside column.*
 
 The Street has the most room on the P&C laggards: **Intact +22.1%** and **Definity +14.8%**. Fairfax still shows about **8%** to a **CA$2,666** average, with a wide published range (**CA$2,261 to CA$3,450**). The lifecos that led the year — Great-West, Sun Life, Manulife, iA — sit **3% to 6%** above the screener price. **Power Corp is the name already through the average target (−6.3%)**. When the year’s winners are close to the Street and the year’s laggards still have a gap, the next catalyst is the quarter, not a blanket re-rating of “Canadian insurance.”
 
@@ -179,7 +181,7 @@ The Street has the most room on the P&C laggards: **Intact +22.1%** and **Defini
 
 ## What to watch next for Canadian insurers: catastrophe results, lifeco earnings and targets
 
-1. **October 28, 2026 — Bank of Canada overnight-rate decision.** The level of rates feeds insurer investment yields and liability discounting.
+1. **December 9, 2026 — next Bank of Canada decision.** After the hike to 2.50%, the level of rates still feeds insurer investment yields and liability discounting.
 
 2. **November 3–4, 2026 — Intact results and call.** The test is whether the **CA$660 million** catastrophe estimate holds and what management says about pricing after it.
 
@@ -197,7 +199,7 @@ No other insurer in this peer set is in the coverage log yet. This page will lin
 
 ## Data notes: screener date, peer set and where the targets come from
 
-**November 3, 2026 refresh.** The snapshot strip and every peer table now come straight from merge `tsx-2026-11-03.csv` (2,569 rows): prices, market caps, LTM revenue and net income, returns, multiples, dividends and screener ratings. Average rows skip blanks. Target 1Y and analyst counts are still the MarketBeat figures pulled October 27, 2026; upside compares those targets with the November 3 price. Rows for tickers missing from the November 3 export keep the previous build’s values and are named under the snapshot. The method notes below describe the October 27 build and still apply to the commentary written on it.
+**November 9, 2026 refresh.** The snapshot strip and every peer table now come straight from merge `tsx-2026-11-09.csv` (2,564 rows): prices, market caps, LTM revenue and net income, returns, multiples, dividends and screener ratings. Average rows skip blanks. Analyst targets were not re-pulled in bulk: Target 1Y and analyst counts are still the MarketBeat TSE figures pulled October 27, 2026 (a November 9 spot-check of Royal Bank’s MarketBeat page showed the consensus unchanged at C$292.86 on 12 analysts, with the latest broker action dated September 3); upside compares those targets with the November 9 price. Rows for tickers missing from the November 9 export keep the previous build’s values and are named under the snapshot. The November 9 update paragraph uses the news and company releases listed under Sources, checked November 9, 2026; the TSX comparison column is the approximate index return carried from the October 26 build. The method notes below describe the October 27 build and still apply to the commentary written on it.
 
 Table figures are TSX screener values from merge `tsx-2026-10-25.csv` (2,532 rows; October 25, 2026 close; CAD) unless labelled otherwise. Peer rule: liquid Canadian insurers and insurance holding companies in the screener’s Finance sector — MFC, GWO, SLF, IFC, FFH, IAG, DFY, plus POW because it controls Great-West. Excluded: banks, REITs, asset managers (including IGM), TMX, E-L Financial and Trisura (scale and liquidity), and Brookfield Wealth Solutions (thin volume). Average rows include all eight names and skip blank cells. Fairfax’s 0% payout is blank. Definity’s identical 5-year and 10-year return is flagged under the performance table. Target 1Y is MarketBeat TSE consensus in **CAD**, pulled October 27, 2026 (analyst counts 7–11; all at least 7). Screener ratings are in the analyst table. MarketBeat’s own labels on those pages are Moderate Buy for most of the set and Hold for iA. Intact’s catastrophe figures are from the company’s October 6, 2026 release. Earnings dates are from company advisories in October 2026. The Boots terms are from Fairfax’s October 7, 2026 release, as used in the October 8 brief. TSX Composite 1M/1Y are approximate public index price returns near October 26, 2026. Snapshot medians use the eight-name set.
 
@@ -210,10 +212,13 @@ Table figures are TSX screener values from merge `tsx-2026-10-25.csv` (2,532 row
 - Great-West Lifeco, third-quarter 2026 results timing, October 21, 2026
 - Sun Life, third-quarter 2026 earnings call advisory, October 22, 2026 (AUM of $1.70 trillion cited as of June 30, 2026)
 - Fairfax Financial news release, October 7, 2026 — partnership with Wittington Investments on The Boots Group
-- Bank of Canada policy rate: 2.25% overnight target as of the September 2, 2026 hold; next scheduled decision October 28, 2026
+- Bank of Canada policy rate: 2.25% to October 27, 2026; raised to 2.50% on October 28, 2026 (see the November 9 sources below)
 - MarketBeat TSE forecast pages for MFC, GWO, SLF, POW, FFH, IFC, IAG and DFY (consensus pulled October 27, 2026)
 - S&P/TSX Composite approximate 1M/1Y price returns (public index trackers near October 26, 2026)
 - StockSummarizer coverage log — Fairfax brief dated 2026-10-08
+- Globe and Mail analyst roundup, November 5, 2026; Investing.com and TIKR coverage of Sun Life’s Q3 2026 results; Fairfax Financial Q3 2026 press release
+- Bank of Canada rate announcement, October 28, 2026 (overnight target raised to 2.50%; Bank Rate 2.75%), as reported by Reuters and CBC; next decision December 9, 2026
+- TD Securities, Weekly Bottom Line, November 6, 2026 (WTI, copper, gold, Canada 10-year yield); Baystreet.ca and Investcom TSX close reports, November 6, 2026 (S&P/TSX Composite 35,789.09, +0.48% on the week; October unemployment rate 6.7%)
 
 ## Media credits
 

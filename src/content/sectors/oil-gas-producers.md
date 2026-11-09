@@ -1,10 +1,10 @@
 ---
 title: "Canadian oil and gas stocks: oil-sands producers vs gas, valuation, dividends and analyst targets"
-description: "How Canadian oil and gas producer stocks look on the November 3, 2026 screener: Canadian Natural, Suncor, Imperial, Cenovus, Tourmaline and peers on performance, valuation, dividends and analyst targets, with WTI and WCS."
+description: "How Canadian oil and gas producer stocks look on the November 9, 2026 screener: Canadian Natural, Suncor, Imperial, Cenovus, Tourmaline and peers on performance, valuation, dividends and analyst targets, with WTI and WCS."
 sector: "Oil & gas producers"
-thesis: "The median producer is up about 68% in a year with WTI still above US$100, and the average Street target now sits below the tape for Canadian Natural, Suncor and Imperial."
-updatedDate: 2026-11-03
-screenerDate: 2026-11-03
+thesis: "The median producer is still up about 55% in a year, but WTI fell 12.8% in the week to November 6 to about US$91 and the median stock lost 7.2% between the November 3 and November 9 screener files; record third-quarter cash flow at Suncor and bigger buybacks at Canadian Natural are the offset."
+updatedDate: 2026-11-09
+screenerDate: 2026-11-09
 image: "/images/sectors/oil-gas-producers.jpg"
 imageAlt: "Aerial view of the Syncrude Mildred Lake oil-sands mine in northeast Alberta, with tailings basins and yellow sulfur stockpiles"
 imageCredit: "Aerial view of Syncrude’s Mildred Lake oil-sands mine in northeast Alberta, including the tailings basin and sulfur stockpiles, with the Athabasca River in the background. Photo by Dicklyon, CC BY-SA 4.0, via Wikimedia Commons. Cropped and resized."
@@ -18,20 +18,22 @@ Ten liquid Canadian producers — Canadian Natural, Suncor, Imperial Oil, Cenovu
 
 | Metric | Peer set (10) | vs TSX (approx.) |
 |:--|--:|--:|
-| Combined market cap | ~CA$520.5B | — |
-| Median trailing P/E | 14.3x | — |
-| Median forward P/E | 11.2x | — |
-| Median indicated yield | 3.11% | — |
-| Median 1M price return | +7.8% | TSX ~+1.4% |
-| Median 1Y price return | +68.3% | TSX ~+18.2% |
+| Combined market cap | ~CA$486.3B | — |
+| Median trailing P/E | 12.7x | — |
+| Median forward P/E | 10.4x | — |
+| Median indicated yield | 3.33% | — |
+| Median 1M price return | −3.5% | TSX ~+1.4% |
+| Median 1Y price return | +54.9% | TSX ~+18.2% |
 
-*Screener as of November 3, 2026 (CAD; merge `tsx-2026-11-03.csv`, 2,569 rows). Peer set: CNQ, SU, IMO, CVE, TOU, WCP, SCR, TVE, ATH, PEY. Medians skip blank cells; P/E medians skip non-positive multiples. The TSX column is the approximate index return carried from the October 26 build and was not re-pulled for this refresh.*
+*Screener as of November 9, 2026 (CAD; merge `tsx-2026-11-09.csv`, 2,564 rows). Peer set: CNQ, SU, IMO, CVE, TOU, WCP, SCR, TVE, ATH, PEY. Medians skip blank cells; P/E medians skip non-positive multiples. The TSX column is the approximate index return carried from the October 26 build and was not re-pulled for this refresh.*
 
-**November 3, 2026 refresh.** Between the October 25 and November 3 screener files the median peer price moved **−3.9%**. Best: Tourmaline (+1.4%). Weakest: Tamarack Valley (−13.5%) and Strathcona (−12.9%). The snapshot and every peer table below are on the November 3 file. Commentary paragraphs between the tables were written on the October 25 file and quote those figures unless they give a later date.
+**November 9, 2026 refresh.** Between the November 3 and November 9 screener files the median peer price moved **−7.2%**. Weakest: Tamarack Valley (−12.7%) and Cenovus (−9.8%). The snapshot and every peer table below are on the November 9 file. Commentary paragraphs between the tables were written on the October 25 file and quote those figures unless they give a later date.
 
 Forward earnings are the cleaner multiple. The median forward P/E is about **11.4x**, and the average of the ten forward multiples is **11.4x** as well. Trailing earnings are not: Tamarack Valley’s **248x** on **CA$24.5 million** of trailing profit pulls the average trailing P/E to **44.6x**. Tourmaline, the large gas producer, is the other stretched trailing figure (**69.4x**) with a much more ordinary forward multiple (**12.8x**). The sector is cheap on next year’s earnings only if those earnings, which embed a strong oil tape, arrive.
 
 ## What is driving Canadian oil and gas stocks: the oil price, heavy differentials and Q3 dates
+
+**November 9, 2026 update.** WTI settled at US$90.83 on November 6 against US$104.12 a week earlier, and Brent at US$98.32 against US$113.43; EnergyNow tied the fall to midterm results raising expectations of a U.S.–Iran settlement, while Reuters reported renewed tanker-attack concerns in the Gulf. Between the November 3 and November 9 screener files the peer median price moved **−7.2%** (Tamarack Valley −12.7%, Cenovus −9.8%). Suncor reported record third-quarter adjusted funds from operations of C$6.705 billion and free funds flow of C$5.196 billion, returned C$2.048 billion including C$1.350 billion of buybacks, and raised monthly buybacks to C$750 million in October. Canadian Natural reported adjusted funds flow of C$5.522 billion, returned C$1.598 billion through buybacks and targets C$800 million a month in November and December. The Bank of Canada hiked to 2.50% on October 28. Calendar items below dated November 3–8 have since reported; this update summarizes only the results named here.
 
 **Q3 results since the last refresh (added November 3, 2026).** Imperial Oil reported on **October 30, 2026**: record quarterly net income of **CA$2.454 billion**, or **CA$5.11** a diluted share, up from CA$539 million (CA$1.07) a year earlier. Reuters put the LSEG consensus at **CA$4.70** a share. Downstream earnings rose to **CA$1.56 billion** from CA$444 million on wider refining margins. Upstream production fell to **418,000** gross oil-equivalent barrels a day from 462,000, with Kearl at 282,000 barrels a day after a third-party pipeline outage and the absence of last year's high-grade ore. Imperial returned **CA$2.506 billion** in the quarter (CA$420 million of dividends and CA$2.086 billion of buybacks) and said it expects to buy back all remaining allowable NCIB shares before year-end. On the November 3 screener Imperial is **CA$187.28**, about 1% below its October 25 price, and still above the October 27 average target in the analyst table.
 
@@ -69,19 +71,19 @@ Peer set: **Canadian Natural (CNQ), Suncor (SU), Imperial Oil (IMO), Cenovus (CV
 
 | Company (Ticker) | Price | Market cap | Revenue (LTM) | Net income (LTM) |
 |:--|--:|--:|--:|--:|
-| Canadian Natural (CNQ) | $75.12 | $154.9B | $44.7B | $11.8B |
-| Suncor (SU) | $105.50 | $123.4B | $56.6B | $8.9B |
-| Imperial Oil (IMO) | $187.28 | $90.6B | $55.0B | $6.1B |
-| Cenovus (CVE) | $42.95 | $78.0B | $53.9B | $6.7B |
-| Tourmaline (TOU) | $67.43 | $26.2B | $5.8B | $377M |
-| Whitecap (WCP) | $18.34 | $22.3B | $7.8B | $1.5B |
-| Strathcona (SCR) | $38.44 | $8.2B | $4.1B | $846M |
-| Tamarack Valley (TVE) | $13.02 | $6.1B | $1.5B | $372M |
-| Athabasca Oil (ATH) | $11.77 | $5.7B | $1.4B | $237M |
-| Peyto (PEY) | $24.84 | $5.1B | $1.2B | $494M |
-| *Average* | — | $52.1B | $23.2B | $3.7B |
+| Canadian Natural (CNQ) | $68.50 | $142.7B | $44.7B | $11.8B |
+| Suncor (SU) | $97.10 | $117.9B | $62.9B | $11.1B |
+| Imperial Oil (IMO) | $176.67 | $84.3B | $54.9B | $6.1B |
+| Cenovus (CVE) | $38.74 | $72.0B | $56.6B | $8.7B |
+| Tourmaline (TOU) | $63.03 | $24.5B | $5.8B | $377M |
+| Whitecap (WCP) | $16.67 | $21.2B | $7.8B | $1.5B |
+| Strathcona (SCR) | $36.34 | $7.6B | $4.1B | $846M |
+| Tamarack Valley (TVE) | $11.37 | $5.6B | $1.5B | $372M |
+| Athabasca Oil (ATH) | $11.45 | $5.5B | $1.4B | $237M |
+| Peyto (PEY) | $24.05 | $4.9B | $1.2B | $494M |
+| *Average* | — | $48.6B | $24.1B | $4.2B |
 
-*Source: TSX screener merge `tsx-2026-11-03.csv` (2,569 rows, November 3, 2026) · CAD · LTM = last 12 months. Average includes every row.*
+*Source: TSX screener merge `tsx-2026-11-09.csv` (2,564 rows, November 9, 2026) · CAD · LTM = last 12 months. Average includes every row.*
 
 Four companies are the sector: Canadian Natural, Suncor, Imperial and Cenovus, together about **CA$464 billion** of the **CA$542 billion**. Canadian Natural earns the most (about **CA$11.8 billion**) on less revenue than Suncor, Imperial or Cenovus, which is the upstream oil-sands model against the integrated refiners. Tourmaline and Whitecap are the next tier, near **CA$25 billion**. Below that, Strathcona, Tamarack, Athabasca and Peyto are liquid enough for the table and small enough that one well result moves the stock more than it moves the TSX.
 
@@ -89,19 +91,19 @@ Four companies are the sector: Canadian Natural, Suncor, Imperial and Cenovus, t
 
 | Company (Ticker) | 1M | 3M | 6M | YTD | 1Y | 5Y | 10Y |
 |:--|--:|--:|--:|--:|--:|--:|--:|
-| Canadian Natural (CNQ) | +11.5% | +16.8% | +18.4% | +63.0% | +66.6% | +183% | +259% |
-| Suncor (SU) | +8.8% | +15.9% | +15.0% | +73.2% | +89.0% | +221% | +165% |
-| Imperial Oil (IMO) | +6.8% | +6.7% | +6.2% | +57.8% | +46.0% | +332% | +328% |
-| Cenovus (CVE) | −3.0% | +5.4% | +6.5% | +84.6% | +79.0% | +186% | +126% |
-| Tourmaline (TOU) | +12.0% | +10.9% | +1.9% | +9.5% | +11.0% | +48% | +91% |
-| Whitecap (WCP) | +4.8% | +14.6% | +16.1% | +59.5% | +73.3% | +145% | +71% |
-| Strathcona (SCR) | −0.1% | −6.9% | −12.1% | +36.0% | +4.5% | −20% | −46% |
-| **Tamarack Valley (TVE)** | +0.3% | −0.2% | +6.1% | +63.2% | **+108.3%** | +257% | +291% |
-| **Athabasca Oil (ATH)** | **+14.8%** | +17.2% | +1.3% | +68.1% | +70.1% | +1010% | +865% |
-| Peyto (PEY) | +8.9% | −0.6% | −0.8% | +11.5% | +24.2% | +151% | −27% |
-| *Average* | +6.5% | +8.0% | +5.9% | +52.6% | +57.2% | +251% | +212% |
+| Canadian Natural (CNQ) | −0.7% | +8.7% | +12.1% | +48.7% | +50.5% | +158% | +236% |
+| Suncor (SU) | −0.9% | +14.0% | +11.9% | +59.4% | +64.8% | +199% | +147% |
+| **Imperial Oil (IMO)** | **+1.4%** | +0.6% | +2.7% | +48.9% | +40.2% | +326% | +307% |
+| Cenovus (CVE) | −13.9% | −0.8% | −0.3% | +66.5% | +64.9% | +151% | +113% |
+| Tourmaline (TOU) | −0.5% | +6.2% | −2.9% | +2.4% | +3.6% | +39% | +85% |
+| Whitecap (WCP) | −8.9% | +3.7% | +6.2% | +45.0% | +59.2% | +125% | +54% |
+| Strathcona (SCR) | −10.0% | −7.6% | −13.8% | +28.6% | −1.3% | −27% | −47% |
+| **Tamarack Valley (TVE)** | −14.8% | −8.5% | −7.0% | +42.5% | **+79.9%** | +215% | +261% |
+| Athabasca Oil (ATH) | −6.1% | +16.6% | +0.9% | +63.6% | +61.3% | +922% | +816% |
+| Peyto (PEY) | +0.6% | −2.9% | −4.8% | +7.9% | +15.0% | +136% | −29% |
+| *Average* | −5.4% | +3.0% | +0.5% | +41.3% | +43.8% | +224% | +194% |
 
-*Source: TSX screener merge `tsx-2026-11-03.csv` (2,569 rows, November 3, 2026) · CAD · price returns. Bold = leader on 1M and on 1Y. Average skips blanks.*
+*Source: TSX screener merge `tsx-2026-11-09.csv` (2,564 rows, November 9, 2026) · CAD · price returns. Bold = leader on 1M and on 1Y. Average skips blanks.*
 
 One-year and year-to-date are an oil tape. Three-month returns are still positive for nine of the ten; Peyto is the exception at **−1.9%**. Imperial’s long-run record (**+343%** over five years, **+337%** over ten) is the compounder that did less of the catching up this year, which is also why it is the one large name the Street rates a Sell.
 
@@ -117,19 +119,19 @@ One-year and year-to-date are an oil tape. Three-month returns are still positiv
 
 | Company (Ticker) | P/E | Fwd P/E | PEG | P/S | P/B | P/FCF |
 |:--|--:|--:|--:|--:|--:|--:|
-| Canadian Natural (CNQ) | 13.4 | 11.3 | 0.33 | 3.67 | 3.32 | 16.0 |
-| Suncor (SU) | 14.1 | 8.5 | 0.23 | 2.32 | 2.57 | 12.0 |
-| Imperial Oil (IMO) | 14.9 | 11.1 | 0.26 | 1.69 | 3.61 | 14.3 |
-| Cenovus (CVE) | 12.0 | 7.2 | 0.08 | 1.59 | 2.32 | 10.6 |
-| Tourmaline (TOU) | 70.3 | 13.0 | — | 4.61 | 1.64 | 126.3 |
-| Whitecap (WCP) | 14.5 | 9.7 | 1.83 | 3.06 | 1.92 | 9.4 |
-| Strathcona (SCR) | 9.7 | 6.9 | 0.57 | 2.22 | 1.79 | 17.0 |
-| Tamarack Valley (TVE) | 16.9 | 12.2 | — | 4.37 | 3.26 | 11.3 |
-| Athabasca Oil (ATH) | 24.3 | 14.0 | — | 4.18 | 2.93 | 11.7 |
-| Peyto (PEY) | 10.4 | 13.1 | 0.24 | 4.47 | 1.68 | 11.3 |
-| *Average* | 20.1 | 10.7 | 0.51 | 3.22 | 2.50 | 24.0 |
+| Canadian Natural (CNQ) | 12.2 | 10.3 | 0.31 | 3.51 | 3.03 | 14.6 |
+| Suncor (SU) | 10.3 | 8.5 | 0.09 | 1.96 | 2.26 | 8.9 |
+| Imperial Oil (IMO) | 14.1 | 10.5 | 0.25 | 1.64 | 3.41 | 13.5 |
+| Cenovus (CVE) | 8.2 | 6.7 | 0.05 | 1.39 | 1.99 | 6.6 |
+| Tourmaline (TOU) | 65.7 | 11.9 | — | 4.53 | 1.53 | 118.0 |
+| Whitecap (WCP) | 13.2 | 8.8 | 1.71 | 2.86 | 1.75 | 8.5 |
+| Strathcona (SCR) | 9.2 | 7.0 | 0.52 | 1.99 | 1.70 | 16.0 |
+| Tamarack Valley (TVE) | 14.8 | 10.7 | — | 4.04 | 2.85 | 9.8 |
+| Athabasca Oil (ATH) | 23.7 | 13.7 | — | 4.10 | 2.85 | 11.4 |
+| Peyto (PEY) | 10.1 | 12.6 | 0.23 | 4.30 | 1.62 | 11.0 |
+| *Average* | 18.1 | 10.1 | 0.45 | 3.03 | 2.30 | 21.8 |
 
-*Source: TSX screener merge `tsx-2026-11-03.csv` (2,569 rows, November 3, 2026) · CAD. Average skips blanks; one large multiple can dominate a column average, so read the medians in the snapshot.*
+*Source: TSX screener merge `tsx-2026-11-09.csv` (2,564 rows, November 9, 2026) · CAD. Average skips blanks; one large multiple can dominate a column average, so read the medians in the snapshot.*
 
 On trailing earnings, **Peyto (10.7x)**, **Strathcona (11.2x)**, **Cenovus (12.8x)** and **Canadian Natural (13.7x)** are the cheap end of the names whose earnings are large enough to read. **Suncor** is **14.8x** trailing and **9.0x** forward. **Imperial** is the rich large-cap trailing multiple (**22.2x**) and a normal forward one (**10.8x**), which matches a stock the Street thinks has run ahead. **Cenovus at 7.7x forward** is the low forward multiple among the four majors. **Tourmaline at 1.62x book** and **Peyto at 1.72x book** are the cheap assets on book value, and Tourmaline’s **124.5x** price to free cash flow says trailing cash flow is the depressed line.
 
@@ -137,19 +139,19 @@ On trailing earnings, **Peyto (10.7x)**, **Strathcona (11.2x)**, **Cenovus (12.8
 
 | Company (Ticker) | Dividend / share | Yield (ind.) | Payout ratio |
 |:--|--:|--:|--:|
-| Canadian Natural (CNQ) | $2.35 | 3.33% | 42.9% |
-| Suncor (SU) | $2.31 | 2.27% | 31.6% |
-| Imperial Oil (IMO) | $2.88 | 1.86% | 26.6% |
-| Cenovus (CVE) | $0.78 | 2.05% | 22.7% |
-| Tourmaline (TOU) | $2.00 | 3.11% | 205.7% |
-| Whitecap (WCP) | $0.73 | 3.98% | 57.4% |
-| Strathcona (SCR) | $1.20 | 3.12% | 30.4% |
-| Tamarack Valley (TVE) | $0.15 | 1.54% | 21.8% |
+| Canadian Natural (CNQ) | $2.35 | 3.61% | 42.9% |
+| Suncor (SU) | $2.31 | 2.62% | 25.4% |
+| Imperial Oil (IMO) | $2.88 | 1.95% | 26.6% |
+| Cenovus (CVE) | $0.78 | 2.22% | 17.8% |
+| Tourmaline (TOU) | $2.00 | 3.33% | 205.7% |
+| Whitecap (WCP) | $0.73 | 4.17% | 57.4% |
+| Strathcona (SCR) | $1.20 | 3.37% | 30.4% |
+| Tamarack Valley (TVE) | $0.15 | 1.70% | 21.8% |
 | Athabasca Oil (ATH) | $0.00 | — | 0.0% |
-| Peyto (PEY) | $1.32 | 5.80% | 55.3% |
-| *Average* | $1.37 | 3.01% | 49.4% |
+| Peyto (PEY) | $1.32 | 6.51% | 55.3% |
+| *Average* | $1.37 | 3.28% | 48.3% |
 
-*Source: TSX screener merge `tsx-2026-11-03.csv` (2,569 rows, November 3, 2026) · CAD. DPS is annual; yield is indicated. Payout is trailing; negative payouts show as — and are left out of the average.*
+*Source: TSX screener merge `tsx-2026-11-09.csv` (2,564 rows, November 9, 2026) · CAD. DPS is annual; yield is indicated. Payout is trailing; negative payouts show as — and are left out of the average.*
 
 **Peyto’s 5.64%** indicated yield leads. Whitecap (**3.57%**), Canadian Natural (**3.24%**) and Tourmaline (**3.16%**) are the other income-leaning names. Suncor, Cenovus and Imperial yield under **2.2%**, with payout ratios in the **20s and 30s** — total-return stocks that have also been buying back stock, as the company briefs on Suncor and Canadian Natural describe. Athabasca does not show a dividend on this merge. Tamarack’s **234%** payout and **CA$0.15** annual dividend are a small coupon on a stock that has already doubled and more.
 
@@ -157,19 +159,19 @@ On trailing earnings, **Peyto (10.7x)**, **Strathcona (11.2x)**, **Cenovus (12.8
 
 | Company (Ticker) | Rating | Price | Target 1Y | Upside | Analysts |
 |:--|:--|--:|--:|--:|--:|
-| Canadian Natural (CNQ) | Buy | $75.12 | CA$70.00 | −6.8% | 12 |
-| Suncor (SU) | Buy | $105.50 | CA$103.06 | −2.3% | 12 |
-| Imperial Oil (IMO) | Sell | $187.28 | CA$152.83 | −18.4% | 10 |
-| Cenovus (CVE) | Strong buy | $42.95 | CA$46.75 | +8.8% | 15 |
-| Tourmaline (TOU) | Buy | $67.43 | CA$70.80 | +5.0% | 8 |
-| Whitecap (WCP) | Strong buy | $18.34 | CA$19.77 | +7.8% | 11 |
-| Strathcona (SCR) | Buy | $38.44 | CA$45.00 | +17.1% | 6 |
-| Tamarack Valley (TVE) | Strong buy | $13.02 | CA$15.08 | +15.8% | 11 |
-| Athabasca Oil (ATH) | Neutral | $11.77 | CA$11.22 | −4.7% | 7 |
-| Peyto (PEY) | Buy | $24.84 | CA$27.19 | +9.5% | 7 |
-| *Average* | — | — | CA$56.17 | +3.2% | — |
+| Canadian Natural (CNQ) | Buy | $68.50 | CA$70.00 | +2.2% | 12 |
+| Suncor (SU) | Buy | $97.10 | CA$103.06 | +6.1% | 12 |
+| Imperial Oil (IMO) | Sell | $176.67 | CA$152.83 | −13.5% | 10 |
+| Cenovus (CVE) | Strong buy | $38.74 | CA$46.75 | +20.7% | 15 |
+| Tourmaline (TOU) | Buy | $63.03 | CA$70.80 | +12.3% | 8 |
+| Whitecap (WCP) | Strong buy | $16.67 | CA$19.77 | +18.6% | 11 |
+| Strathcona (SCR) | Buy | $36.34 | CA$45.00 | +23.8% | 6 |
+| Tamarack Valley (TVE) | Strong buy | $11.37 | CA$15.08 | +32.6% | 11 |
+| Athabasca Oil (ATH) | Neutral | $11.45 | CA$11.22 | −2.0% | 7 |
+| Peyto (PEY) | Buy | $24.05 | CA$27.19 | +13.1% | 7 |
+| *Average* | — | — | CA$56.17 | +11.4% | — |
 
-*Rating = screener analyst rating on the November 3, 2026 file. Target 1Y and analyst counts are the MarketBeat TSE consensus figures (CAD) pulled October 27, 2026, not re-pulled for this refresh. Upside is the October 27 target versus the November 3 screener price. The dollar average mixes very different share prices; read the upside column.*
+*Rating = screener analyst rating on the November 9, 2026 file. Target 1Y and analyst counts are the MarketBeat TSE consensus figures (CAD) pulled October 27, 2026, not re-pulled in bulk for this refresh (Royal Bank spot-checked November 9, unchanged). Upside is the October 27 target versus the November 9 screener price. The dollar average mixes very different share prices; read the upside column.*
 
 The average upside is about **−2.8%**. That is the sector message. **Imperial (−19%)**, **Canadian Natural (−9%)**, **Suncor (−7%)**, **Athabasca (−6%)** and **Whitecap (−3%)** are through the average target. Canadian Natural’s published range is **CA$50 to CA$86**, so the **CA$70** average still has a high target above the **CA$77** price and a low target far below it. **Tourmaline and Peyto** are the gas names with about **6.5%** of implied upside. **Cenovus, Strathcona and Tamarack** are within about **2%** of the target. A Strong Buy label on the screener (Cenovus, Whitecap, Tamarack) is not the same thing as a target above the price.
 
@@ -219,7 +221,7 @@ Imperial, Tourmaline, Whitecap, Strathcona, Tamarack, Athabasca and Peyto are no
 
 ## Data notes: screener date, peer set and where the targets come from
 
-**November 3, 2026 refresh.** The snapshot strip and every peer table now come straight from merge `tsx-2026-11-03.csv` (2,569 rows): prices, market caps, LTM revenue and net income, returns, multiples, dividends and screener ratings. Average rows skip blanks. Target 1Y and analyst counts are still the MarketBeat figures pulled October 27, 2026; upside compares those targets with the November 3 price. Rows for tickers missing from the November 3 export keep the previous build’s values and are named under the snapshot. The method notes below describe the October 27 build and still apply to the commentary written on it.
+**November 9, 2026 refresh.** The snapshot strip and every peer table now come straight from merge `tsx-2026-11-09.csv` (2,564 rows): prices, market caps, LTM revenue and net income, returns, multiples, dividends and screener ratings. Average rows skip blanks. Analyst targets were not re-pulled in bulk: Target 1Y and analyst counts are still the MarketBeat TSE figures pulled October 27, 2026 (a November 9 spot-check of Royal Bank’s MarketBeat page showed the consensus unchanged at C$292.86 on 12 analysts, with the latest broker action dated September 3); upside compares those targets with the November 9 price. Rows for tickers missing from the November 9 export keep the previous build’s values and are named under the snapshot. The November 9 update paragraph uses the news and company releases listed under Sources, checked November 9, 2026; the TSX comparison column is the approximate index return carried from the October 26 build. The method notes below describe the October 27 build and still apply to the commentary written on it.
 
 Table figures are TSX screener values from merge `tsx-2026-10-25.csv` (2,532 rows; October 25, 2026 close; CAD) unless labelled otherwise. Peer rule: liquid Canadian-asset oil and gas producers above about CA$5 billion — CNQ, SU, IMO, CVE, TOU, WCP, SCR, TVE, ATH, PEY. Excluded: pipelines and midstream, royalty companies (PSK, FRU, TPZ and Elemental Royalty), international E&P (Parex, Valeura, Meren, Tenaz), drillers and service companies. Baytex (about CA$5.4 billion) is larger than Peyto and is excluded because this merge has no trailing revenue, net income or trailing P/E for it. Average rows include all ten names and skip blank cells. Athabasca’s blank indicated yield is excluded from the yield average. The trailing P/E average includes Tamarack’s 248.1x; the snapshot uses the median. Target 1Y is MarketBeat TSE consensus in **CAD**, pulled October 27, 2026 (analyst counts 6–15; all at least 6). Screener ratings are in the analyst table. MarketBeat’s own labels on those pages include Reduce for Imperial Oil and Athabasca Oil, Hold for Tourmaline, and Buy for Cenovus, Whitecap and Tamarack, with Moderate Buy on the other names. WTI, WCS and synthetic crude are Oil Sands Magazine’s October 23, 2026 weekly close, in US dollars per barrel. Imperial’s and Suncor’s reporting dates are from company advisories dated October 20, 2026. Canadian Natural’s November 5 date and the Pathways November 15 date are as stated in the October 18 and October 4 StockSummarizer briefs. TSX Composite 1M/1Y are approximate public index price returns near October 26, 2026. Snapshot medians use the ten-name set except where a cell is blank.
 
@@ -234,6 +236,8 @@ Table figures are TSX screener values from merge `tsx-2026-10-25.csv` (2,532 row
 - MarketBeat TSE forecast pages for CNQ, SU, IMO, CVE, TOU, WCP, SCR, TVE, ATH and PEY (consensus pulled October 27, 2026)
 - S&P/TSX Composite approximate 1M/1Y price returns (public index trackers near October 26, 2026)
 - StockSummarizer coverage log — Cenovus brief dated 2026-10-04, Suncor brief dated 2026-10-06, Canadian Natural brief dated 2026-10-18
+- Catapult Commodities, Friday close, November 6, 2026 (WTI and Brent settlements, via EnergyNow and Reuters); Suncor Q3 2026 report; Canadian Natural Q3 2026 results coverage
+- TD Securities, Weekly Bottom Line, November 6, 2026 (WTI, copper, gold, Canada 10-year yield); Baystreet.ca and Investcom TSX close reports, November 6, 2026 (S&P/TSX Composite 35,789.09, +0.48% on the week; October unemployment rate 6.7%)
 
 ## Media credits
 

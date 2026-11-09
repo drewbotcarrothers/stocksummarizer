@@ -1,10 +1,10 @@
 ---
 title: "Canadian REIT stocks: the rate decision, First Capital’s multiple, CAPREIT’s year and targets"
-description: "Choice, Chartwell, RioCan, Granite, First Capital, CAPREIT, SmartCentres, CT REIT, Dream Industrial, Boardwalk, Crombie and H&R on the November 3, 2026 screener: yields, multiples and which targets are CAD."
+description: "Choice, Chartwell, RioCan, Granite, First Capital, CAPREIT, SmartCentres, CT REIT, Dream Industrial, Boardwalk, Crombie and H&R on the November 9, 2026 screener: yields, multiples and which targets are CAD."
 sector: "Real estate / REITs"
-thesis: "The median REIT in this set lagged the TSX over the past year, the last month was ahead of the index, and tomorrow’s Bank of Canada decision is the rate backdrop for a group whose accounting P/E is not the cash multiple."
-updatedDate: 2026-11-03
-screenerDate: 2026-11-03
+thesis: "The median REIT in this set lagged the TSX over the past year (median +5.2%), the last month was ahead of the index, and the Bank of Canada’s October 28 hike to 2.50% is the rate backdrop for a group whose accounting P/E is not the cash multiple."
+updatedDate: 2026-11-09
+screenerDate: 2026-11-09
 image: "/images/sectors/real-estate-reits.jpg"
 imageAlt: "Apartment buildings beside the North Saskatchewan River at the end of Edmonton’s High Level Bridge, with autumn trees in the foreground"
 imageCredit: "Apartment buildings at the end of the High Level Bridge, Edmonton. Photo by Chris Woodrich, CC BY-SA 4.0, via Wikimedia Commons. Cropped and resized."
@@ -18,24 +18,26 @@ Twelve liquid names — Choice Properties, Chartwell, RioCan, Granite, First Cap
 
 | Metric | Peer set (12) | vs TSX (approx.) |
 |:--|--:|--:|
-| Combined market cap | ~CA$60.0B | — |
-| Median trailing P/E | 22.1x | — |
+| Combined market cap | ~CA$61.2B | — |
+| Median trailing P/E | 14.5x | — |
 | Median forward P/E | — | — |
-| Median indicated yield | 5.23% | — |
-| Median 1M price return | +1.0% | TSX ~+0.1% |
-| Median 1Y price return | +4.8% | TSX ~+18.6% |
+| Median indicated yield | 5.11% | — |
+| Median 1M price return | +4.1% | TSX ~+0.1% |
+| Median 1Y price return | +5.2% | TSX ~+18.6% |
 
-*Screener as of November 3, 2026 (CAD; merge `tsx-2026-11-03.csv`, 2,569 rows). Peer set: CHP.UN, CSH.UN, REI.UN, GRT.UN, FCR.UN, CAR.UN, SRU.UN, CRT.UN, DIR.UN, BEI.UN, CRR.UN, HR.UN. Medians skip blank cells; P/E medians skip non-positive multiples. The TSX column is the approximate index return carried from the October 26 build and was not re-pulled for this refresh.*
+*Screener as of November 9, 2026 (CAD; merge `tsx-2026-11-09.csv`, 2,564 rows). Peer set: CHP.UN, CSH.UN, REI.UN, GRT.UN, FCR.UN, CAR.UN, SRU.UN, CRT.UN, DIR.UN, BEI.UN, CRR.UN, HR.UN. Medians skip blank cells; P/E medians skip non-positive multiples. The TSX column is the approximate index return carried from the October 26 build and was not re-pulled for this refresh.*
 
-**November 3, 2026 refresh.** Between the October 25 and November 3 screener files the median peer price moved **−0.2%**. Best: Granite (+1.4%) and Boardwalk (+1.4%). Weakest: Chartwell (−3.0%) and H&R (−3.0%). The snapshot and every peer table below are on the November 3 file. Commentary paragraphs between the tables were written on the October 25 file and quote those figures unless they give a later date.
+**November 9, 2026 refresh.** Between the November 3 and November 9 screener files the median peer price moved **+1.4%**. Best: Chartwell (+7.6%) and CT REIT (+3.4%). Weakest: Boardwalk (−1.1%) and RioCan (−1.0%). The snapshot and every peer table below are on the November 9 file. Commentary paragraphs between the tables were written on the October 25 file and quote those figures unless they give a later date.
 
 Every name in the table pays a distribution. The indicated yield runs from Boardwalk at **2.77%** and Chartwell at **2.92%** to SmartCentres at **6.81%** and H&R at **6.12%**. The median is about **5.3%**. That is the income sector in this curated set. It is also the sector where trailing earnings and the cash distribution are different numbers. Under IFRS, Canadian REIT profit includes unrealized fair-value changes on investment property. A trailing profit larger than revenue, or a loss next to a distribution that is still being paid, is that accounting. The forward column and the yield are the usable comparisons. This note does not have a funds-from-operations field, and it does not invent one.
 
 ## What is driving Canadian REIT stocks: a rate decision, an occupancy update and a November stack
 
+**November 9, 2026 update.** On **October 28, 2026** the Bank of Canada raised the overnight target by 25 basis points to **2.50%**, its first hike since July 2023 and the end of seven straight holds at 2.25%. It said further increases may be needed but it would proceed carefully; the next decision is **December 9**. REITs are a long-duration claim, so the path matters; the Canada 10-year yield was 3.64% on November 6 against 3.80% a week earlier (TD Securities). Chartwell reported on November 5: FFO of C$0.30 a unit (+25%), property revenue up 16.7% to C$321.1 million and same-property occupancy of 94.8%; its units rose 7.6% between the November 3 and November 9 screener files. Granite reported on November 4: FFO of C$1.60 and AFFO of C$1.45 a unit, C$270.5 million of acquisitions closed and a 4.2% distribution increase starting in December. Boardwalk reported on November 3: FFO of C$1.21 a unit (−1.6%) and same-property occupancy of 97.0%. The peer median price moved **+1.4%** between the two files. Calendar items below dated November 3–8 have since reported; this update summarizes only the results named here.
+
 **Q3 results since the last refresh (added November 3, 2026).** **Allied Properties (AP.UN)**, not in this peer table, reported on **October 28** and cut its monthly distribution by **90%**, to CA$0.006 from CA$0.06 a unit, its second cut in a year. FFO per unit fell **59%** to CA$0.194, AFFO per unit fell 75% to CA$0.110 (an AFFO payout of 163%), and net debt was **12.5x** adjusted EBITDA for the first nine months. Occupied area reached 84.9%. The office-REIT read-across is the balance sheet, not the payout. Full detail is in the [Allied brief](/summaries/2026-11-02-ap-allied-distribution-cut/).
 
-1. **October 28, 2026 — the Bank of Canada, still at 2.25% until it says otherwise.** On September 2 the Bank held the overnight target at **2.25%**, with the Bank Rate at 2.5% and the deposit rate at 2.20%. The next announcement, with a Monetary Policy Report, is October 28. It has not happened. A Reuters poll taken October 21–23 found **19 of 34** economists expecting a quarter-point hike to **2.50%**. The C.D. Howe Institute’s Monetary Policy Council, voting October 22, had **six of seven** members calling for a hold at 2.25%. REIT prices are a long-duration claim on rent minus interest. The decision is the backdrop for this table. It is not a result yet.
+1. **October 28, 2026 — the Bank of Canada hikes.** On **October 28, 2026** the Bank of Canada raised the overnight target by 25 basis points to **2.50%**, its first hike since July 2023 and the end of seven straight holds at 2.25%. It said further increases may be needed but it would proceed carefully; the next decision is **December 9**. The Reuters poll of October 21–23 had 19 of 34 economists expecting the hike; the C.D. Howe council’s October 22 vote had six of seven for a hold. REIT prices are a long-duration claim on rent minus interest, and the table figures are now on the November 9 screener, after the decision.
 
 2. **October 5, 2026 — Boardwalk’s occupancy pickup, and a Grande Prairie sale without a price in this note.** Preliminary total-portfolio occupancy was **97.0%** at the start of September and **97.1%** at the start of October, against **96.4%** at the start of June. Same-property occupancy was **97.2%** in both September and October. Sam Kolias said the trust had completed the sale of the Northern Lights portfolio in Grande Prairie in September and was redeploying proceeds into the normal-course issuer bid. This note does not have a sale price. Third-quarter results are after the close on **November 3**, with a call on **November 4 at 1:00 p.m. ET**. The October 23 close is **$62.35**. The one-year return is **−1.5%**. The CAD target is **CA$78.53** from **9** analysts, **+26%**.
 
@@ -69,21 +71,21 @@ Peer set: **Choice Properties (CHP.UN), Chartwell (CSH.UN), RioCan (REI.UN), Gra
 
 | Company (Ticker) | Price | Market cap | Revenue (LTM) | Net income (LTM) |
 |:--|--:|--:|--:|--:|
-| Choice Properties (CHP.UN) | $14.92 | $10.8B | $1.4B | −$74.3M |
-| Chartwell (CSH.UN) | $20.57 | $6.8B | $1.2B | $8.7M |
-| RioCan (REI.UN) | $21.45 | $6.2B | $1.4B | $252M |
-| Granite (GRT.UN) | $85.83 | $5.3B | $646M | $365M |
-| First Capital (FCR.UN) | $23.05 | $4.9B | $756M | $1.0B |
-| CAPREIT (CAR.UN) | $31.39 | $4.8B | $990M | −$132M |
-| SmartCentres (SRU.UN) | $27.34 | $4.7B | $931M | $157M |
-| CT REIT (CRT.UN) | $17.51 | $4.2B | $618M | $254M |
-| Dream Industrial (DIR.UN) | $12.71 | $3.6B | $523M | $169M |
-| Boardwalk (BEI.UN) | $63.21 | $3.1B | $650M | −$32.2M |
-| Crombie (CRR.UN) | $16.10 | $3.0B | $509M | −$58.5M |
-| H&R (HR.UN) | $9.52 | $2.5B | $760M | −$571M |
-| *Average* | — | $5.0B | $869M | $114M |
+| Choice Properties (CHP.UN) | $15.40 | $11.0B | $1.4B | −$74.3M |
+| Chartwell (CSH.UN) | $22.14 | $7.1B | $1.2B | $8.7M |
+| RioCan (REI.UN) | $21.23 | $6.3B | $1.3B | $495M |
+| Granite (GRT.UN) | $86.92 | $5.4B | $646M | $365M |
+| First Capital (FCR.UN) | $23.39 | $5.0B | $765M | $1.1B |
+| CAPREIT (CAR.UN) | $31.48 | $4.9B | $990M | −$132M |
+| SmartCentres (SRU.UN) | $27.68 | $4.7B | $931M | $157M |
+| CT REIT (CRT.UN) | $18.10 | $4.3B | $618M | $254M |
+| Dream Industrial (DIR.UN) | $12.91 | $3.7B | $528M | $188M |
+| Boardwalk (BEI.UN) | $62.51 | $3.1B | $649M | −$48.3M |
+| Crombie (CRR.UN) | $16.55 | $3.1B | $509M | −$58.5M |
+| H&R (HR.UN) | $9.54 | $2.6B | $760M | −$571M |
+| *Average* | — | $5.1B | $864M | $139M |
 
-*Source: TSX screener merge `tsx-2026-11-03.csv` (2,569 rows, November 3, 2026) · CAD · LTM = last 12 months. Average includes every row.*
+*Source: TSX screener merge `tsx-2026-11-09.csv` (2,564 rows, November 9, 2026) · CAD · LTM = last 12 months. Average includes every row.*
 
 Choice is the scale, at **CA$10.8 billion**, and it lost **CA$74 million**. H&R is the smallest, at **CA$2.6 billion**, and it lost **CA$571 million**. Granite earned **CA$365 million** on **CA$646 million** of revenue. First Capital earned **CA$1.0 billion** on **CA$756 million**. CAPREIT, the large apartment REIT, lost **CA$132 million** on **CA$990 million** of revenue. The earnings column is not the ranking investors use to buy these units. The yield column is closer. The earnings column is here because every other sector page on this site carries it, and because hiding it would hide the accounting.
 
@@ -91,21 +93,21 @@ Choice is the scale, at **CA$10.8 billion**, and it lost **CA$74 million**. H&R 
 
 | Company (Ticker) | 1M | 3M | 6M | YTD | 1Y | 5Y | 10Y |
 |:--|--:|--:|--:|--:|--:|--:|--:|
-| Choice Properties (CHP.UN) | +0.9% | −6.8% | −3.1% | +1.2% | +1.5% | +0% | +13% |
-| Chartwell (CSH.UN) | +0.9% | −8.7% | −8.5% | +2.9% | +0.6% | +72% | +39% |
-| RioCan (REI.UN) | +3.4% | −3.4% | −2.2% | +14.6% | +15.4% | −4% | −17% |
-| Granite (GRT.UN) | +2.2% | −9.8% | −8.2% | +5.4% | +10.1% | −14% | +101% |
-| **First Capital (FCR.UN)** | +0.9% | −0.1% | −1.5% | +21.4% | **+25.3%** | +30% | +8% |
-| CAPREIT (CAR.UN) | −0.0% | −9.4% | −14.4% | −14.7% | −18.0% | −48% | +8% |
-| SmartCentres (SRU.UN) | +2.9% | −7.0% | −4.4% | +6.1% | +3.3% | −13% | −18% |
-| CT REIT (CRT.UN) | +1.9% | −5.5% | +0.1% | +8.2% | +9.0% | −1% | +18% |
-| Dream Industrial (DIR.UN) | +0.0% | −10.9% | −7.9% | +1.2% | +6.2% | −25% | +68% |
-| **Boardwalk (BEI.UN)** | **+3.9%** | −4.6% | −6.4% | −1.7% | −1.5% | +18% | +29% |
-| Crombie (CRR.UN) | +1.1% | −7.8% | −5.5% | +5.3% | +9.2% | −12% | +20% |
-| H&R (HR.UN) | +0.0% | −13.5% | −10.6% | −6.7% | −14.2% | −44% | −58% |
-| *Average* | +1.5% | −7.3% | −6.1% | +3.6% | +3.9% | −3% | +18% |
+| Choice Properties (CHP.UN) | +5.8% | −1.9% | −0.5% | +4.4% | +4.5% | +1% | +19% |
+| **Chartwell (CSH.UN)** | **+13.8%** | +1.0% | +0.6% | +10.7% | +5.8% | +82% | +50% |
+| RioCan (REI.UN) | +4.3% | −1.8% | −2.6% | +13.5% | +13.0% | −7% | −18% |
+| Granite (GRT.UN) | +3.3% | −4.9% | −5.5% | +6.7% | +9.2% | −14% | +101% |
+| **First Capital (FCR.UN)** | +2.1% | +2.7% | −0.2% | +23.2% | **+23.0%** | +23% | +10% |
+| CAPREIT (CAR.UN) | +0.6% | −8.1% | −14.2% | −14.5% | −15.7% | −49% | +9% |
+| SmartCentres (SRU.UN) | +5.8% | −2.9% | −3.0% | +7.4% | +4.5% | −13% | −14% |
+| CT REIT (CRT.UN) | +7.0% | +0.7% | +2.8% | +11.8% | +14.2% | −0% | +21% |
+| Dream Industrial (DIR.UN) | +2.4% | −7.3% | −8.2% | +2.8% | +3.3% | −26% | +72% |
+| Boardwalk (BEI.UN) | +2.8% | −2.8% | −5.3% | −2.8% | −3.5% | +14% | +32% |
+| Crombie (CRR.UN) | +6.4% | −0.2% | −2.7% | +8.2% | +11.4% | −12% | +24% |
+| H&R (HR.UN) | +3.8% | −12.0% | −10.7% | −6.5% | −14.1% | −44% | −57% |
+| *Average* | +4.8% | −3.1% | −4.1% | +5.4% | +4.6% | −4% | +21% |
 
-*Source: TSX screener merge `tsx-2026-11-03.csv` (2,569 rows, November 3, 2026) · CAD · price returns. Bold = leader on 1M and on 1Y. Average skips blanks.*
+*Source: TSX screener merge `tsx-2026-11-09.csv` (2,564 rows, November 9, 2026) · CAD · price returns. Bold = leader on 1M and on 1Y. Average skips blanks.*
 
 The three-month column is red for eleven of the twelve. First Capital, **+2.4%**, is the exception. Granite’s three-month **−12.3%** sits inside a ten-year **+218%**. CAPREIT’s five-year **−37%** is the apartment drawdown. Chartwell’s five-year **+117%** is a retirement-residence re-rating that did not continue over the last year (**+4.1%**). Dream Industrial’s five-year is about flat and its ten-year is **+200%**. The compound was the earlier decade. H&R’s ten-year **−11%** is the diversified trust that did not come back.
 
@@ -113,21 +115,21 @@ The three-month column is red for eleven of the twelve. First Capital, **+2.4%**
 
 | Company (Ticker) | P/E | Fwd P/E | PEG | P/S | P/B | P/FCF |
 |:--|--:|--:|--:|--:|--:|--:|
-| Choice Properties (CHP.UN) | — | — | — | 7.39 | 2.58 | 20.6 |
-| Chartwell (CSH.UN) | 773.3 | — | — | 5.52 | 3.64 | 42.1 |
-| RioCan (REI.UN) | 24.8 | — | — | 4.47 | 0.87 | 17.3 |
-| Granite (GRT.UN) | 14.3 | — | 1.18 | 7.93 | 0.92 | — |
-| First Capital (FCR.UN) | 4.8 | — | 0.02 | 6.55 | 1.01 | 23.1 |
-| CAPREIT (CAR.UN) | — | — | — | 4.84 | 0.58 | 12.6 |
-| SmartCentres (SRU.UN) | 32.3 | — | — | 5.17 | 0.92 | 11.8 |
-| CT REIT (CRT.UN) | 10.0 | — | 0.37 | 5.38 | 0.65 | 8.4 |
-| Dream Industrial (DIR.UN) | 22.1 | — | — | 6.99 | 0.78 | 67.8 |
-| Boardwalk (BEI.UN) | — | — | — | 4.47 | 0.68 | 30.4 |
-| Crombie (CRR.UN) | — | — | −0.04 | 5.88 | 1.65 | 19.4 |
-| H&R (HR.UN) | — | — | −0.01 | 3.26 | 0.60 | 10.5 |
-| *Average* | 125.9 | — | 0.31 | 5.65 | 1.24 | 24.0 |
+| Choice Properties (CHP.UN) | — | — | — | 7.48 | 2.66 | 21.3 |
+| Chartwell (CSH.UN) | 832.3 | — | — | 5.53 | 3.92 | 45.3 |
+| RioCan (REI.UN) | 12.5 | — | 0.02 | 4.78 | 0.86 | 15.7 |
+| Granite (GRT.UN) | 14.5 | — | 1.22 | 8.14 | 0.93 | — |
+| First Capital (FCR.UN) | 4.6 | — | 0.01 | 6.50 | 1.01 | 23.0 |
+| CAPREIT (CAR.UN) | — | — | — | 4.90 | 0.58 | 12.7 |
+| SmartCentres (SRU.UN) | 32.7 | — | — | 5.24 | 0.93 | 11.9 |
+| CT REIT (CRT.UN) | 10.3 | — | 0.37 | 5.42 | 0.68 | 8.7 |
+| Dream Industrial (DIR.UN) | 20.0 | — | — | 6.96 | 0.78 | 56.8 |
+| Boardwalk (BEI.UN) | — | — | — | 4.85 | 0.66 | 48.8 |
+| Crombie (CRR.UN) | — | — | −0.04 | 5.94 | 1.70 | 19.9 |
+| H&R (HR.UN) | — | — | −0.01 | 3.32 | 0.60 | 10.6 |
+| *Average* | 132.4 | — | 0.26 | 5.75 | 1.28 | 25.0 |
 
-*Source: TSX screener merge `tsx-2026-11-03.csv` (2,569 rows, November 3, 2026) · CAD. Average skips blanks; one large multiple can dominate a column average, so read the medians in the snapshot.*
+*Source: TSX screener merge `tsx-2026-11-09.csv` (2,564 rows, November 9, 2026) · CAD. Average skips blanks; one large multiple can dominate a column average, so read the medians in the snapshot.*
 
 **CT REIT at 10.0x trailing and 11.6x forward, and 8.4x free cash flow, is the cheap retail REIT on the earnings fields that exist.** RioCan at **13.2x** forward and Granite at **14.1x** trailing are the other low teens. **First Capital at 4.8x trailing and 18.1x forward** is the trap inside the one-year winner: the trailing profit is **CA$1.0 billion** on **CA$756 million** of revenue, so 4.8x is an accounting result. The forward multiple says the next-year earnings estimate is a different number. **Chartwell at 797x and 141x** is what a **CA$9 million** profit and a **$0.15** next-year EPS estimate look like under a **CA$7.0 billion** market cap. It is in the average on purpose, the way GFL’s forward multiple is in the transportation average, so the average is not mistaken for the median. **CAPREIT has no multiple** on either earnings column. The apartment REIT that lagged the year is the one the forward EPS estimate has as a loss. **H&R at 0.62x book** and **CAPREIT at 0.58x book** are the discounts to accounting book. Choice at **2.57x** and Chartwell at **3.75x** are the premiums. Most of the rest cluster between **0.6x** and **1.7x** book.
 
@@ -143,21 +145,21 @@ The three-month column is red for eleven of the twelve. First Capital, **+2.4%**
 
 | Company (Ticker) | Dividend / share | Yield (ind.) | Payout ratio |
 |:--|--:|--:|--:|
-| Choice Properties (CHP.UN) | $0.77 | 5.23% | — |
-| Chartwell (CSH.UN) | $0.61 | 3.03% | 2315.8% |
-| RioCan (REI.UN) | $1.15 | 5.40% | 133.8% |
-| Granite (GRT.UN) | $3.41 | 4.14% | 58.0% |
-| First Capital (FCR.UN) | $0.89 | 3.96% | 18.5% |
-| CAPREIT (CAR.UN) | $1.55 | 4.94% | — |
-| SmartCentres (SRU.UN) | $1.85 | 6.77% | 209.9% |
-| CT REIT (CRT.UN) | $0.94 | 5.61% | 41.2% |
-| Dream Industrial (DIR.UN) | $0.70 | 5.64% | 121.2% |
-| Boardwalk (BEI.UN) | $1.59 | 2.85% | — |
-| Crombie (CRR.UN) | $0.89 | 5.65% | — |
+| Choice Properties (CHP.UN) | $0.77 | 5.11% | — |
+| Chartwell (CSH.UN) | $0.61 | 2.92% | 2315.8% |
+| RioCan (REI.UN) | $1.15 | 5.36% | 68.3% |
+| Granite (GRT.UN) | $3.41 | 4.07% | 58.0% |
+| First Capital (FCR.UN) | $0.89 | 3.91% | 17.8% |
+| CAPREIT (CAR.UN) | $1.55 | 4.85% | — |
+| SmartCentres (SRU.UN) | $1.85 | 6.69% | 209.9% |
+| CT REIT (CRT.UN) | $0.94 | 5.46% | 41.2% |
+| Dream Industrial (DIR.UN) | $0.70 | 5.49% | 108.5% |
+| Boardwalk (BEI.UN) | $1.59 | 2.87% | — |
+| Crombie (CRR.UN) | $0.89 | 5.57% | — |
 | H&R (HR.UN) | $0.60 | — | — |
-| *Average* | $1.25 | 4.84% | 414.1% |
+| *Average* | $1.25 | 4.75% | 402.8% |
 
-*Source: TSX screener merge `tsx-2026-11-03.csv` (2,569 rows, November 3, 2026) · CAD. DPS is annual; yield is indicated. Payout is trailing; negative payouts show as — and are left out of the average.*
+*Source: TSX screener merge `tsx-2026-11-09.csv` (2,564 rows, November 9, 2026) · CAD. DPS is annual; yield is indicated. Payout is trailing; negative payouts show as — and are left out of the average.*
 
 SmartCentres at **6.81%** and H&R at **6.12%** are the yields above **6%**, and H&R’s payout is blank because the trailing loss is **CA$571 million**. A yield without earnings coverage in the payout column is a distribution the accounting earnings do not pay for. RioCan’s **133.8%** and Dream Industrial’s **121.2%** are accounting payouts above 100% with profits that exist. Granite’s **58%** and CT REIT’s **41%** are the payouts that look like a normal equity. Boardwalk’s **2.77%** is the low yield on a **$62** unit. The October 5 occupancy update is the operating news. The yield is not why the unit is in the table.
 
@@ -165,21 +167,21 @@ SmartCentres at **6.81%** and H&R at **6.12%** are the yields above **6%**, and 
 
 | Company (Ticker) | Rating | Price | Target 1Y | Upside | Analysts |
 |:--|:--|--:|--:|--:|--:|
-| Choice Properties (CHP.UN) | Buy | $14.92 | CA$16.90 | +13.3% | 4 |
-| Chartwell (CSH.UN) | Strong buy | $20.57 | CA$25.77 | +25.3% | 10 |
-| RioCan (REI.UN) | Buy | $21.45 | CA$23.84 | +11.1% | 8 |
-| Granite (GRT.UN) | Strong buy | $85.83 | CA$102.50 | +19.4% | 7 |
-| First Capital (FCR.UN) | Neutral | $23.05 | CA$23.90 | +3.7% | 6 |
-| CAPREIT (CAR.UN) | Buy | $31.39 | CA$44.33 | +41.2% | 3 |
-| SmartCentres (SRU.UN) | Buy | $27.34 | CA$29.17 | +6.7% | 3 |
-| CT REIT (CRT.UN) | Neutral | $17.51 | CA$18.25 | +4.2% | 8 |
-| Dream Industrial (DIR.UN) | Strong buy | $12.71 | CA$15.47 | +21.7% | 7 |
-| Boardwalk (BEI.UN) | Buy | $63.21 | CA$78.53 | +24.2% | 9 |
-| Crombie (CRR.UN) | Buy | $16.10 | CA$18.00 | +11.8% | 3 |
-| H&R (HR.UN) | Buy | $9.52 | CA$11.39 | +19.6% | 5 |
-| *Average* | — | — | CA$34.00 | +16.9% | — |
+| Choice Properties (CHP.UN) | Buy | $15.40 | CA$16.90 | +9.7% | 4 |
+| Chartwell (CSH.UN) | Strong buy | $22.14 | CA$25.77 | +16.4% | 10 |
+| RioCan (REI.UN) | Buy | $21.23 | CA$23.84 | +12.3% | 8 |
+| Granite (GRT.UN) | Strong buy | $86.92 | CA$102.50 | +17.9% | 7 |
+| First Capital (FCR.UN) | Neutral | $23.39 | CA$23.90 | +2.2% | 6 |
+| CAPREIT (CAR.UN) | Buy | $31.48 | CA$44.33 | +40.8% | 3 |
+| SmartCentres (SRU.UN) | Buy | $27.68 | CA$29.17 | +5.4% | 3 |
+| CT REIT (CRT.UN) | Neutral | $18.10 | CA$18.25 | +0.8% | 8 |
+| Dream Industrial (DIR.UN) | Strong buy | $12.91 | CA$15.47 | +19.8% | 7 |
+| Boardwalk (BEI.UN) | Buy | $62.51 | CA$78.53 | +25.6% | 9 |
+| Crombie (CRR.UN) | Buy | $16.55 | CA$18.00 | +8.8% | 3 |
+| H&R (HR.UN) | Buy | $9.54 | CA$11.39 | +19.4% | 5 |
+| *Average* | — | — | CA$34.00 | +14.9% | — |
 
-*Rating = screener analyst rating on the November 3, 2026 file. Target 1Y and analyst counts are the MarketBeat TSE consensus figures (CAD) pulled October 27, 2026, not re-pulled for this refresh. Upside is the October 27 target versus the November 3 screener price. The dollar average mixes very different share prices; read the upside column.*
+*Rating = screener analyst rating on the November 9, 2026 file. Target 1Y and analyst counts are the MarketBeat TSE consensus figures (CAD) pulled October 27, 2026, not re-pulled in bulk for this refresh (Royal Bank spot-checked November 9, unchanged). Upside is the October 27 target versus the November 9 screener price. The dollar average mixes very different share prices; read the upside column.*
 
 **Two retail REITs are already on the target.** First Capital **+3.2%** to **CA$23.90** from **6**, and CT REIT **+3.9%** to **CA$18.25** from **8**. First Capital is the one-year leader. The CAD room is gone. CT REIT is the statistical cheap name on earnings and on cash, and the eight-analyst target agrees the price is close.
 
@@ -203,7 +205,7 @@ SmartCentres at **6.81%** and H&R at **6.12%** are the yields above **6%**, and 
 
 ## Bear case and risks for Canadian REIT stocks
 
-1. **The sector lagged a TSX that was up about 19%, and the rate decision is unmade.** A median one-year return of about **+8%** is a real gap. If October 28 is a hike, the duration works the other way. If it is a hold, the Reuters poll’s hike camp is the positioning that has to unwind. This note does not know which.
+1. **The sector lagged a TSX that was up about 19%, and rates just moved against duration.** A median one-year return of about **+5%** on the November 9 file is a real gap, and the October 28 hike to 2.50% is a headwind for a long-duration group, with further increases not ruled out.
 
 2. **The average P/E in the valuation table is not a REIT multiple.** **129x** trailing because of Chartwell, **33x** forward because of Chartwell’s **141x**. First Capital’s **4.8x** is the mirror image, a profit larger than revenue. Averaging those with CT REIT’s **10x** is how a sector multiple becomes nonsense. The medians in the snapshot are the figures that compare. Five names have no trailing P/E because accounting earnings are a loss, and several of those still yield **5%**.
 
@@ -211,7 +213,7 @@ SmartCentres at **6.81%** and H&R at **6.12%** are the yields above **6%**, and 
 
 ## What to watch next for Canadian REIT stocks: October 28, then RioCan
 
-1. **October 28, 2026 — the Bank of Canada overnight target and the Monetary Policy Report.** The rate going in is **2.25%**. The poll split is a hike to **2.50%** versus a hold. The prices in this table are the October 23 closes, before that announcement.
+1. **December 9, 2026 — the next Bank of Canada decision.** The overnight target is now **2.50%** after the October 28 hike, and the Bank said more increases may be needed.
 
 2. **November 2, after the close — RioCan, call November 3 at 10:00 a.m. ET.** The retail REIT with a readable forward multiple (**13.2x**) and an eight-analyst target **11%** above **$21.44**. Same-property rent and the fair-value line are the two numbers that tell you whether the **5.40%** yield is the story.
 
@@ -229,7 +231,7 @@ FirstService is property services, not a REIT. The October 24 brief left REITs o
 
 ## Data notes: screener date, peer set and where the targets come from
 
-**November 3, 2026 refresh.** The snapshot strip and every peer table now come straight from merge `tsx-2026-11-03.csv` (2,569 rows): prices, market caps, LTM revenue and net income, returns, multiples, dividends and screener ratings. Average rows skip blanks. Target 1Y and analyst counts are still the MarketBeat figures pulled October 27, 2026; upside compares those targets with the November 3 price. Rows for tickers missing from the November 3 export keep the previous build’s values and are named under the snapshot. The method notes below describe the October 27 build and still apply to the commentary written on it.
+**November 9, 2026 refresh.** The snapshot strip and every peer table now come straight from merge `tsx-2026-11-09.csv` (2,564 rows): prices, market caps, LTM revenue and net income, returns, multiples, dividends and screener ratings. Average rows skip blanks. Analyst targets were not re-pulled in bulk: Target 1Y and analyst counts are still the MarketBeat TSE figures pulled October 27, 2026 (a November 9 spot-check of Royal Bank’s MarketBeat page showed the consensus unchanged at C$292.86 on 12 analysts, with the latest broker action dated September 3); upside compares those targets with the November 9 price. Rows for tickers missing from the November 9 export keep the previous build’s values and are named under the snapshot. The November 9 update paragraph uses the news and company releases listed under Sources, checked November 9, 2026; the TSX comparison column is the approximate index return carried from the October 26 build. The method notes below describe the October 27 build and still apply to the commentary written on it.
 
 Prices are the October 23, 2026 TSX closes from Yahoo Finance chart history, split-adjusted for the return windows and unadjusted for the price column. Royal Bank’s close that day is **$281.77**, which matches the price printed from merge `tsx-2026-10-25.csv` on the banks page. The file itself is not in this checkout. Market cap, trailing P/E, P/S, P/B, P/FCF and PEG are TradingView Canada fields scaled by the October 23 close divided by the live close (the live close in this pull was the October 26 session). Revenue, net income, the annual DPS field and payout are the unscaled trailing fields. Yield is the live indicated-yield field scaled by the live close divided by the October 23 close. Forward P/E is October 23 price ÷ TradingView’s next-fiscal-year EPS consensus, pulled October 27, 2026. It is **not** the file’s forward-P/E cell. Performance is the exchange-close price return on the windows under the performance table, not the file’s Perf column. Peer rule: liquid Canadian REITs in retail, industrial, multi-residential, retirement and diversified — CHP.UN, CSH.UN, REI.UN, GRT.UN, FCR.UN, CAR.UN, SRU.UN, CRT.UN, DIR.UN, BEI.UN, CRR.UN, HR.UN. Excluded: SMU.UN, IIP.UN and MI.UN (taken private), AP.UN (about CA$0.8 billion, office), PMZ.UN (about CA$2.9 billion, enclosed retail, left out so H&R keeps the twelfth seat), KMP.UN (about CA$2.1 billion). Average rows include all twelve names and skip blank cells. The trailing-P/E average includes Chartwell’s 797x. The forward-P/E average includes Chartwell’s 141.3x and excludes CAPREIT. The payout average is six names. Target 1Y is MarketBeat’s Canadian-listing consensus in **CAD**, pulled October 27, 2026. The average uses only the eight names with at least five analysts and a real range, and it averages the one-decimal upsides in the table. Choice (4), CAPREIT (3), SmartCentres (3) and Crombie (3, high and low both C$18.00) are excluded. Ratings are the TradingView recommendation mark, not MarketBeat’s label. TSX Composite returns are Yahoo Finance chart history for ^GSPTSE on the same windows.
 
@@ -249,6 +251,9 @@ Prices are the October 23, 2026 TSX closes from Yahoo Finance chart history, spl
 - Summit Industrial arrangement closing, February 17, 2023; InterRent privatization closing, July 9, 2026; Minto Apartment REIT privatization closing, August 7, 2026
 - MarketBeat TSE forecast pages pulled October 27, 2026, for the twelve names in the table
 - StockSummarizer coverage log — no REIT brief yet; FirstService brief 2026-10-24 is property services
+- Bank of Canada rate announcement, October 28, 2026 (overnight target raised to 2.50%; Bank Rate 2.75%), as reported by Reuters and CBC; next decision December 9, 2026
+- Chartwell, Granite REIT and Boardwalk third-quarter 2026 news releases (November 3–5, 2026)
+- TD Securities, Weekly Bottom Line, November 6, 2026 (WTI, copper, gold, Canada 10-year yield); Baystreet.ca and Investcom TSX close reports, November 6, 2026 (S&P/TSX Composite 35,789.09, +0.48% on the week; October unemployment rate 6.7%)
 
 ## Media credits
 
