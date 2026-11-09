@@ -106,7 +106,7 @@ These numbers are examples, not recommendations. What matters is writing them do
 | "Home bias is safe" | Familiar is not the same as diversified | Compare your Canada weight with global market weights deliberately |
 | Never trimming winners | One position quietly grows to 20% | Rebalance rules triggered by weight |
 
-## Soft CTA
+## Go deeper
 
 A look-through concentration worksheet (ETF sector inputs, satellites, employer exposure, effective-N calculator) is planned for the **DIY Process** ebook. The method above is complete and free.
 

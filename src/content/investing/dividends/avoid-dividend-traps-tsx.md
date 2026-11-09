@@ -91,7 +91,7 @@ A score of 6+ means "prove it's safe before owning"; 9+ means the market's skept
 - Averaging down repeatedly into a falling yield story.
 - Assuming an index label (like "Aristocrat") rules out traps — see [Canadian Dividend Aristocrats explained](/investing/dividends/canadian-dividend-aristocrats-explained/).
 
-## Soft CTA
+## Go deeper
 
 A printable dividend-trap scorecard is planned for the **Dividend Safety** ebook. The ten checks above work today, free.
 

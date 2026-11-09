@@ -103,7 +103,7 @@ You can also **reverse** the DCF: solve for the growth rate the current price im
 
 Put the final range into the valuation block of your [stock brief](/investing/analyze/stock-brief-template-bull-bear-watch/).
 
-## Soft CTA
+## Go deeper
 
 A spreadsheet version of this five-input DCF is planned for the **Valuation Without Fake Precision** ebook. The free method above is complete.
 

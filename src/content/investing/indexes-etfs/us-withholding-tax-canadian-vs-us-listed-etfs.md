@@ -92,7 +92,7 @@ Background on reading these documents: [how to read an ETF factsheet before you 
 | Chasing a few basis points with expensive FX | Costs exceed the saving | Use Norbert's gambit or USD cash, or accept the drag |
 | Comparing funds on MER alone | Withholding drag is extra | Compare tracking difference and structure |
 
-## Soft CTA
+## Go deeper
 
 A one-page fund-structure-by-account chart is planned for the **DIY Process** ebook. If you're placing US *stocks* rather than funds, see [account location for US dividend stocks](/investing/accounts/account-location-us-dividend-stocks/).
 

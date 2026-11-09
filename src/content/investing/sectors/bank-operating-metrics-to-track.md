@@ -98,7 +98,7 @@ ROE and capital drive bank valuation. A bank sustaining a higher ROE with a soli
 - [How to read quarterly earnings for TSX companies](/investing/analyze/how-to-read-quarterly-earnings-tsx/)
 - [Payout ratio explained](/investing/dividends/payout-ratio-explained-canadian-companies/)
 
-## Soft CTA
+## Go deeper
 
 A printable bank-metrics tracker is planned for the **Stock Research Playbook** ebook. Everything you need to run the check is above.
 

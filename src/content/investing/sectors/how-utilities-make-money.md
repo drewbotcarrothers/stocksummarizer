@@ -100,7 +100,7 @@ Utilities are usually compared on **P/E**, **EV/EBITDA**, **dividend yield** and
 - [Energy – midstream: how money is made](/investing/sectors/how-midstream-pipelines-make-money/)
 - [Valuation for banks: P/B and ROE](/investing/valuation/valuing-canadian-banks-pb-roe/) — the same ROE logic, applied differently
 
-## Soft CTA
+## Go deeper
 
 A rate-base-to-EPS worksheet is planned for the **Dividend Safety** ebook. This explainer is complete and free.
 

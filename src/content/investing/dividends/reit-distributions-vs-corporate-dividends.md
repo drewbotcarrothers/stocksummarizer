@@ -95,7 +95,7 @@ That's why many DIY investors prefer to hold REITs inside registered accounts an
 
 For the broader picture of how dividend income fits a stock portfolio, see [how dividend investing works](/investing/dividends/how-dividend-investing-works-canadian-diy/) and [why yield alone is a terrible screen](/investing/dividends/why-yield-alone-is-a-terrible-screen/).
 
-## Soft CTA
+## Go deeper
 
 An ACB and REIT-distribution tracker is planned for the **Dividend Safety** ebook. Everything here is free to use now.
 

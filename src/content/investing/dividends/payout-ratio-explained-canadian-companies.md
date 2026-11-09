@@ -93,7 +93,7 @@ A lower payout leaves room to grow the dividend faster than earnings for a while
 
 Pair the payout ratio with [FCF coverage](/investing/dividends/fcf-coverage-of-dividends/) and the [dividend trap checklist](/investing/dividends/avoid-dividend-traps-tsx/) for a fuller safety check.
 
-## Soft CTA
+## Go deeper
 
 A payout-ratio tracker (three bases, target range, quarterly trend) is planned for the **Dividend Safety** ebook. The method above is free.
 

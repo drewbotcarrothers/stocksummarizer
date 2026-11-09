@@ -88,7 +88,7 @@ Our [oil and gas producers](/sectors/oil-gas-producers/) and [gold and precious 
 
 The AIF is step one of [how to research a TSX stock from scratch](/investing/analyze/research-tsx-stock-from-scratch/): it gives you the map before you read the [MD&A](/investing/analyze/how-to-read-mdna/) and the [quarterly results](/investing/analyze/how-to-read-quarterly-earnings-tsx/). Find it on the issuer's SEDAR+ profile — the steps are in [how to use SEDAR+ for stock research](/investing/analyze/use-sedar-plus-for-stock-research/).
 
-## Soft CTA
+## Go deeper
 
 The AIF reading plan will become a chapter in the future **Stock Research Playbook** ebook. Free analyze guides stay complete.
 

@@ -88,7 +88,7 @@ Services stocks are usually compared on **EV/EBITDA** and **free cash flow yield
 - [Energy – producers: how money is made](/investing/sectors/how-oil-gas-producers-make-money/)
 - [Energy – midstream: how money is made](/investing/sectors/how-midstream-pipelines-make-money/)
 
-## Soft CTA
+## Go deeper
 
 A mid-cycle earnings worksheet for cyclical stocks is planned for the **Valuation Without Fake Precision** ebook. This explainer is complete and free.
 

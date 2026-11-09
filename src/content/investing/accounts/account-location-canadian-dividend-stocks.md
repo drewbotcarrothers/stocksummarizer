@@ -76,7 +76,7 @@ The RRSP isn't "wrong" for Canadian dividends — it simply wastes the dividend 
 | Ignoring the grossed-up income | Can affect benefits and clawbacks | Model net income, not just cash dividends |
 | Choosing stocks by tax efficiency | Tax is a tie-breaker, not a thesis | Start from the investment case; see [why yield alone is a terrible screen](/investing/dividends/why-yield-alone-is-a-terrible-screen/) |
 
-## Soft CTA
+## Go deeper
 
 A household "income type by account" sheet is planned for the **Dividend Safety** ebook. If you're opening a taxable account alongside a TFSA or RRSP, see [how to compare Canadian discount brokers](/investing/brokers-tools/compare-canadian-discount-brokers/).
 

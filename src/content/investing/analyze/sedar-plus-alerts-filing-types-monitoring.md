@@ -91,7 +91,7 @@ Keep a single log per holding — date, filing type, one-line takeaway, any kill
 | Treating insider sales as a signal by themselves | Many are for taxes or diversification | Look for clusters and context |
 | Not checking SEDI | Insider data isn't on SEDAR+ | Add SEDI to the monthly routine |
 
-## Soft CTA
+## Go deeper
 
 A monitoring log template (filing type, takeaway, kill-criterion check) is planned for the **Research** ebook. Until then, the free [bull / bear / watch brief template](/investing/analyze/stock-brief-template-bull-bear-watch/) has a "watch" section built for exactly this.
 

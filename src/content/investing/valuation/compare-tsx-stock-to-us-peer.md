@@ -106,7 +106,7 @@ The remaining one-turn gap might reflect slower growth, higher leverage or just 
 
 Record the result in the valuation block of your [stock brief](/investing/analyze/stock-brief-template-bull-bear-watch/) and see [comparing two TSX peers](/investing/analyze/compare-two-tsx-peers/) for the same-market version of this exercise.
 
-## Soft CTA
+## Go deeper
 
 A cross-border comparison worksheet is planned for the **Valuation Without Fake Precision** ebook. Everything you need to do it by hand is above.
 

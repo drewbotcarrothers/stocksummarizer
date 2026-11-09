@@ -100,7 +100,7 @@ Producers are usually compared on **EV/EBITDA** or EV/debt-adjusted cash flow, *
 - Stock briefs: [Canadian Natural](/summaries/2026-10-18-cnq-oil-downgrade/) · [Suncor](/summaries/2026-10-06-su-suncor/) · [Cenovus](/summaries/2026-10-04-cve-cenovus/) · [Imperial Oil](/summaries/2026-10-31-imo-q3-record-refining/)
 - [Free cash flow coverage of dividends](/investing/dividends/fcf-coverage-of-dividends/)
 
-## Soft CTA
+## Go deeper
 
 A producer-reading checklist (netbacks, breakevens, decline) is planned for the **Stock Research Playbook** ebook. This explainer is complete and free.
 

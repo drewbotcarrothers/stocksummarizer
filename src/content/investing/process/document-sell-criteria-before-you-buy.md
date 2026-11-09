@@ -103,7 +103,7 @@ In a taxable account, also note the tax side before selling — capital gains, [
 | No time stop | Dead money ties up capital for years | Put a date on the catalyst |
 | Criteria in your head | Memory is edited by outcomes | Keep them in the stock's brief or journal |
 
-## Soft CTA
+## Go deeper
 
 A one-page "Thesis → Catalyst → Kill Criteria" card is planned for the **DIY Process** ebook. You can build your own today with the free [bull / bear / watch brief template](/investing/analyze/stock-brief-template-bull-bear-watch/).
 

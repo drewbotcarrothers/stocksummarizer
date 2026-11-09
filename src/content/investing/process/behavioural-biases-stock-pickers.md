@@ -76,7 +76,7 @@ If your high-conviction ideas don't outperform your low-conviction ones, your co
 | Holding a resource stock "until oil comes back" | Anchoring, sunk cost | Re-underwrite at mid-cycle prices |
 | Trading actively inside a TFSA after a hot streak | Overconfidence | Long-term satellites only; see [TFSA for stock investors](/investing/accounts/tfsa-for-stock-investors/) |
 
-## Soft CTA
+## Go deeper
 
 A printable decision journal and pre-mortem template is planned for the **DIY Process** ebook. The process above is complete and free.
 

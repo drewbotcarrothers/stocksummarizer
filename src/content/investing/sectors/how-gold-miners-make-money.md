@@ -88,7 +88,7 @@ Gold producers are typically compared on **price to net asset value (P/NAV)** at
 - Stock briefs: [Lundin Gold](/summaries/2026-10-12-lug-lundin-gold/) · [Barrick](/summaries/2026-10-19-abx-barrick-downgrade/) · [Eldorado Gold](/summaries/2026-10-28-eld-skouries-filter-presses/)
 - [What is free cash flow?](/investing/glossary/what-is-free-cash-flow/)
 
-## Soft CTA
+## Go deeper
 
 A gold-miner checklist (AISC, grade, jurisdiction, reserve life) is planned for the **Stock Research Playbook** ebook. This explainer is complete and free.
 

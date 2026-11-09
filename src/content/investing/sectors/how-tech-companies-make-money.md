@@ -95,7 +95,7 @@ High-growth software is often valued on **EV/sales** or **EV/gross profit**; mat
 - [How to compare a TSX stock to its US peer](/investing/valuation/compare-tsx-stock-to-us-peer/)
 - [When P/E misleads on TSX stocks](/investing/valuation/when-pe-misleads-tsx/)
 
-## Soft CTA
+## Go deeper
 
 An ARR-and-SBC checklist for software stocks is planned for the **Valuation Without Fake Precision** ebook. This explainer is complete and free.
 

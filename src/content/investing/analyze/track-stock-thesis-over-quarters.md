@@ -55,7 +55,7 @@ After each earnings package, fill a one-page **QoQ scorecard**: restate the thes
 | A kill criterion tripped or nearly tripped | A sector ETF moved |
 | Timeline for a catalyst slipped | Social media buzz |
 
-## Soft CTA habit
+## Go deeper
 
 Store scorecards next to the brief you already use. If a pillar score falls for two quarters, that is a prompt to re-read the [MD&A](/investing/analyze/how-to-read-mdna/) and [earnings call transcript](/investing/analyze/how-to-read-earnings-call-transcript/) — not an automatic sell signal, and not advice.
 

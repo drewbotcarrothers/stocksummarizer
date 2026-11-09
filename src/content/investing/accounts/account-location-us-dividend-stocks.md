@@ -79,7 +79,7 @@ Buying a Canadian bank, railway or pipeline on the NYSE doesn't create a US divi
 | Converting currency for every trade | FX costs can dwarf withholding savings | Keep USD in USD where your broker allows |
 | Forgetting T1135 | Penalties for late filing | Track total foreign cost in taxable accounts |
 
-## Soft CTA
+## Go deeper
 
 A cross-border holdings checklist (W-8BEN, USD cash, T1135, placement) is planned for the **DIY Process** ebook. If you need USD accounts inside an RRSP or TFSA, compare broker features in [how to compare Canadian discount brokers](/investing/brokers-tools/compare-canadian-discount-brokers/).
 

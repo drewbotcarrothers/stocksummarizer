@@ -91,7 +91,7 @@ In Canada, CIRO's Universal Market Integrity Rules (UMIR 7.5) have the effect of
 | Market orders on thin stocks | Pays the full spread or worse | Use limit orders |
 | Frequent trading because it's "free" | Spreads, taxes and bad habits add up | Trade on thesis changes, not because you can — see [TFSA trading risk](/investing/accounts/tfsa-business-like-trading-risk/) |
 
-## Soft CTA
+## Go deeper
 
 When you compare brokers, put FX conversion terms, USD account availability (including inside TFSA and RRSP), and Norbert's gambit support on your scorecard. The full framework is in [how to compare Canadian discount brokers](/investing/brokers-tools/compare-canadian-discount-brokers/).
 

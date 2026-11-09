@@ -91,7 +91,7 @@ Because a bank's "product" is money, investors lean on **price-to-book (P/B)** a
 - Stock brief example: [TD Bank summary](/summaries/2026-09-23-td-toronto-dominion/)
 - [Banks and energy weight: why Canada is not the S&P 500](/investing/indexes-etfs/canada-vs-sp-500-sector-weights/)
 
-## Soft CTA
+## Go deeper
 
 A bank-reading checklist for quarterly reports is planned for the **Stock Research Playbook** ebook. This explainer is complete and free.
 

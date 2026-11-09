@@ -83,7 +83,7 @@ This is an illustration of the logic, not a recommended allocation. Your tax bra
 | Satellites in an FHSA you'll draw on soon | A drawdown can delay a home purchase | Keep short-horizon money in the core |
 | Forgetting adjusted cost base in taxable | Mistakes at tax time | Track ACB for every taxable satellite |
 
-## Soft CTA
+## Go deeper
 
 A one-page household core-satellite placement sheet (accounts, cap, review dates) is planned for the **DIY Process** ebook. The framework above is complete and free. If you're comparing brokers for multiple account types, see [how to compare Canadian discount brokers](/investing/brokers-tools/compare-canadian-discount-brokers/).
 

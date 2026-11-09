@@ -76,7 +76,7 @@ If after three to five years the satellite hasn't beaten (or at least matched) a
 | No benchmark | You can't tell skill from luck | Track total return vs index yearly |
 | Raiding the core | Selling core ETFs to fund a hot idea | Fund satellites only from new money or the sleeve itself |
 
-## Soft CTA
+## Go deeper
 
 A one-page core-satellite policy template (size cap, position limits, review dates) is planned for the **DIY Process** ebook. The rules above are complete and free.
 

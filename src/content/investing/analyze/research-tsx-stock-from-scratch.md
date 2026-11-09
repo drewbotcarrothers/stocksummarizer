@@ -72,7 +72,7 @@ Decide TFSA vs RRSP vs taxable *before* the ticket, especially for US payers and
 - [ ] Account location chosen
 - [ ] Position size capped as a % of equity
 
-## Soft CTA
+## Go deeper
 
 This framework is the spine of a future **Stock Research Playbook** ebook. The free analyze hubs remain complete: [SEDAR+ step-by-step](/investing/analyze/use-sedar-plus-for-stock-research/), valuation hubs, and pathway guides.
 

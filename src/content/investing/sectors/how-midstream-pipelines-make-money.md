@@ -92,7 +92,7 @@ Midstream stocks are commonly compared on **EV/EBITDA**, **price ÷ DCF per shar
 - [Energy – producers: how money is made](/investing/sectors/how-oil-gas-producers-make-money/)
 - [Dividend growth vs high yield](/investing/dividends/dividend-growth-vs-high-yield/)
 
-## Soft CTA
+## Go deeper
 
 A midstream contract-mix worksheet is planned for the **Dividend Safety** ebook. This explainer is complete and free.
 

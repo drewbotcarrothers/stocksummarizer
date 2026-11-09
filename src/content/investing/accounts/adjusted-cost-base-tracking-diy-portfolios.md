@@ -102,7 +102,7 @@ Update it after every trade and once a year when T3/T5 slips arrive with ROC and
 | Ignoring ROC | Understates your eventual gain | Reduce ACB as ROC is reported |
 | Mixing accounts | Registered trades don't belong in ACB | Track taxable accounts only |
 
-## Soft CTA
+## Go deeper
 
 A copy-ready ACB ledger template (with USD columns and ROC handling) is planned for the **DIY Process** ebook. If you're comparing brokers on tax-lot and export features, see [how to compare Canadian discount brokers](/investing/brokers-tools/compare-canadian-discount-brokers/).
 

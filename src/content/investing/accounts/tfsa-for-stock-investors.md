@@ -52,7 +52,7 @@ You need trade logs for your process even when the TFSA slip complexity differs 
 - [ ] Thesis docs tied to each name
 - [ ] Room tracked before large buys / transfers
 
-## Soft CTA
+## Go deeper
 
 Account-location chapters will sit inside future ebook bundles. Free accounts hubs and the [Start Here pathway](/investing/pathways/canadian-diy-stock-investing-start-here/) remain the spine.
 

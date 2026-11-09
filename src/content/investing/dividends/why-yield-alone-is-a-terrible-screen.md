@@ -88,7 +88,7 @@ Most screeners let you build at least some of these filters (payout ratio, debt-
 - Treating an index of dividend payers as automatically "safe" — see [Canadian Dividend Aristocrats explained](/investing/dividends/canadian-dividend-aristocrats-explained/).
 - Ignoring the after-tax yield by account type, especially for US payers — see [US dividend withholding tax](/investing/dividends/us-dividend-withholding-tax-tfsa-rrsp-taxable/).
 
-## Soft CTA
+## Go deeper
 
 A dividend-safety checklist (coverage, payout, leverage, history) is planned for the **Dividend Safety** ebook. Everything above is free to use now.
 

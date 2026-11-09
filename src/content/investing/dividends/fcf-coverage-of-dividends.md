@@ -100,7 +100,7 @@ These overlap with the [dividend trap checklist](/investing/dividends/avoid-divi
 4. Compare with net debt over the same period.
 5. Record the result in the dividend line of your [stock brief](/investing/analyze/stock-brief-template-bull-bear-watch/).
 
-## Soft CTA
+## Go deeper
 
 A five-year coverage worksheet is planned for the **Dividend Safety** ebook. The method above is complete and free.
 

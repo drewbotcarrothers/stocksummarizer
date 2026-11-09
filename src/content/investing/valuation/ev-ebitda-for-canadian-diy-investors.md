@@ -87,7 +87,7 @@ Two companies at the same EV/EBITDA can carry very different risk. A quick read:
 
 Related: [what P/E means](/investing/valuation/what-pe-means-canadian-diy/) · [relative vs intrinsic valuation](/investing/valuation/relative-vs-intrinsic-valuation/).
 
-## Soft CTA
+## Go deeper
 
 This hub feeds the future **Valuation Without Fake Precision** ebook. Free valuation guides remain complete.
 

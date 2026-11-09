@@ -50,7 +50,7 @@ Examples: simple DCF, dividend discount sketches, owner-earnings capitalisation.
 
 See also [What P/E Means](/investing/valuation/what-pe-means-canadian-diy/) and the research-from-scratch analyze hub.
 
-## Soft CTA
+## Go deeper
 
 These ideas become chapters in a future valuation ebook. Until then, use the free hubs and keep fake precision out of your notes.
 

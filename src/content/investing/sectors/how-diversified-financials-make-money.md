@@ -96,7 +96,7 @@ Fee-based managers and exchanges are usually valued on **P/E** or **EV/EBITDA**,
 - [Financials – banks: how money is made](/investing/sectors/how-canadian-banks-make-money/)
 - [MER, TER and tracking difference](/investing/indexes-etfs/mer-ter-tracking-difference/) — the fee rate from the investor's side
 
-## Soft CTA
+## Go deeper
 
 A fee-math and net-flows worksheet for asset managers is planned for the **Stock Research Playbook** ebook. This explainer is complete and free.
 

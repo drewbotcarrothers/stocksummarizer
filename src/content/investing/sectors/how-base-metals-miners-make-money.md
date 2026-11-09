@@ -98,7 +98,7 @@ Miners are typically compared on **price ÷ net asset value (P/NAV)**, **EV/EBIT
 - [Energy – producers: how money is made](/investing/sectors/how-oil-gas-producers-make-money/) — another price-taker model
 - [How to build a simple DCF without fake precision](/investing/valuation/simple-dcf-without-fake-precision/)
 
-## Soft CTA
+## Go deeper
 
 A cost-curve and price-deck worksheet for miners is planned for the **Valuation Without Fake Precision** ebook. This explainer is complete and free.
 

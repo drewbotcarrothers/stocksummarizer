@@ -101,7 +101,7 @@ This note feeds directly into a [bull / bear / watch stock brief](/investing/ana
 
 StockSummarizer [stock summaries](/summaries/) and the [sector deep dives](/sectors/) compress a lot of filings into a few minutes. Use them to decide which MD&A deserves an hour, then read the source yourself. The full research spine is in [how to research a TSX stock from scratch](/investing/analyze/research-tsx-stock-from-scratch/), and the quarter-by-quarter routine is in [how to read quarterly earnings for TSX companies](/investing/analyze/how-to-read-quarterly-earnings-tsx/).
 
-## Soft CTA
+## Go deeper
 
 This page is part of the free analyze hub that will also feed a future **Stock Research Playbook** ebook. The free guides stay complete.
 

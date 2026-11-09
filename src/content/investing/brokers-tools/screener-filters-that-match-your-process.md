@@ -87,7 +87,7 @@ Financials need their own screen: banks and insurers don't have EBITDA or conven
 | Using defaults | Someone else's process | Write the process first |
 | Mixing financials with industrials | Ratios don't compare | Screen them separately |
 
-## Soft CTA
+## Go deeper
 
 A set of saved-screen templates mapped to common DIY processes is planned for the **Research** ebook. If you're choosing a broker partly for its screener and data exports, see [how to compare Canadian discount brokers](/investing/brokers-tools/compare-canadian-discount-brokers/).
 

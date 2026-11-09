@@ -75,7 +75,7 @@ To be eligible, a stock (or income trust) must be listed on the TSX, sit in the 
 
 Some Canadian ETFs track this index. Owning the ETF gives you the rules above, applied mechanically, for a management fee. Picking individual names lets you add the coverage and valuation tests the index doesn't apply — at the cost of time and concentration risk. If you're deciding between the two approaches, the [ETF investor to stock picker pathway](/investing/pathways/etf-investor-to-stock-picker/) walks through the trade-offs.
 
-## Soft CTA
+## Go deeper
 
 A dividend-safety checklist that layers coverage, payout and leverage onto any Aristocrats-style list is planned for the **Dividend Safety** ebook. The checks above are free.
 

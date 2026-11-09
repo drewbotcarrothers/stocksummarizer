@@ -100,7 +100,7 @@ Both frameworks share one rule: **total return matters, not just income**. A 6% 
 - Cap any single high-yield position more tightly — see [position sizing](/investing/process/position-sizing-diy-stock-pickers/).
 - Review once a year: are growers still growing, and are high-yielders still covered?
 
-## Soft CTA
+## Go deeper
 
 A worksheet that runs the crossover math with your own yields and growth rates is planned for the **Dividend Safety** ebook. The framework above is complete and free.
 

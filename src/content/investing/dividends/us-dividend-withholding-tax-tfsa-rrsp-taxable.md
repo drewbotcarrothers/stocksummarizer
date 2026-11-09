@@ -85,7 +85,7 @@ The drag scales with yield: it matters a lot for a high-yield US portfolio and v
 - Forgetting the W-8BEN after opening a new account.
 - Judging a US stock by gross yield in a TFSA — see [why yield alone is a terrible screen](/investing/dividends/why-yield-alone-is-a-terrible-screen/).
 
-## Soft CTA
+## Go deeper
 
 An account-location worksheet for Canadian and US dividend stocks is planned for the **Dividend Safety** ebook. This guide covers the essentials for free.
 

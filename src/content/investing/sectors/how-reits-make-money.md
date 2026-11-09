@@ -107,7 +107,7 @@ REITs are usually compared on **price ÷ AFFO per unit**, **price vs NAV**, **im
 - [How to avoid dividend traps on the TSX](/investing/dividends/avoid-dividend-traps-tsx/)
 - [Canadian equity ETFs vs owning individual TSX stocks](/investing/indexes-etfs/canadian-equity-etfs-vs-individual-stocks/)
 
-## Soft CTA
+## Go deeper
 
 A REIT AFFO-and-leverage scorecard is planned for the **Dividend Safety** ebook. This explainer is complete and free.
 

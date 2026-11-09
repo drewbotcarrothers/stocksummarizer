@@ -86,7 +86,7 @@ When the two disagree a lot, the gap is the story. A company on 12× earnings bu
 
 P/FCF is strongest next to [EV/EBITDA](/investing/valuation/ev-ebitda-for-canadian-diy-investors/) (capital-structure view) and P/E (earnings view), with a [simple DCF](/investing/valuation/simple-dcf-without-fake-precision/) as a sanity check. The overall method is in [relative vs intrinsic valuation](/investing/valuation/relative-vs-intrinsic-valuation/).
 
-## Soft CTA
+## Go deeper
 
 This page feeds the future **Valuation Without Fake Precision** ebook. Free valuation guides stay complete.
 

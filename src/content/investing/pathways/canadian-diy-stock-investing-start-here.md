@@ -39,7 +39,7 @@ SEDAR+ (issuer filings), the MD&A, and the Annual Information Form beat any scor
 
 ### 4. Valuation as a range, not a target
 
-P/E, EV/EBITDA, and P/FCF are tools, not oracles. Learn relative vs intrinsic framing, when bank P/B matters more than P/E, and how to triangulate without spreadsheet theatre. Soft CTA: these hubs will eventually feed a paid **Valuation Without Fake Precision** ebook; the free layer stays complete.
+P/E, EV/EBITDA, and P/FCF are tools, not oracles. Learn relative vs intrinsic framing, when bank P/B matters more than P/E, and how to triangulate without spreadsheet theatre. These hubs will eventually feed a paid **Valuation Without Fake Precision** ebook; the free layer stays complete.
 
 ### 5. Income and risk rules before size
 

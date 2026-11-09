@@ -109,7 +109,7 @@ Write the zones into the valuation block of your [stock brief](/investing/analyz
 - Using peak-cycle earnings in the history method.
 - Picking "peers" that are just in the same sector.
 
-## Soft CTA
+## Go deeper
 
 A one-page football-field template is planned for the **Valuation Without Fake Precision** ebook. The free method above is complete.
 

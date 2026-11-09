@@ -84,7 +84,7 @@ The real work still lives in the company's filings and your [stock brief](/inves
 | Ignoring sector fit | Scores misread banks, REITs, miners | Check whether the model is sector-aware |
 | Paying for several overlapping apps | Same underlying data, same blind spots | Pick one, audit it, use it sparingly |
 
-## Soft CTA
+## Go deeper
 
 A printable score-app audit sheet is planned for the **Research** ebook. If an app's scores come bundled with a brokerage, judge the broker on its own merits too — see [how to compare Canadian discount brokers](/investing/brokers-tools/compare-canadian-discount-brokers/).
 

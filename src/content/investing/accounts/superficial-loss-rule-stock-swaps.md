@@ -87,7 +87,7 @@ For stock pickers, the cleanest swap is usually to a **different company in the 
 | Assuming any ETF swap is safe | Same-index funds may be identical | Switch to a different index or wait |
 | Not adjusting ACB after a denied loss | Overstates future gains | Add the denied loss to the new ACB |
 
-## Soft CTA
+## Go deeper
 
 A year-end tax-loss-selling checklist (window dates, DRIP pause, swap log, ACB updates) is planned for the **DIY Process** ebook. If you're reviewing a losing position anyway, start with your [written sell criteria](/investing/process/document-sell-criteria-before-you-buy/) — tax should shape how you exit, not whether.
 

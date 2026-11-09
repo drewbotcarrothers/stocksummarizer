@@ -84,7 +84,7 @@ It should **not** override the business analysis. A tax-efficient dividend that 
 
 For the bigger picture see [how dividend investing works for Canadian DIY investors](/investing/dividends/how-dividend-investing-works-canadian-diy/) and [TFSA for stock investors](/investing/accounts/tfsa-for-stock-investors/).
 
-## Soft CTA
+## Go deeper
 
 An after-tax yield comparison sheet (eligible, US, REIT, capital gains) is planned for the **Dividend Safety** ebook. The framing above is free.
 

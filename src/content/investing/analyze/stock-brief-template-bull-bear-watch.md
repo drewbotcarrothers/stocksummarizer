@@ -89,7 +89,7 @@ Every StockSummarizer [stock summary](/summaries/) ends with a bull / bear / wat
 
 The brief is step 5 of [how to research a TSX stock from scratch](/investing/analyze/research-tsx-stock-from-scratch/); sizing comes next in [position sizing for DIY stock pickers](/investing/process/position-sizing-diy-stock-pickers/).
 
-## Soft CTA
+## Go deeper
 
 A printable version of this template will ship with the future **Stock Research Playbook** ebook. The free version above is complete.
 

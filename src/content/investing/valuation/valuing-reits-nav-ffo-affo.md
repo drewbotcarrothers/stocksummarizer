@@ -126,7 +126,7 @@ Two REITs with the same AFFO yield are not equally safe if one carries much more
 - Trusting NAV without testing the cap rate.
 - Ignoring tax character — REIT distributions are not dividends for tax purposes. See [REIT distributions vs corporate dividends](/investing/dividends/reit-distributions-vs-corporate-dividends/).
 
-## Soft CTA
+## Go deeper
 
 A REIT valuation worksheet (AFFO bridge, NAV at three cap rates, payout check) is planned for the **Valuation Without Fake Precision** ebook. The method above is complete and free.
 

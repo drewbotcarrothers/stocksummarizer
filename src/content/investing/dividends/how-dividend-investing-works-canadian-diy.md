@@ -46,7 +46,7 @@ High trailing yield can mean a falling price (value trap), an unsustainable payo
 
 Many DIY investors keep an index core and add a dividend satellite of banks, utilities, pipelines, or select REITs they understand. Track total return (price + dividends) so you do not celebrate yield while underperforming a boring ETF after risk adjustment.
 
-## Soft CTAs
+## Go deeper
 
 Dividend tracker and broker affiliates may appear as disclosed partners when live. A future **Dividend Safety** ebook will compile coverage, traps, and aristocrats methodology — free hubs remain usable alone.
 

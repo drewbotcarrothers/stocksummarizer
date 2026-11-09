@@ -99,7 +99,7 @@ Rails usually trade on **P/E**, **EV/EBITDA** and **free cash flow yield**, ofte
 - [Banks and energy weight: why Canada is not the S&P 500](/investing/indexes-etfs/canada-vs-sp-500-sector-weights/)
 - [How to compare two TSX peers side by side](/investing/analyze/compare-two-tsx-peers/)
 
-## Soft CTA
+## Go deeper
 
 An operating-ratio and commodity-mix tracker is planned for the **Stock Research Playbook** ebook. This explainer is complete and free.
 

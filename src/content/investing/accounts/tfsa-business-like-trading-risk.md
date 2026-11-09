@@ -96,7 +96,7 @@ This is also where [behavioural biases](/investing/process/behavioural-biases-st
 | Copying high-turnover strategies from social media | Pattern can look like a trading business | Match turnover to a long-term thesis |
 | No records | Hard to show investment intent later | Keep a simple decision journal |
 
-## Soft CTA
+## Go deeper
 
 A one-page TFSA trading-pattern self-check and decision-journal template are planned for the **DIY Process** ebook. If you're choosing where to hold an active satellite sleeve, see [how to compare Canadian discount brokers](/investing/brokers-tools/compare-canadian-discount-brokers/) for account types and record exports.
 

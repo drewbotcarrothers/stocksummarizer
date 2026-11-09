@@ -106,7 +106,7 @@ Telecoms are usually compared on **EV/EBITDA**, **price ÷ FCF per share**, **di
 - [Utilities: how money is made](/investing/sectors/how-utilities-make-money/)
 - [Why yield alone is a terrible screen](/investing/dividends/why-yield-alone-is-a-terrible-screen/)
 
-## Soft CTA
+## Go deeper
 
 A telecom EBITDA-to-FCF worksheet is planned for the **Dividend Safety** ebook. This explainer is complete and free.
 

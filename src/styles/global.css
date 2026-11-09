@@ -97,6 +97,16 @@
     @apply whitespace-nowrap;
   }
 
+  /* Investing Literacy guides: text-heavy tables wrap the first column and headers
+     so readers don't have to scroll sideways (peer/data tables elsewhere keep nowrap). */
+  .prose-literacy th,
+  .prose-literacy td:first-child {
+    white-space: normal;
+  }
+  .prose-literacy td:first-child {
+    min-width: 7rem;
+  }
+
   .prose-brief tbody tr:nth-child(even) td {
     background-color: var(--color-surface-soft);
   }

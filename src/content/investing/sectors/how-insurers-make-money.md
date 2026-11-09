@@ -101,7 +101,7 @@ Insurers are usually compared on **price-to-book (P/B)** versus **ROE**, and on 
 - [Financials – banks: how money is made](/investing/sectors/how-canadian-banks-make-money/)
 - [Financials – diversified: how money is made](/investing/sectors/how-diversified-financials-make-money/)
 
-## Soft CTA
+## Go deeper
 
 An insurer combined-ratio and capital checklist is planned for the **Stock Research Playbook** ebook. This explainer is complete and free.
 

@@ -92,7 +92,7 @@ Conglomerates and holding companies own stakes in other businesses, sometimes ma
 
 P/E works reasonably well for stable, profitable businesses whose earnings track cash: many grocers and consumer staples, waste and services companies, and banks *as one input* alongside P/B. Even then, compare it with the company's own history and peers, and cross-check with a DCF — see [triangulating multiples, DCF and peer checks](/investing/valuation/triangulating-multiples-dcf-peer-checks/).
 
-## Soft CTA
+## Go deeper
 
 A "which multiple?" cheat sheet by TSX sector is planned for the **Valuation Without Fake Precision** ebook. The rules above are the free version.
 

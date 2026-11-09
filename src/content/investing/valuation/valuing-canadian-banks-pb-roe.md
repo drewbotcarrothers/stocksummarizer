@@ -92,7 +92,7 @@ Canadian banks publish a supplementary financial information package each quarte
 
 Life insurers (see [insurers](/sectors/insurers/)) are also valued mainly on P/B, ROE and core EPS, with LICAT capital ratios in place of CET1. Diversified financials and asset managers often suit P/E or fee-based metrics better.
 
-## Soft CTA
+## Go deeper
 
 Bank valuation will be a full chapter in the future **Valuation Without Fake Precision** ebook. The free guide above is complete.
 
