@@ -56,7 +56,7 @@ If you care about dividends, learn coverage and traps before yield screens. If y
 
 Use live StockSummarizer [stock summaries](/summaries/) and [sector snapshots](/sectors/) as learning objects — dated catalysts attached to evergreen literacy — not as buy signals.
 
-## Soft tools and ebook notes
+## Go deeper
 
 When you compare discount brokers or screeners, prefer disclosed partners and education-first criteria (FX drag, data limits, export quality) — see broker literacy hubs. Affiliate links, when live, will never invent a “best broker” without criteria. Ebook playbooks (Research, Dividend Safety, Valuation) will compile these free hubs later; until then, keep using this pathway for free.
 

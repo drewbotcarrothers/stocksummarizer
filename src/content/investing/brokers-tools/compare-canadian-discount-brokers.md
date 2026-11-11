@@ -64,7 +64,7 @@ Re-weight freely — income investors who rarely touch USD should not overweight
 - Pretend “commission-free” means free
 - Turn this hub into a personal-finance card or banking upsell
 
-## Soft affiliate note
+## Go deeper
 
 When CJ / partner offers are approved for StockSummarizer (CJ promo CID 6417125), this page and related spokes will link with disclosure. Until then, use the framework on the brokers you are already considering and read fee schedules on the provider sites.
 

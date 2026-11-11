@@ -54,7 +54,7 @@ EPS can be diluted or basic, trailing or forward, GAAP/IFRS net income or “adj
 - Rapid dilution (share count rising while EPS looks stable).
 - Accounting differences vs a US peer without adjustments.
 
-## Soft ebook CTA
+## Go deeper
 
 This hub feeds the eventual **Valuation Without Fake Precision** guide. Free valuation posts stay complete — including relative vs intrinsic and triangulation hubs.
 

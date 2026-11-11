@@ -50,7 +50,7 @@ Individual names introduce **idiosyncratic risk**, earnings-gap risk, and the te
 - **Copying a concentrated finfluencer book** — their risk capacity is not yours.
 - **Turning the TFSA into a trading account** — process and CRA narrative risk are real educational topics in our process hubs.
 
-## Soft monetization note
+## Go deeper
 
 Broker comparison and screener literacy support this transition; disclosed affiliate partners may appear when offers go live. A future **Research Playbook** ebook will package this pathway — free posts remain the complete spine.
 

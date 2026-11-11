@@ -40,7 +40,7 @@ A crude written rule you follow beats an elegant Kelly-formula cosplay you aband
 
 ## Link to monetization-honest tools
 
-Brokers and spreadsheet exports help you *see* weights; they do not choose them. Use [broker comparison](/investing/brokers-tools/compare-canadian-discount-brokers/) for custody fit. Soft ebook CTA: a future **DIY Process** guide will bind sizing, journaling, and sell criteria.
+Brokers and spreadsheet exports help you *see* weights; they do not choose them. Use [broker comparison](/investing/brokers-tools/compare-canadian-discount-brokers/) for custody fit. Go deeper: a future **DIY Process** guide will bind sizing, journaling, and sell criteria.
 
 ## Next reads
 
