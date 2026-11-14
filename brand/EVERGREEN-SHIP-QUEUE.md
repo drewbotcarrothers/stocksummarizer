@@ -626,6 +626,18 @@ Pull next High-priority titles from the evergreen plan Page category explorer (a
 - [x] `valuation` — EV/EBITDA vs Peers: A Canada-First Comparison Guide — /investing/valuation/ev-ebitda-vs-peers-canada-first-comparison/
 - [x] `valuation` — How to Use EV/EBITDA in a Simple Valuation Checklist — /investing/valuation/use-ev-ebitda-simple-valuation-checklist/
 - [x] `valuation` — What EV/Sales Means for Canadian DIY Investors — /investing/valuation/what-ev-sales-means-canadian-diy/
+- [x] `valuation` — How to Calculate EV/Sales in CAD from Filings — /investing/valuation/calculate-ev-sales-in-cad-from-filings/
+- [x] `valuation` — When EV/Sales Misleads on TSX Stocks — /investing/valuation/when-ev-sales-misleads-tsx/
+- [x] `valuation` — EV/Sales vs Peers: A Canada-First Comparison Guide — /investing/valuation/ev-sales-vs-peers-canada-first-comparison/
+- [x] `valuation` — How to Use EV/Sales in a Simple Valuation Checklist — /investing/valuation/use-ev-sales-simple-valuation-checklist/
+- [x] `valuation` — What EV/FCF Means for Canadian DIY Investors — /investing/valuation/what-ev-fcf-means-canadian-diy/
+- [x] `valuation` — How to Calculate EV/FCF in CAD from Filings — /investing/valuation/calculate-ev-fcf-in-cad-from-filings/
+- [x] `valuation` — When EV/FCF Misleads on TSX Stocks — /investing/valuation/when-ev-fcf-misleads-tsx/
+- [x] `valuation` — EV/FCF vs Peers: A Canada-First Comparison Guide — /investing/valuation/ev-fcf-vs-peers-canada-first-comparison/
+- [x] `valuation` — How to Use EV/FCF in a Simple Valuation Checklist — /investing/valuation/use-ev-fcf-simple-valuation-checklist/
+- [x] `valuation` — What Dividend Yield Means for Canadian DIY Investors — /investing/valuation/what-dividend-yield-means-canadian-diy/
+- [x] `valuation` — How to Calculate Dividend Yield in CAD from Filings — /investing/valuation/calculate-dividend-yield-in-cad-from-filings/
+- [x] `valuation` — When Dividend Yield Misleads on TSX Stocks — /investing/valuation/when-dividend-yield-misleads-tsx/
 
 ## Routine handoff notes
 
