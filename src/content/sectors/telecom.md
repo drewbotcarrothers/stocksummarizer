@@ -1,10 +1,10 @@
 ---
 title: "Canadian telecom stocks: dividend resets, Quebecor’s run, valuation and analyst targets"
-description: "How BCE, TELUS, Rogers, Quebecor and Cogeco look after the dividend resets: November 9, 2026 screener prices, yields, valuation and MarketBeat targets for TSX telecom investors."
+description: "How BCE, TELUS, Rogers, Quebecor and Cogeco look after the dividend resets: November 14, 2026 screener prices, yields, valuation and MarketBeat targets for TSX telecom investors."
 sector: "Telecom"
-thesis: "Quebecor is the only large Canadian telecom that compounded over the past year; BCE, Rogers, TELUS and Cogeco are still digesting dividend resets and heavy spending, even after BCE and Cogeco bounced this week."
-updatedDate: 2026-11-09
-screenerDate: 2026-11-09
+thesis: "Quebecor is the only large Canadian telecom that compounded over the past year; BCE, Rogers, TELUS and Cogeco are still digesting dividend resets and heavy spending, and TELUS gave back another 5.2% between the November 9 and November 14 screener files."
+updatedDate: 2026-11-16
+screenerDate: 2026-11-14
 image: "/images/sectors/telecom.jpg"
 imageAlt: "Bell office tower in downtown Montreal, a dark glass skyscraper with the Bell logo near the top against a blue sky"
 imageCredit: "Édifice Bell, 1050 Côte du Beaver Hall, Montréal. Photo by Jeangagnon, CC BY-SA 3.0, via Wikimedia Commons. Cropped and resized."
@@ -12,26 +12,28 @@ draft: false
 author: "Andrew"
 ---
 
-Five liquid Canadian names — BCE, Rogers, TELUS, Quebecor and Cogeco Communications — are about **CA$88 billion** of market value on the November 9, 2026 screener. Over the past month the peer median is about **−3.4%**, against an S&P/TSX Composite that was roughly **+1.4%**. Over one year the median is about **−16%**, against a Composite near **+18%**. One name did the opposite: Quebecor is up about **48%** over the year. Setup for this living note: a cheap-looking forward multiple, a yield that only means something after the dividend cuts, and a November earnings pile-up.
+Five liquid Canadian names — BCE, Rogers, TELUS, Quebecor and Cogeco Communications — are about **CA$89 billion** of market value on the November 14, 2026 screener (Rogers and Quebecor rows carried from an earlier export). Over the past month the peer median is about **+6.3%**, against an S&P/TSX Composite that was roughly **+1.4%** (carried from the October 26 build). Over one year the median is about **−16%**, against a Composite near **+18%**. One name did the opposite: Quebecor is up about **48%** over the year on its carried row. Setup for this living note: a cheap-looking forward multiple, a yield that only means something after the dividend cuts, and a November earnings pile-up.
 
 ## Canadian telecom snapshot: market cap, P/E, yield and returns vs the TSX
 
 | Metric | Peer set (5) | vs TSX (approx.) |
 |:--|--:|--:|
-| Combined market cap | ~CA$89.6B | — |
+| Combined market cap | ~CA$89.4B | — |
 | Median trailing P/E | 16.0x | — |
-| Median forward P/E | 12.3x | — |
-| Median indicated yield | 5.82% | — |
-| Median 1M price return | +7.1% | TSX ~+1.4% |
-| Median 1Y price return | −14.6% | TSX ~+18.2% |
+| Median forward P/E | 12.2x | — |
+| Median indicated yield | 5.72% | — |
+| Median 1M price return | +6.3% | TSX ~+1.4% |
+| Median 1Y price return | −16.0% | TSX ~+18.2% |
 
-*Screener as of November 9, 2026 (CAD; merge `tsx-2026-11-09.csv`, 2,564 rows). Peer set: BCE, RCI.B, T, QBR.B, CCA. Medians skip blank cells; P/E medians skip non-positive multiples. Not in the November 9 export, so their rows still carry the previous build’s values: RCI.B, QBR.B. The TSX column is the approximate index return carried from the October 26 build and was not re-pulled for this refresh.*
+*Screener as of November 14, 2026 (CAD; merge `tsx-2026-11-14.csv`, 2,561 rows). Peer set: BCE, RCI.B, T, QBR.B, CCA. Medians skip blank cells; P/E medians skip non-positive multiples. Not in the November 14 export, so their rows still carry the previous build’s values: RCI.B, QBR.B. The TSX column is the approximate index return carried from the October 26 build and was not re-pulled for this refresh.*
 
-**November 9, 2026 refresh.** Between the November 3 and November 9 screener files the median peer price moved **+5.0%**. Best: BCE (+5.7%) and Cogeco (+5.0%). The snapshot and every peer table below are on the November 9 file. Commentary paragraphs between the tables were written on the October 25 file and quote those figures unless they give a later date.
+**November 14, 2026 refresh.** Between the November 9 and November 14 screener files the median peer price moved **−3.6%**. Best: BCE (+0.1%). Weakest: TELUS (−5.2%) and Cogeco (−3.6%). The snapshot and every peer table below are on the November 14 file. Commentary paragraphs between the tables were written on the October 25 file and quote those figures unless they give a later date.
 
 Indicated yields, using the post-reset dividends at BCE and TELUS and Cogeco’s current quarterly rate, run from Quebecor at **2.75%** to Cogeco at **7.31%**. The median is **6.08%**. That is an income sector again only if those new rates hold.
 
 ## What is driving Canadian telecom stocks: resets, MLSE, spectrum and a November cluster
+
+**November 16, 2026 update.** Telecom was a soft spot. The group fell about 0.5% on November 9 with TELUS and Cogeco lower, rose about 0.3% on November 10, fell about 0.4% on November 11, and communication services lost about 0.9% on November 12. No new company results are summarized for this sector in this update. Between the November 9 and November 14 screener files TELUS moved **−5.2%**, Cogeco **−3.6%** and BCE **+0.1%**; Rogers and Quebecor are missing from the November 14 export, so their rows still carry the previous build’s values. Canada’s October consumer price index is due on November 16 (economists expected annual inflation of 3.2%, per Reuters), the next Labour Force Survey is December 4, and the next Bank of Canada decision is December 9.
 
 **November 9, 2026 update.** BCE reported third-quarter net earnings of C$630 million (C$0.67 a share) and adjusted EPS of C$0.74, and declared a quarterly dividend of C$0.4375 (C$1.75 a year), payable January 15, 2027. Quebecor reported adjusted EBITDA up 12.5% to C$706.7 million on revenue up 3.5% to C$1.45 billion. Between the November 3 and November 9 screener files the peer median price moved **+5.0%** (BCE +5.7%, Cogeco +5.0%); Rogers and Quebecor are missing from the November 9 export, so their rows still carry the previous build’s values. The Bank of Canada’s October 28 hike matters here as a debt-cost backdrop. Calendar items below dated November 3–8 have since reported; this update summarizes only the results named here.
 
@@ -69,14 +71,14 @@ Peer set: **BCE (BCE), Rogers (RCI.B), TELUS (T), Quebecor (QBR.B) and Cogeco Co
 
 | Company (Ticker) | Price | Market cap | Revenue (LTM) | Net income (LTM) |
 |:--|--:|--:|--:|--:|
-| BCE (BCE) | $30.57 | $27.5B | $24.8B | $6.4B |
+| BCE (BCE) | $30.60 | $28.5B | $24.9B | $2.5B |
 | Rogers (RCI.B) | $45.36 | $24.6B | $22.7B | $897M |
-| TELUS (T) | $12.81 | $20.5B | $20.2B | −$919M |
+| TELUS (T) | $12.14 | $19.3B | $20.2B | −$2.1B |
 | Quebecor (QBR.B) | $65.39 | $14.7B | $5.8B | $944M |
-| Cogeco (CCA) | $55.20 | $2.3B | $2.8B | −$1.1B |
-| *Average* | — | $17.9B | $15.3B | $1.2B |
+| Cogeco (CCA) | $53.20 | $2.3B | $2.8B | −$1.1B |
+| *Average* | — | $17.9B | $15.3B | $241M |
 
-*Source: TSX screener merge `tsx-2026-11-09.csv` (2,564 rows, November 9, 2026) · CAD · LTM = last 12 months. Average includes every row. Not in the November 9 export, so their rows still carry the previous build’s values: RCI.B, QBR.B.*
+*Source: TSX screener merge `tsx-2026-11-14.csv` (2,561 rows, November 14, 2026) · CAD · LTM = last 12 months. Average includes every row. Not in the November 14 export, so their rows still carry the previous build’s values: RCI.B, QBR.B.*
 
 BCE, Rogers and TELUS are the national revenue pool, each above **CA$20 billion** of trailing revenue. Quebecor earns about as much as Rogers (**CA$944 million** versus **CA$897 million**) on about a quarter of the revenue. That is the margin story behind the one-year chart. Cogeco is a **CA$2.3 billion** cable company next to them, liquid enough to matter for an income investor and too small to move the combined **CA$88 billion**.
 
@@ -84,14 +86,14 @@ BCE, Rogers and TELUS are the national revenue pool, each above **CA$20 billion*
 
 | Company (Ticker) | 1M | 3M | 6M | YTD | 1Y | 5Y | 10Y |
 |:--|--:|--:|--:|--:|--:|--:|--:|
-| BCE (BCE) | +8.8% | −3.9% | −8.7% | −6.7% | −5.9% | −53% | −49% |
+| **BCE (BCE)** | **+10.2%** | −5.8% | −7.6% | −6.6% | −4.1% | −52% | −47% |
 | Rogers (RCI.B) | −3.4% | −1.4% | −11.3% | −12.5% | −16.0% | −24% | −16% |
-| **TELUS (T)** | **+14.8%** | −7.0% | −26.7% | −29.3% | −38.0% | −55% | −40% |
+| TELUS (T) | +6.3% | −9.7% | −28.4% | −33.0% | −40.8% | −58% | −42% |
 | **Quebecor (QBR.B)** | +2.8% | −1.2% | +17.3% | +26.3% | **+48.3%** | +107% | +244% |
-| Cogeco (CCA) | +7.1% | −9.3% | −13.5% | −17.4% | −14.6% | −48% | −11% |
-| *Average* | +6.0% | −4.6% | −8.6% | −7.9% | −5.3% | −14% | +26% |
+| Cogeco (CCA) | +7.3% | −12.7% | −15.7% | −20.4% | −19.0% | −50% | −14% |
+| *Average* | +4.7% | −6.2% | −9.1% | −9.2% | −6.3% | −16% | +25% |
 
-*Source: TSX screener merge `tsx-2026-11-09.csv` (2,564 rows, November 9, 2026) · CAD · price returns. Bold = leader on 1M and on 1Y. Average skips blanks.*
+*Source: TSX screener merge `tsx-2026-11-14.csv` (2,561 rows, November 14, 2026) · CAD · price returns. Bold = leader on 1M and on 1Y. Average skips blanks.*
 
 Five-year and ten-year returns say the same thing as the one-year, with more time on the clock. BCE, TELUS and Cogeco are down about half over five years. Rogers is down about a quarter. Quebecor has doubled over five years and more than tripled over ten. The ten-year average of **+24%** is Quebecor’s **+244%** doing all of the lifting.
 
@@ -99,14 +101,14 @@ Five-year and ten-year returns say the same thing as the one-year, with more tim
 
 | Company (Ticker) | P/E | Fwd P/E | PEG | P/S | P/B | P/FCF |
 |:--|--:|--:|--:|--:|--:|--:|
-| BCE (BCE) | 4.5 | 12.3 | 0.00 | 1.09 | 1.38 | 10.7 |
+| BCE (BCE) | 11.9 | 12.2 | — | 1.14 | 1.36 | 11.3 |
 | Rogers (RCI.B) | 27.4 | 9.6 | — | 1.08 | 1.48 | 7.4 |
-| TELUS (T) | — | 17.5 | — | 0.98 | 1.52 | 9.3 |
+| TELUS (T) | — | 16.4 | — | 0.96 | 1.44 | 9.4 |
 | Quebecor (QBR.B) | 16.0 | 15.2 | 0.69 | 2.60 | 5.34 | 9.6 |
-| Cogeco (CCA) | — | 7.8 | — | 0.79 | 1.22 | 5.1 |
-| *Average* | 16.0 | 12.5 | 0.35 | 1.31 | 2.19 | 8.4 |
+| Cogeco (CCA) | — | 7.5 | — | 0.79 | 1.18 | 4.9 |
+| *Average* | 18.4 | 12.2 | 0.69 | 1.31 | 2.16 | 8.5 |
 
-*Source: TSX screener merge `tsx-2026-11-09.csv` (2,564 rows, November 9, 2026) · CAD. Average skips blanks; one large multiple can dominate a column average, so read the medians in the snapshot.*
+*Source: TSX screener merge `tsx-2026-11-14.csv` (2,561 rows, November 14, 2026) · CAD. Average skips blanks; one large multiple can dominate a column average, so read the medians in the snapshot.*
 
 **Do not buy BCE because it says 4.3x.** That multiple is the one-time-item problem from the September brief, still in the trailing earnings. On forward earnings BCE is **11.1x**, Rogers is **9.6x**, and Cogeco is **6.1x**. TELUS at **17.6x** forward is the expensive repair story: the market is not paying a distressed multiple for the post-cut equity. Quebecor at **16.0x** trailing and **15.2x** forward, and **5.34x** book, is the quality multiple. It earned it with the one-year return. Cogeco’s **6.1x** price to free cash flow is the cheap cell, and it sits next to a trailing loss.
 
@@ -122,14 +124,14 @@ Five-year and ten-year returns say the same thing as the one-year, with more tim
 
 | Company (Ticker) | Dividend / share | Yield (ind.) | Payout ratio |
 |:--|--:|--:|--:|
-| BCE (BCE) | $2.31 | 5.94% | 26.0% |
+| BCE (BCE) | $2.31 | 5.72% | 68.1% |
 | Rogers (RCI.B) | $2.00 | 4.41% | 120.4% |
-| TELUS (T) | $1.65 | 5.82% | — |
+| TELUS (T) | $1.65 | 6.18% | — |
 | Quebecor (QBR.B) | $1.40 | 2.75% | 36.1% |
-| Cogeco (CCA) | $3.95 | 7.36% | — |
-| *Average* | $2.26 | 5.25% | 60.8% |
+| Cogeco (CCA) | $3.95 | 7.57% | — |
+| *Average* | $2.26 | 5.33% | 74.9% |
 
-*Source: TSX screener merge `tsx-2026-11-09.csv` (2,564 rows, November 9, 2026) · CAD. DPS is annual; yield is indicated. Payout is trailing; negative payouts show as — and are left out of the average.*
+*Source: TSX screener merge `tsx-2026-11-14.csv` (2,561 rows, November 14, 2026) · CAD. DPS is annual; yield is indicated. Payout is trailing; negative payouts show as — and are left out of the average.*
 
 Cogeco is the yield. TELUS and BCE are the reset yields, both just over **6%**, and they are only as good as the free-cash-flow guides. Rogers at **4.41%** with a payout above **100%** of trailing earnings is a covered-or-not question the October 23 quarter was supposed to start answering. Quebecor at **2.75%** and a **36%** payout is the compounder that happens to pay a dividend.
 
@@ -137,14 +139,14 @@ Cogeco is the yield. TELUS and BCE are the reset yields, both just over **6%**, 
 
 | Company (Ticker) | Rating | Price | Target 1Y | Upside | Analysts |
 |:--|:--|--:|--:|--:|--:|
-| BCE (BCE) | Buy | $30.57 | CA$37.12 | +21.4% | 13 |
+| BCE (BCE) | Buy | $30.60 | CA$37.12 | +21.3% | 13 |
 | Rogers (RCI.B) | Buy | $45.36 | CA$58.77 | +29.6% | 11 |
-| TELUS (T) | Neutral | $12.81 | CA$16.30 | +27.2% | 13 |
+| TELUS (T) | Neutral | $12.14 | CA$16.30 | +34.3% | 13 |
 | Quebecor (QBR.B) | Buy | $65.39 | CA$70.12 | +7.2% | 13 |
-| Cogeco (CCA) | Buy | $55.20 | CA$71.17 | +28.9% | 8 |
-| *Average* | — | — | CA$50.70 | +22.9% | — |
+| Cogeco (CCA) | Buy | $53.20 | CA$71.17 | +33.8% | 8 |
+| *Average* | — | — | CA$50.70 | +25.2% | — |
 
-*Rating = screener analyst rating on the November 9, 2026 file. Target 1Y and analyst counts are the MarketBeat TSE consensus figures (CAD) pulled October 27, 2026, not re-pulled in bulk for this refresh (Royal Bank spot-checked November 9, unchanged). Upside is the October 27 target versus the November 9 screener price. The dollar average mixes very different share prices; read the upside column.*
+*Rating = screener analyst rating on the November 14, 2026 file. Target 1Y and analyst counts are the MarketBeat TSE consensus figures (CAD) pulled October 27, 2026, not re-pulled in bulk for this refresh. Upside is the October 27 target versus the November 14 screener price. The dollar average mixes very different share prices; read the upside column.*
 
 The Street still has about **30%** of gap at BCE, Rogers, TELUS and Cogeco, and almost none at Quebecor (**+7.2%** to **CA$70.12**). That split matches the tape. Quebecor already ran. The other four are the “if the dividend holds and the multiple normalizes” trade, and TELUS carries a **Neutral** rating on the screener even with **+32%** to the average target. A target 30% above a stock that cut the dividend is not the same thing as a target 30% above a stock that just beat.
 
@@ -193,12 +195,13 @@ Quebecor is not in the coverage log yet. Those briefs use earlier screener files
 
 ## Data notes: screener date, peer set and where the targets come from
 
-**November 9, 2026 refresh.** The snapshot strip and every peer table now come straight from merge `tsx-2026-11-09.csv` (2,564 rows): prices, market caps, LTM revenue and net income, returns, multiples, dividends and screener ratings. Average rows skip blanks. Analyst targets were not re-pulled in bulk: Target 1Y and analyst counts are still the MarketBeat TSE figures pulled October 27, 2026 (a November 9 spot-check of Royal Bank’s MarketBeat page showed the consensus unchanged at C$292.86 on 12 analysts, with the latest broker action dated September 3); upside compares those targets with the November 9 price. Rows for tickers missing from the November 9 export keep the previous build’s values and are named under the snapshot. The November 9 update paragraph uses the news and company releases listed under Sources, checked November 9, 2026; the TSX comparison column is the approximate index return carried from the October 26 build. The method notes below describe the October 27 build and still apply to the commentary written on it.
+**November 16, 2026 refresh.** The snapshot strip and every peer table now come straight from merge `tsx-2026-11-14.csv` (2,561 rows, November 14, 2026 file): prices, market caps, LTM revenue and net income, returns, multiples, dividends and screener ratings. Average rows skip blanks. Analyst targets were not re-pulled in bulk: Target 1Y and analyst counts are still the MarketBeat TSE figures pulled October 27, 2026(a November 16 spot-check of Royal Bank’s MarketBeat page showed the consensus at C$292.57 on 12 analysts, down from C$292.86, after Desjardins trimmed its target to C$316 from C$320 on November 11); upside compares those targets with the November 14 price. Rows for tickers missing from the November 14 export keep the previous build’s values and are named under the snapshot. The November 16 update paragraph uses the news and company releases listed under Sources, checked November 16, 2026; the TSX comparison column is the approximate index return carried from the October 26 build. The method notes below describe the October 27 build and still apply to the commentary written on it.
 
 Prices are the October 23, 2026 TSX closes (the close inside merge `tsx-2026-10-25.csv`; the file itself is not in this checkout). Market cap, revenue, net income, trailing P/E, P/S, P/B, P/FCF and the raw annual DPS field are reconstructed from TradingView Canada fields that reproduce that file on the published Royal Bank, Enbridge and October 26 Constellation rows, with market cap scaled back to the October 23 close. P/S can sit about 0.02 away from the file. Forward P/E is October 23 price ÷ TradingView’s next-fiscal-year EPS consensus, pulled October 27, 2026. It is **not** the file’s forward-P/E cell (Royal Bank: file 16.2, this method 17.2). Performance is the exchange-close price return on the windows under the performance table, not the file’s Perf column. Peer rule: liquid Canadian carriers — BCE, RCI.B, T, QBR.B, plus CCA. Excluded: RCI.A, QBR.A, preferreds, and Cogeco Inc. (CGO, about CA$450 million). Average rows include all five names and skip blank cells. Dividends: BCE uses the reset C$1.75 (the DPS field still shows C$2.31); TELUS uses the July 31 C$0.75 (the DPS field still shows about C$1.65); Cogeco uses C$3.95 from the current C$0.987 quarterly rate (the DPS field still shows C$3.69). Those three yields are the new dividend divided by the October 23 price. Target 1Y is MarketBeat TSE consensus in **CAD**, pulled October 27, 2026 (8–13 analysts). Upside is versus the October 23 price. Screener ratings are in the analyst table. TSX Composite 1M/1Y are approximate public index price returns near October 26, 2026. Snapshot medians use the five-name set; trailing P/E uses BCE, Rogers and Quebecor.
 
 ## Sources for the dividend resets, the November calls, targets and the screener
 
+- Reuters via MarketScreener, Baystreet.ca, Investing.com and The Canadian Press TSX closing reports, November 9–13, 2026, as compiled in the StockSummarizer TSX Market Wraps for those sessions (/market-wrap/2026-11-09-tsx/ to /market-wrap/2026-11-13-tsx/): gold, crude and copper settles, sector and named-stock moves, Bank of Canada minutes and December-hike odds, US inflation data and the Nvidia CEO change
 - TradingView Canada scanner and TSX closes for October 23, 2026, cross-checked against merge `tsx-2026-10-25.csv` on the published Royal Bank, Enbridge and Constellation rows
 - TELUS, July 31, 2026 dividend reset to C$0.1875 quarterly (C$0.75 annualized), free-cash-flow guide near C$1.8 billion, as reported in the StockSummarizer TELUS brief dated 2026-09-12
 - BCE annualized dividend C$1.75 and the one-time-item warning on trailing earnings, StockSummarizer BCE brief dated 2026-09-18; BCE third-quarter call November 5, 2026, 10:00 a.m. ET, announced October 14, 2026

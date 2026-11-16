@@ -1,10 +1,10 @@
 ---
 title: "Canadian transportation stocks: CN’s quarter, Mullen’s spike, Waste Connections and targets"
-description: "CPKC, CN, Waste Connections, GFL, TFI, Exchange Income, Air Canada, Mullen and Cargojet on the November 9, 2026 screener: returns, multiples and which targets are CAD."
+description: "CPKC, CN, Waste Connections, GFL, TFI, Exchange Income, Air Canada, Mullen and Cargojet on the November 14, 2026 screener: returns, multiples and which targets are CAD."
 sector: "Transportation"
-thesis: "The median stock in this set is up about 29% over the past year, ahead of the TSX’s approximate return, but the tape is three businesses: rails with little room to the Canadian-dollar target, Waste Connections up on a beat whose Toronto target is the wrong panel, and Air Canada now well below the price it paid to buy back stock."
-updatedDate: 2026-11-09
-screenerDate: 2026-11-09
+thesis: "The median stock in this set is up about 33% over the past year, ahead of the TSX’s approximate return, but the tape is three businesses: rails with little room to the Canadian-dollar target, Waste Connections up on a beat whose Toronto target is the wrong panel, and Air Canada now well below the price it paid to buy back stock."
+updatedDate: 2026-11-16
+screenerDate: 2026-11-14
 image: "/images/sectors/transportation.jpg"
 imageAlt: "Three Canadian National locomotives leading a freight train through forest between Hinton and Jasper, Alberta"
 imageCredit: "CN freight train between Hinton and Jasper, Alberta. Photo by Kabelleger / David Gubler, CC BY-SA 4.0, via Wikimedia Commons. Cropped and resized."
@@ -18,20 +18,22 @@ Nine liquid names — CPKC, CN Rail, Waste Connections, GFL Environmental, TFI I
 
 | Metric | Peer set (9) | vs TSX (approx.) |
 |:--|--:|--:|
-| Combined market cap | ~CA$345.7B | — |
+| Combined market cap | ~CA$350.9B | — |
 | Median trailing P/E | 26.2x | — |
-| Median forward P/E | 23.2x | — |
-| Median indicated yield | 1.72% | — |
-| Median 1M price return | +7.3% | TSX ~+0.1% |
-| Median 1Y price return | +29.0% | TSX ~+18.6% |
+| Median forward P/E | 22.9x | — |
+| Median indicated yield | 1.66% | — |
+| Median 1M price return | +7.9% | TSX ~+0.1% |
+| Median 1Y price return | +32.8% | TSX ~+18.6% |
 
-*Screener as of November 9, 2026 (CAD; merge `tsx-2026-11-09.csv`, 2,564 rows). Peer set: CP, CNR, WCN, GFL, TFII, EIF, AC, MTL, CJT. Medians skip blank cells; P/E medians skip non-positive multiples. Not in the November 9 export, so their rows still carry the previous build’s values: GFL. The TSX column is the approximate index return carried from the October 26 build and was not re-pulled for this refresh.*
+*Screener as of November 14, 2026 (CAD; merge `tsx-2026-11-14.csv`, 2,561 rows). Peer set: CP, CNR, WCN, GFL, TFII, EIF, AC, MTL, CJT. Medians skip blank cells; P/E medians skip non-positive multiples. Not in the November 14 export, so their rows still carry the previous build’s values: GFL. The TSX column is the approximate index return carried from the October 26 build and was not re-pulled for this refresh.*
 
-**November 9, 2026 refresh.** Between the November 3 and November 9 screener files the median peer price moved **+1.5%**. Best: Cargojet (+5.6%) and Air Canada (+3.9%). Weakest: CN Rail (−1.2%) and TFI International (−0.1%). The snapshot and every peer table below are on the November 9 file. Commentary paragraphs between the tables were written on the October 25 file and quote those figures unless they give a later date.
+**November 14, 2026 refresh.** Between the November 9 and November 14 screener files the median peer price moved **+3.5%**. Best: Cargojet (+13.8%) and Exchange Income (+7.7%). The snapshot and every peer table below are on the November 14 file. Commentary paragraphs between the tables were written on the October 25 file and quote those figures unless they give a later date.
 
 CN at **22.2x** trailing earnings is the cheap railway. CPKC at **29.1x** is the expensive one. Waste Connections at **42.1x** trailing and **32.6x** forward is the premium the October 22 brief already flagged, now on a higher price. Air Canada at **0.25x** sales is the other end of the business mix: **CA$23.6 billion** of revenue and a **CA$5.3 billion** market cap.
 
 ## What is driving Canadian transportation stocks: a rail downgrade, a waste beat and a buyback price
+
+**November 16, 2026 update.** Two company stories moved this set. On November 10 GFL Environmental fell about 7.2% after saying it had rejected buyout proposals and will stay public; GFL is missing from the November 14 export, so its row still carries the previous build’s values. On November 12 Cargojet jumped about 10.3% to C$108.77 after third-quarter revenue and adjusted profit beat analyst estimates. Air Canada rose about 6.3% to C$23.30 on November 9 as lower oil eased jet-fuel worries. Between the November 9 and November 14 screener files the peer median price moved **+3.5%** (Cargojet +13.8%, Exchange Income +7.7%; TFI +2.2%, CPKC +3.2%), with every fresh row higher. Canada’s October consumer price index is due on November 16 (economists expected annual inflation of 3.2%, per Reuters), the next Labour Force Survey is December 4, and the next Bank of Canada decision is December 9.
 
 **November 9, 2026 update.** No new company results are summarized for this sector in this refresh; the moves are from the screener. Between the November 3 and November 9 screener files the peer median price moved **+1.5%** (Cargojet +5.6%, Air Canada +3.9%; CN Rail −1.2%, TFI International −0.1%). GFL is missing from the November 9 export, so its row still carries the previous build’s values. The Bank of Canada hiked to 2.50% on October 28 and unemployment rose to 6.7% in October. Calendar items below dated November 3–8 have since reported; this update summarizes only the results named here.
 
@@ -71,18 +73,18 @@ Peer set: **CPKC (CP), CN Rail (CNR), Waste Connections (WCN), GFL Environmental
 
 | Company (Ticker) | Price | Market cap | Revenue (LTM) | Net income (LTM) |
 |:--|--:|--:|--:|--:|
-| CPKC (CP) | $129.97 | $114.5B | $16.0B | $3.9B |
-| CN Rail (CNR) | $175.21 | $108.2B | $18.4B | $4.9B |
-| Waste Connections (WCN) | $266.73 | $67.0B | $13.8B | $1.6B |
+| CPKC (CP) | $134.18 | $116.7B | $16.0B | $3.9B |
+| CN Rail (CNR) | $181.29 | $108.7B | $18.4B | $4.9B |
+| Waste Connections (WCN) | $276.18 | $69.1B | $13.8B | $1.6B |
 | GFL (GFL) | $63.75 | $27.8B | $7.0B | −$174M |
-| TFI International (TFII) | $133.98 | $11.5B | $11.6B | $496M |
-| Exchange Income (EIF) | $118.58 | $6.7B | $3.7B | $205M |
-| Air Canada (AC) | $21.91 | $5.7B | $24.8B | $305M |
-| Mullen Group (MTL) | $28.74 | $2.8B | $2.3B | $123M |
-| Cargojet (CJT) | $95.12 | $1.4B | $1.0B | $46.5M |
-| *Average* | — | $38.4B | $11.0B | $1.3B |
+| TFI International (TFII) | $136.93 | $11.2B | $11.6B | $496M |
+| Exchange Income (EIF) | $127.72 | $7.2B | $3.8B | $232M |
+| Air Canada (AC) | $22.65 | $5.7B | $24.8B | $305M |
+| Mullen Group (MTL) | $30.28 | $2.9B | $2.3B | $123M |
+| Cargojet (CJT) | $108.28 | $1.6B | $1.1B | $56.8M |
+| *Average* | — | $39.0B | $11.0B | $1.3B |
 
-*Source: TSX screener merge `tsx-2026-11-09.csv` (2,564 rows, November 9, 2026) · CAD · LTM = last 12 months. Average includes every row. Not in the November 9 export, so their rows still carry the previous build’s values: GFL.*
+*Source: TSX screener merge `tsx-2026-11-14.csv` (2,561 rows, November 14, 2026) · CAD · LTM = last 12 months. Average includes every row. Not in the November 14 export, so their rows still carry the previous build’s values: GFL.*
 
 CN earns more than CPKC (**CA$4.8 billion** against **CA$3.9 billion**) on more revenue, at a slightly smaller market cap. That is the valuation gap in the next table. TFI’s **CA$464 million** of profit on **CA$11.2 billion** of revenue is the trucking margin. Air Canada’s **CA$430 million** on **CA$23.6 billion** is the airline margin. Waste Connections earns **CA$1.6 billion** on **CA$13.8 billion** and is valued like a compounder. GFL, the other waste name, lost **CA$174 million**.
 
@@ -90,18 +92,18 @@ CN earns more than CPKC (**CA$4.8 billion** against **CA$3.9 billion**) on more 
 
 | Company (Ticker) | 1M | 3M | 6M | YTD | 1Y | 5Y | 10Y |
 |:--|--:|--:|--:|--:|--:|--:|--:|
-| CPKC (CP) | +7.4% | +3.3% | +11.7% | +27.9% | +31.4% | +37% | +244% |
-| CN Rail (CNR) | +4.4% | −0.8% | +15.7% | +29.1% | +29.0% | +6% | +110% |
-| **Waste Connections (WCN)** | **+20.6%** | +14.6% | +27.5% | +10.8% | +11.6% | +57% | +303% |
+| CPKC (CP) | +10.1% | +3.1% | +13.1% | +32.1% | +33.0% | +38% | +241% |
+| CN Rail (CNR) | +7.1% | +2.2% | +17.6% | +33.6% | +32.8% | +11% | +108% |
+| Waste Connections (WCN) | +25.9% | +19.5% | +28.9% | +14.8% | +16.8% | +62% | +305% |
 | GFL (GFL) | +7.9% | +16.4% | +15.4% | +6.6% | −1.0% | +25% | — |
-| TFI International (TFII) | −16.4% | −30.4% | −29.2% | −5.7% | +7.1% | −7% | +346% |
-| Exchange Income (EIF) | +0.2% | −8.1% | +18.6% | +44.7% | +53.5% | +171% | +236% |
-| Air Canada (AC) | −14.2% | −17.2% | +10.2% | +13.2% | +17.1% | −14% | +87% |
-| **Mullen Group (MTL)** | +7.3% | +6.2% | +35.3% | +82.6% | **+103.4%** | +123% | +58% |
-| Cargojet (CJT) | +9.7% | +8.7% | +14.1% | +13.4% | +37.7% | −50% | +124% |
-| *Average* | +3.0% | −0.8% | +13.3% | +24.7% | +32.2% | +39% | +188% |
+| TFI International (TFII) | −14.4% | −33.1% | −29.3% | −3.6% | +12.0% | −3% | +333% |
+| Exchange Income (EIF) | +10.1% | −4.1% | +20.3% | +55.8% | +67.8% | +182% | +225% |
+| Air Canada (AC) | +0.7% | −25.5% | +21.1% | +17.1% | +19.2% | −12% | +77% |
+| **Mullen Group (MTL)** | +7.8% | +12.4% | +42.3% | +92.4% | **+113.1%** | +140% | +61% |
+| **Cargojet (CJT)** | **+25.9%** | +17.8% | +30.3% | +29.1% | +50.0% | −42% | +127% |
+| *Average* | +9.0% | +1.0% | +17.7% | +30.9% | +38.2% | +45% | +184% |
 
-*Source: TSX screener merge `tsx-2026-11-09.csv` (2,564 rows, November 9, 2026) · CAD · price returns. Bold = leader on 1M and on 1Y. Average skips blanks.*
+*Source: TSX screener merge `tsx-2026-11-14.csv` (2,561 rows, November 14, 2026) · CAD · price returns. Bold = leader on 1M and on 1Y. Average skips blanks.*
 
 CN’s five-year **+3%** against CPKC’s **+33%**, and CN’s ten-year **+97%** against CPKC’s **+220%**, is the long-window gap the October 20 brief described with the screener’s own percentages. The one-year window has flipped: CN **+28.5%**, CPKC **+18.1%**. TFI’s three-month **−26.7%** is the trucking drawdown inside a one-year gain of **+26.3%**. Cargojet’s five-year **−58%** is a different business from its one-year flat line. Mullen’s ten-year **+50%** is ordinary next to its one-year **+100%**. The compound was recent.
 
@@ -109,18 +111,18 @@ CN’s five-year **+3%** against CPKC’s **+33%**, and CN’s ten-year **+97%**
 
 | Company (Ticker) | P/E | Fwd P/E | PEG | P/S | P/B | P/FCF |
 |:--|--:|--:|--:|--:|--:|--:|
-| CPKC (CP) | 29.9 | 23.0 | — | 7.01 | 2.47 | 39.0 |
-| CN Rail (CNR) | 22.0 | 20.0 | 2.79 | 5.84 | 4.80 | 27.6 |
-| Waste Connections (WCN) | 43.1 | 31.6 | 0.50 | 4.81 | 5.96 | 41.1 |
+| CPKC (CP) | 30.9 | 23.8 | — | 7.39 | 2.55 | 40.2 |
+| CN Rail (CNR) | 22.8 | 20.7 | 2.87 | 5.99 | 4.96 | 28.6 |
+| Waste Connections (WCN) | 44.6 | 32.7 | 0.53 | 5.04 | 6.17 | 42.6 |
 | GFL (GFL) | — | 78.7 | — | 3.29 | 3.13 | 57.6 |
-| TFI International (TFII) | 22.3 | 14.2 | 1.83 | 0.95 | 2.76 | 13.8 |
-| Exchange Income (EIF) | 33.0 | 24.5 | 0.64 | 1.77 | 3.65 | — |
-| Air Canada (AC) | 21.4 | — | — | 0.24 | 2.64 | 17.3 |
-| Mullen Group (MTL) | 22.5 | 18.2 | 1.04 | 1.19 | 2.31 | 17.4 |
-| Cargojet (CJT) | 30.8 | 23.4 | — | 1.30 | 1.92 | 16.6 |
-| *Average* | 28.1 | 29.2 | 1.36 | 2.93 | 3.29 | 28.8 |
+| TFI International (TFII) | 22.8 | 14.6 | 1.87 | 0.97 | 2.82 | 14.1 |
+| Exchange Income (EIF) | 31.5 | 24.4 | 0.56 | 1.89 | 3.81 | — |
+| Air Canada (AC) | 22.1 | — | — | 0.26 | 2.73 | 17.9 |
+| Mullen Group (MTL) | 23.8 | 19.1 | 1.09 | 1.25 | 2.43 | 18.3 |
+| Cargojet (CJT) | 28.6 | 22.0 | — | 1.47 | 2.15 | 29.9 |
+| *Average* | 28.4 | 29.5 | 1.38 | 3.06 | 3.42 | 31.1 |
 
-*Source: TSX screener merge `tsx-2026-11-09.csv` (2,564 rows, November 9, 2026) · CAD. Average skips blanks; one large multiple can dominate a column average, so read the medians in the snapshot.*
+*Source: TSX screener merge `tsx-2026-11-14.csv` (2,561 rows, November 14, 2026) · CAD. Average skips blanks; one large multiple can dominate a column average, so read the medians in the snapshot.*
 
 **CN is cheaper than CPKC on earnings and on cash:** **22.2x** against **29.1x** trailing, **21.2x** against **24.4x** forward, **29.5x** free cash flow against **46.3x**. CN’s **4.76x** book is the mark of years of buybacks. The October 20 brief made that point at the October 8 multiples. It is still true on October 23. **Air Canada at 14.8x trailing and 0.25x sales** is the statistical cheap stock, and the **29.0x** forward figure says the cheap trailing number may be the peak of the earnings, not the base. **TFI at 18.9x forward** and **Mullen at 19.8x forward** are the truckers, with Mullen’s one-year chart already up **100%**. **Waste Connections at 42.1x / 32.6x** is the premium, wider than it was in the October 8 table in the brief, because the price went from **C$221.28** on that file to **$261.10**. **GFL at 78.7x forward**, with a trailing loss, is not a second Waste Connections. A buyer who wants the waste business at a Waste Connections multiple is paying for the margins in the October 21 print. GFL does not have those earnings yet.
 
@@ -136,18 +138,18 @@ CN’s five-year **+3%** against CPKC’s **+33%**, and CN’s ten-year **+97%**
 
 | Company (Ticker) | Dividend / share | Yield (ind.) | Payout ratio |
 |:--|--:|--:|--:|
-| CPKC (CP) | $0.87 | 0.78% | 22.9% |
-| CN Rail (CNR) | $3.55 | 2.03% | 45.7% |
-| Waste Connections (WCN) | $1.82 | 0.68% | 31.3% |
+| CPKC (CP) | $0.87 | 0.77% | 22.9% |
+| CN Rail (CNR) | $3.55 | 2.02% | 45.7% |
+| Waste Connections (WCN) | $1.82 | 0.66% | 31.3% |
 | GFL (GFL) | $0.09 | 0.13% | — |
-| TFI International (TFII) | $2.53 | 1.85% | 43.7% |
-| Exchange Income (EIF) | $2.66 | 2.41% | 72.2% |
+| TFI International (TFII) | $2.53 | 1.89% | 43.7% |
+| Exchange Income (EIF) | $2.66 | 2.25% | 66.9% |
 | Air Canada (AC) | $0.00 | — | 0.0% |
-| Mullen Group (MTL) | $0.84 | 2.84% | 65.2% |
-| Cargojet (CJT) | $1.40 | 1.59% | 47.6% |
-| *Average* | $1.53 | 1.54% | 41.1% |
+| Mullen Group (MTL) | $0.84 | 2.77% | 65.2% |
+| Cargojet (CJT) | $1.40 | 1.42% | 39.7% |
+| *Average* | $1.53 | 1.49% | 39.4% |
 
-*Source: TSX screener merge `tsx-2026-11-09.csv` (2,564 rows, November 9, 2026) · CAD. DPS is annual; yield is indicated. Payout is trailing; negative payouts show as — and are left out of the average.*
+*Source: TSX screener merge `tsx-2026-11-14.csv` (2,561 rows, November 14, 2026) · CAD. DPS is annual; yield is indicated. Payout is trailing; negative payouts show as — and are left out of the average.*
 
 Mullen’s **2.92%** and Exchange Income’s **2.56%** are the yields in this set that clear **2.5%**, with payouts of **65%** and **72%**. CN at **2.12%** and a **46%** payout is the railway coupon. CPKC at **0.79%** and Waste Connections at **0.70%** are not income stocks. GFL’s **C$0.09** is a token next to a trailing loss.
 
@@ -155,18 +157,18 @@ Mullen’s **2.92%** and Exchange Income’s **2.56%** are the yields in this se
 
 | Company (Ticker) | Rating | Price | Target 1Y | Upside | Analysts |
 |:--|:--|--:|--:|--:|--:|
-| CPKC (CP) | Buy | $129.97 | CA$135.20 | +4.0% | 15 |
-| CN Rail (CNR) | Buy | $175.21 | CA$183.11 | +4.5% | 20 |
-| Waste Connections (WCN) | Strong buy | $266.73 | CA$200.00 | −25.0% | 6 |
+| CPKC (CP) | Buy | $134.18 | CA$135.20 | +0.8% | 15 |
+| CN Rail (CNR) | Buy | $181.29 | CA$183.11 | +1.0% | 20 |
+| Waste Connections (WCN) | Strong buy | $276.18 | CA$200.00 | −27.6% | 6 |
 | GFL (GFL) | Strong buy | $63.75 | — | — | 4 |
-| TFI International (TFII) | Buy | $133.98 | CA$179.40 | +33.9% | 4 |
-| Exchange Income (EIF) | Strong buy | $118.58 | CA$145.92 | +23.1% | 13 |
-| Air Canada (AC) | Buy | $21.91 | CA$32.73 | +49.4% | 11 |
-| Mullen Group (MTL) | Buy | $28.74 | CA$30.22 | +5.1% | 8 |
-| Cargojet (CJT) | Strong buy | $95.12 | CA$121.00 | +27.2% | 11 |
-| *Average* | — | — | CA$128.45 | +15.3% | — |
+| TFI International (TFII) | Buy | $136.93 | CA$179.40 | +31.0% | 4 |
+| Exchange Income (EIF) | Strong buy | $127.72 | CA$145.92 | +14.2% | 13 |
+| Air Canada (AC) | Buy | $22.65 | CA$32.73 | +44.5% | 11 |
+| Mullen Group (MTL) | Buy | $30.28 | CA$30.22 | −0.2% | 8 |
+| Cargojet (CJT) | Strong buy | $108.28 | CA$121.00 | +11.7% | 11 |
+| *Average* | — | — | CA$128.45 | +9.4% | — |
 
-*Rating = screener analyst rating on the November 9, 2026 file. Target 1Y and analyst counts are the MarketBeat TSE consensus figures (CAD) pulled October 27, 2026, not re-pulled in bulk for this refresh (Royal Bank spot-checked November 9, unchanged). Upside is the October 27 target versus the November 9 screener price. The dollar average mixes very different share prices; read the upside column.*
+*Rating = screener analyst rating on the November 14, 2026 file. Target 1Y and analyst counts are the MarketBeat TSE consensus figures (CAD) pulled October 27, 2026, not re-pulled in bulk for this refresh. Upside is the October 27 target versus the November 14 screener price. The dollar average mixes very different share prices; read the upside column.*
 
 **The rails have little Canadian-dollar room.** CN **+6.2%** to **CA$183.11** from **20** analysts, CPKC **+7.7%** to **CA$135.20** from **15**. Raymond James at **C$195** on CN is above the average, not instead of it. Mullen at **+5.1%** to **CA$30.22** from **8** is the other tight CAD target, and it is tight because the stock ran. The October 22 close of **$32.28** was above this target. The October 23 close is not.
 
@@ -226,12 +228,13 @@ CPKC, GFL, TFI, Exchange Income and Cargojet are not in the coverage log yet. Th
 
 ## Data notes: screener date, peer set and where the targets come from
 
-**November 9, 2026 refresh.** The snapshot strip and every peer table now come straight from merge `tsx-2026-11-09.csv` (2,564 rows): prices, market caps, LTM revenue and net income, returns, multiples, dividends and screener ratings. Average rows skip blanks. Analyst targets were not re-pulled in bulk: Target 1Y and analyst counts are still the MarketBeat TSE figures pulled October 27, 2026 (a November 9 spot-check of Royal Bank’s MarketBeat page showed the consensus unchanged at C$292.86 on 12 analysts, with the latest broker action dated September 3); upside compares those targets with the November 9 price. Rows for tickers missing from the November 9 export keep the previous build’s values and are named under the snapshot. The November 9 update paragraph uses the news and company releases listed under Sources, checked November 9, 2026; the TSX comparison column is the approximate index return carried from the October 26 build. The method notes below describe the October 27 build and still apply to the commentary written on it.
+**November 16, 2026 refresh.** The snapshot strip and every peer table now come straight from merge `tsx-2026-11-14.csv` (2,561 rows, November 14, 2026 file): prices, market caps, LTM revenue and net income, returns, multiples, dividends and screener ratings. Average rows skip blanks. Analyst targets were not re-pulled in bulk: Target 1Y and analyst counts are still the MarketBeat TSE figures pulled October 27, 2026(a November 16 spot-check of Royal Bank’s MarketBeat page showed the consensus at C$292.57 on 12 analysts, down from C$292.86, after Desjardins trimmed its target to C$316 from C$320 on November 11); upside compares those targets with the November 14 price. Rows for tickers missing from the November 14 export keep the previous build’s values and are named under the snapshot. The November 16 update paragraph uses the news and company releases listed under Sources, checked November 16, 2026; the TSX comparison column is the approximate index return carried from the October 26 build. The method notes below describe the October 27 build and still apply to the commentary written on it.
 
 Prices are the October 23, 2026 TSX closes from Yahoo Finance chart history. Royal Bank’s close that day is **$281.77**, which matches the price printed from merge `tsx-2026-10-25.csv` on the banks page. The file itself is not in this checkout. Market cap, trailing P/E, P/S, P/B, P/FCF and PEG are TradingView Canada fields scaled by the October 23 close divided by the live close (the live close in this pull was the October 26 session). Revenue, net income, the annual DPS field and payout are the unscaled trailing fields. Yield is the live indicated-yield field scaled by the live close divided by the October 23 close. Forward P/E is October 23 price ÷ TradingView’s next-fiscal-year EPS consensus, pulled October 27, 2026. It is **not** the file’s forward-P/E cell. Performance is the exchange-close price return on the windows under the performance table, not the file’s Perf column. CN’s five-year figure here is that exchange-close series. Peer rule: liquid rails, trucking, waste, aviation and air cargo — CP, CNR, WCN, GFL, TFII, EIF, AC, MTL, plus CJT. Excluded: WTE, CHR, CDRs, and the engineering peer set from the October 22 brief. Average rows include all nine names and skip blank cells. The one-year average is dominated by Mullen. The forward-P/E average includes GFL’s 78.7x. The ten-year average includes TFI and excludes GFL. Target 1Y is MarketBeat’s Canadian-listing consensus in **CAD**, pulled October 27, 2026. The average uses only CPKC, CN, Exchange Income, Air Canada, Mullen and Cargojet, and it averages the one-decimal upsides in the table. Waste Connections (CA$200.00, 6 analysts, high and low both C$200) is excluded. GFL (4 ratings, no price target) and TFI (CA$179.40, 4 analysts) are excluded. US-listing MarketBeat consensuses pulled the same day and **not** converted or averaged: Waste Connections US$202.39 (19 analysts, NYSE), TFI US$167.94 (19, NYSE), GFL US$57.56 (14, NYSE). USD upside in the text uses the October 23 NYSE close. Ratings are the TradingView recommendation mark, not MarketBeat’s label. Waste Connections reports in US dollars; the table’s revenue and earnings are the CAD field. The October 21 Waste Connections figures and the October 22 Mullen figures are from the company results as written up in the StockSummarizer briefs and landed after, or on, the dates in those briefs. Mullen’s October 23 close is the day after the spike. TSX Composite returns are Yahoo Finance chart history for ^GSPTSE on the same windows.
 
 ## Sources for the downgrade, the quarters, targets and the screener
 
+- Reuters via MarketScreener, Baystreet.ca, Investing.com and The Canadian Press TSX closing reports, November 9–13, 2026, as compiled in the StockSummarizer TSX Market Wraps for those sessions (/market-wrap/2026-11-09-tsx/ to /market-wrap/2026-11-13-tsx/): gold, crude and copper settles, sector and named-stock moves, Bank of Canada minutes and December-hike odds, US inflation data and the Nvidia CEO change
 - Yahoo Finance chart history, TSX closes for October 23, 2026, and the window dates under the performance table; NYSE closes on October 23, 2026 for WCN, TFII and GFL; ^GSPTSE on the same windows
 - TradingView Canada scanner, pulled October 27, 2026, cross-checked against the published Royal Bank row from merge `tsx-2026-10-25.csv`
 - CN Rail downgrade and second-quarter results — StockSummarizer brief dated 2026-10-20; third-quarter release October 30, 2026, call 8:30 a.m. ET
