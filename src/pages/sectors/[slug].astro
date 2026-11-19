@@ -92,6 +92,11 @@ const url = `/sectors/${sector.id}/`;
       <Content />
     </div>
 
+    <p class="mt-6 text-sm text-ink-muted">
+      Want these tables on your own site? Grab free embed code on the
+      <a href={`/peer-tables/${sector.id}/`}>{sector.data.sector.toLowerCase()} peer tables page</a>.
+    </p>
+
     <AffiliateCTA
       title="Research tools that fit DIY investors"
       body="We may earn a commission from disclosed affiliate partners (brokers, screeners, learning platforms). We only surface tools that match our clarity-first standard."

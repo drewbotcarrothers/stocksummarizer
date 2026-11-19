@@ -1,0 +1,48 @@
+---
+import { getCollection } from 'astro:content';
+import { extractPeerTables, inlineMd, type PeerTable } from '../../../../lib/peer-tables';
+
+export async function getStaticPaths() {
+  const sectors = await getCollection('sectors', ({ data }) => !data.draft);
+  return sectors.flatMap((sector) =>
+    extractPeerTables(sector.body ?? '').map((t) => ({ params: { slug: sector.id, table: t.key }, props: { sector, t } })),
+  );
+}
+
+const { sector, t } = Astro.props as { sector: any; t: PeerTable };
+const page = `https://stocksummarizer.com/peer-tables/${sector.id}/`;
+const asOf = sector.data.screenerDate.toLocaleDateString('en-CA', { year: 'numeric', month: 'short', day: 'numeric', timeZone: 'UTC' });
+---
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="robots" content="noindex,follow" />
+    <link rel="canonical" href={page} />
+    <title>{`${t.title} · StockSummarizer`}</title>
+    <style>
+      body{margin:0;font:14px/1.4 system-ui,-apple-system,Segoe UI,Roboto,sans-serif;color:#111827;background:#fff}
+      .w{padding:10px 12px}
+      h1{font-size:15px;margin:0 0 8px}
+      .s{overflow-x:auto}
+      table{border-collapse:collapse;width:100%;min-width:480px}
+      th,td{padding:6px 8px;border-bottom:1px solid #e5e7eb;white-space:nowrap}
+      th{background:#f3f4f6;font-weight:600}
+      .f{margin-top:8px;font-size:12px;color:#6b7280}
+      .f a{color:#047857;font-weight:600}
+    </style>
+  </head>
+  <body>
+    <div class="w">
+      <h1>{t.title}</h1>
+      <div class="s">
+        <table>
+          <thead><tr>{t.header.map((h, i) => <th style={`text-align:${t.align[i] ?? 'left'}`} set:html={inlineMd(h)} />)}</tr></thead>
+          <tbody>{t.rows.map((r) => <tr>{r.map((c, i) => <td style={`text-align:${t.align[i] ?? 'left'}`} set:html={inlineMd(c)} />)}</tr>)}</tbody>
+        </table>
+      </div>
+      <div class="f">Data as of {asOf} · CAD · Not investment advice · <a href={page} target="_blank" rel="noopener">StockSummarizer</a></div>
+    </div>
+  </body>
+</html>

@@ -1,0 +1,34 @@
+---
+import { getCollection } from 'astro:content';
+import Layout from '../../layouts/Layout.astro';
+import { extractPeerTables } from '../../lib/peer-tables';
+
+const sectors = (await getCollection('sectors', ({ data }) => !data.draft))
+  .map((s) => ({ s, tables: extractPeerTables(s.body ?? '') }))
+  .filter((x) => x.tables.length > 0)
+  .sort((a, b) => a.s.data.sector.localeCompare(b.s.data.sector));
+---
+
+<Layout
+  title="Free TSX peer comparison tables you can embed"
+  description="Free, embeddable peer comparison tables for 12 TSX sectors: price, market cap, returns, valuation, dividends and analyst targets for Canadian stocks, refreshed weekly."
+  canonicalPath="/peer-tables/"
+>
+  <section class="mx-auto max-w-3xl px-4 py-12 sm:px-6">
+    <h1 class="font-display text-3xl font-bold leading-tight sm:text-4xl">TSX peer comparison tables</h1>
+    <p class="mt-3 text-lg text-ink-muted">
+      Side-by-side peer tables for {sectors.length} TSX sectors, pulled from our living sector deep dives. Each sector page shows
+      the overview, performance, valuation, dividend and analyst-target tables, with copy-and-paste embed code for any blog,
+      newsletter or class handout. They are free to use with a link back to StockSummarizer.
+    </p>
+    <ul class="mt-8 grid gap-4 sm:grid-cols-2">
+      {sectors.map(({ s, tables }) => (
+        <li class="rounded-xl border border-border p-4">
+          <a href={`/peer-tables/${s.id}/`} class="font-semibold">{s.data.sector} peer tables</a>
+          <p class="mt-1 text-sm text-ink-muted">{tables.length} tables · data as of {s.data.screenerDate.toLocaleDateString('en-CA', { year: 'numeric', month: 'long', day: 'numeric', timeZone: 'UTC' })}</p>
+        </li>
+      ))}
+    </ul>
+    <p class="mt-8 text-sm text-ink-muted">Not investment advice. Figures are in CAD unless noted and can lag the market; check the latest filings before you act.</p>
+  </section>
+</Layout>
