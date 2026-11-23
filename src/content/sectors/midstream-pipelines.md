@@ -1,10 +1,10 @@
 ---
 title: "Canadian pipeline stocks: Enbridge, TC Energy and Pembina on yield, valuation and Pacific Link"
-description: "How Canadian pipeline and midstream stocks look on the November 14, 2026 screener: Enbridge, TC Energy, Pembina, Keyera, South Bow, Gibson and AltaGas on yield, valuation, dividends and analyst targets."
+description: "How Canadian pipeline and midstream stocks look on the November 20, 2026 close: Enbridge, TC Energy, Pembina, Keyera, South Bow, Gibson and AltaGas on yield, valuation, dividends and analyst targets."
 sector: "Midstream & pipelines"
-thesis: "The pipes still pay — the median indicated yield is about 4.35% — but the one-year leaders are the smaller names, and Pembina’s Pacific Link stake is a development option rather than cash flow."
-updatedDate: 2026-11-16
-screenerDate: 2026-11-14
+thesis: "The pipes did their job in the TSX’s worst week in more than four years: the median fell about 3.6% between the November 13 and November 20 closes against −8.1% for the index, and the group still pays a median indicated yield near 4.5%. But the one-year leaders are the smaller names, Enbridge is the only one down over a year, and Pembina’s Pacific Link stake is a development option rather than cash flow."
+updatedDate: 2026-11-23
+screenerDate: 2026-11-23
 image: "/images/sectors/midstream-pipelines.jpg"
 imageAlt: "Construction of a large-diameter pipeline in a forested right-of-way in Alberta, with pipe sections and heavy equipment"
 imageCredit: "Pipeline construction in Alberta. Photo by Jason Woodhead, CC BY 2.0, via Wikimedia Commons. Cropped and resized."
@@ -18,20 +18,22 @@ Seven liquid Canadian midstream names — Enbridge, TC Energy, Pembina, AltaGas,
 
 | Metric | Peer set (7) | vs TSX (approx.) |
 |:--|--:|--:|
-| Combined market cap | ~CA$337.4B | — |
-| Median trailing P/E | 24.7x | — |
-| Median forward P/E | 21.7x | — |
-| Median indicated yield | 4.35% | — |
-| Median 1M price return | −1.2% | TSX ~+1.4% |
-| Median 1Y price return | +27.0% | TSX ~+18.2% |
+| Combined market cap | ~CA$325.9B | — |
+| Median trailing P/E | 23.8x | — |
+| Median forward P/E | 20.8x | — |
+| Median indicated yield | 4.49% | — |
+| Median 1M price return | −2.4% | TSX −8.1% |
+| Median 1Y price return | +15.7% | TSX +11.0% |
 
-*Screener as of November 14, 2026 (CAD; merge `tsx-2026-11-14.csv`, 2,561 rows). Peer set: ENB, TRP, PPL, ALA, KEY, SOBO, GEI. Medians skip blank cells; P/E medians skip non-positive multiples. The TSX column is the approximate index return carried from the October 26 build and was not re-pulled for this refresh.*
+*Screener as of the November 20, 2026 close (CAD; merge `tsx-2026-11-23.csv`, 2,448 rows, exported November 23, 2026). Peer set: ENB, TRP, PPL, ALA, KEY, SOBO, GEI. Medians skip blank cells; P/E medians skip non-positive multiples. The TSX column is the S&P/TSX Composite price return to the November 20 close (one month from October 20, 2026; one year from November 20, 2025), from daily index closes.*
 
-**November 14, 2026 refresh.** Between the November 9 and November 14 screener files the median peer price moved **+4.8%**. Best: South Bow (+8.2%) and TC Energy (+5.5%). The snapshot and every peer table below are on the November 14 file. Commentary paragraphs between the tables were written on the October 25 file and quote those figures unless they give a later date.
+**November 23, 2026 refresh.** Between the November 14 and November 23 screener files (November 13 and November 20 closes) the median peer price moved **−3.6%**, against **−8.1%** for the S&P/TSX Composite. Held up best: AltaGas (−0.7%) and Keyera (−3.2%). Weakest: Gibson Energy (−4.5%) and South Bow (−4.1%). The snapshot and every peer table below are on the November 23 file. Commentary paragraphs between the tables were written on the October 25 file and quote those figures unless they give a later date.
 
 These are not producer multiples. The median trailing P/E is about **26x** and the median forward P/E is still about **23x**. Investors pay that because the cash distribution is the product: the median indicated yield is about **4.2%**, and several trailing payout ratios sit above **100%** of accounting earnings. Enbridge and South Bow yield about **5.8%**. AltaGas, the utility-and-midstream hybrid, yields about **2.4%** and is the income laggard in the set.
 
 ## What is driving Canadian pipeline stocks: Pacific Link, Enbridge’s equity and the gas buildout
+
+**November 23, 2026 update.** Pipelines held up while crude fell. US crude settled 3.2% lower at US$85.72 on November 16 as oil flows through the Strait of Hormuz recovered, was little changed on November 17 (Enbridge eased 0.4% as energy slipped less than the market), and fell another 3.2% to US$83.26 on November 18 on supply-surplus worries, when energy lost about 3.7%. Crude stayed near US$83–84 through November 20. Bonds rallied: Canada’s 10-year yield fell to about 3.70% on November 20, and TD Economics said Canadian two- and 10-year yields fell about 12 basis points over the week. Between the November 14 and November 23 screener files the peer median price moved **−3.6%** (Gibson −4.5%, South Bow −4.1%; AltaGas −0.7% and Keyera −3.2% held up best). South Bow’s NYSE consensus on the November 23 MarketBeat re-pull is US$32.67 from 15 analysts, still not converted or averaged.
 
 **November 16, 2026 update.** Energy was one of the TSX’s steadier groups in the week to November 13. AltaGas rose about 2.7% to C$54.72 on November 10, energy gained about 2.1% on November 11, and US crude settled about 2.6% higher at US$88.74 on November 12 after President Trump said the US was no longer interested in a deal with Iran. No new company results are summarized for this sector in this update; the moves are from the screener. Between the November 9 and November 14 screener files the peer median price moved **+4.8%** (South Bow +8.2%, TC Energy +5.5%, Pembina +5.2%; Keyera +2.1%, Enbridge +2.8%), with every name in the set higher. Canada’s October consumer price index is due on November 16 (economists expected annual inflation of 3.2%, per Reuters), the next Labour Force Survey is December 4, and the next Bank of Canada decision is December 9.
 
@@ -59,6 +61,8 @@ These are not producer multiples. The median trailing P/E is about **26x** and t
 
 ## Which Canadian pipeline stocks are leading and lagging
 
+**On the November 23 file (November 20 close):** over one month the leaders are **TC Energy (+2.4%)** and **AltaGas (−1.2%)** and the laggards are **Keyera (−9.2%)** and **Gibson Energy (−6.2%)**; over one year the leaders are **Pembina (+26.6%)** and **Gibson Energy (+25.1%)** and the laggards are **Enbridge (−3.9%)** and **Keyera (+14.2%)**. The S&P/TSX Composite was about −8.1% over the month and +11.0% over the year to the same close. The paragraphs below were written on the October 25 file and keep those figures.
+
 **One month (screener):** **Pembina (+9.2%)** leads, then **Gibson (+8.2%)** and **AltaGas (+5.3%)**. TC Energy is the median at **+3.2%**. **Enbridge (−0.2%)** is the only red print. Pembina’s month includes the October 1 Pacific Link listing.
 
 **One year:** **Gibson (+39.0%)** leads, then **South Bow (+33.5%)**, **Pembina (+30.4%)**, **AltaGas (+28.3%)** and **Keyera (+26.2%)**. TC Energy is **+20.3%**. **Enbridge (+0.6%)** is the laggard by a wide margin, and it is also the worst three-month and six-month name (**−15.3%** and **−6.4%**). The sector’s one-year win versus the TSX was earned by the names smaller than Enbridge.
@@ -71,16 +75,16 @@ Peer set: **Enbridge (ENB), TC Energy (TRP), Pembina (PPL), AltaGas (ALA), Keyer
 
 | Company (Ticker) | Price | Market cap | Revenue (LTM) | Net income (LTM) |
 |:--|--:|--:|--:|--:|
-| Enbridge (ENB) | $67.96 | $151.5B | $89.7B | $6.7B |
-| TC Energy (TRP) | $92.31 | $96.2B | $16.3B | $4.0B |
-| Pembina (PPL) | $71.73 | $41.7B | $8.2B | $2.1B |
-| AltaGas (ALA) | $55.60 | $17.3B | $14.7B | $631M |
-| Keyera (KEY) | $51.75 | $15.2B | $8.2B | $208M |
-| South Bow (SOBO) | $47.49 | $9.9B | $2.3B | $647M |
-| Gibson Energy (GEI) | $32.61 | $5.6B | $13.6B | $200M |
-| *Average* | — | $48.2B | $21.9B | $2.1B |
+| Enbridge (ENB) | $65.54 | $146.1B | $89.7B | $6.7B |
+| TC Energy (TRP) | $89.08 | $92.8B | $16.3B | $4.0B |
+| Pembina (PPL) | $69.06 | $40.2B | $8.2B | $2.1B |
+| AltaGas (ALA) | $55.20 | $17.2B | $14.7B | $631M |
+| Keyera (KEY) | $50.08 | $14.7B | $8.2B | $208M |
+| South Bow (SOBO) | $45.52 | $9.5B | $2.3B | $647M |
+| Gibson Energy (GEI) | $31.14 | $5.4B | $13.6B | $200M |
+| *Average* | — | $46.6B | $21.9B | $2.1B |
 
-*Source: TSX screener merge `tsx-2026-11-14.csv` (2,561 rows, November 14, 2026) · CAD · LTM = last 12 months. Average includes every row.*
+*Source: TSX screener merge `tsx-2026-11-23.csv` (2,448 rows, November 23, 2026 file; November 20 close) · CAD · LTM = last 12 months. Average includes every row.*
 
 Enbridge is almost half the combined market cap. TC Energy is the gas-and-power major after the liquids spin. Pembina is the large Western Canadian pipe and processing company. AltaGas, Keyera, South Bow and Gibson are the **CA$6–17 billion** tier. Revenue is a poor ranking tool here. Enbridge’s **CA$83 billion** and Gibson’s **CA$13 billion** include energy marketing that passes through the income statement. Gibson’s price-to-sales ratio of **0.45x** in the valuation table is that pass-through, not a deep-value signal. Net income is the cleaner size check: Enbridge about **CA$6.1 billion**, TC Energy about **CA$3.6 billion**, Pembina about **CA$1.8 billion**, and then a steep drop.
 
@@ -88,16 +92,16 @@ Enbridge is almost half the combined market cap. TC Energy is the gas-and-power 
 
 | Company (Ticker) | 1M | 3M | 6M | YTD | 1Y | 5Y | 10Y |
 |:--|--:|--:|--:|--:|--:|--:|--:|
-| Enbridge (ENB) | +0.1% | −3.5% | −10.8% | +3.4% | −0.7% | +31% | +20% |
-| **TC Energy (TRP)** | **+4.6%** | +4.9% | −1.0% | +22.0% | +20.0% | +49% | +54% |
-| Pembina (PPL) | +3.3% | +5.3% | +7.2% | +37.4% | +34.4% | +73% | +84% |
-| AltaGas (ALA) | −1.3% | +4.7% | +5.3% | +31.8% | +29.5% | +121% | +73% |
-| Keyera (KEY) | −6.0% | −12.0% | −5.6% | +17.7% | +22.3% | +68% | +35% |
-| South Bow (SOBO) | −1.6% | −6.9% | −5.8% | +25.7% | +27.0% | +70% | +70% |
-| **Gibson Energy (GEI)** | −1.2% | +2.5% | +13.0% | +29.3% | **+36.7%** | +36% | +103% |
-| *Average* | −0.3% | −0.7% | +0.3% | +23.9% | +24.2% | +64% | +63% |
+| Enbridge (ENB) | −2.4% | −6.9% | −17.7% | −0.3% | −3.9% | +31% | +16% |
+| **TC Energy (TRP)** | **+2.4%** | +2.2% | −8.8% | +17.8% | +15.7% | +47% | +48% |
+| **Pembina (PPL)** | −2.0% | +1.5% | +1.8% | +32.3% | **+26.6%** | +66% | +80% |
+| AltaGas (ALA) | −1.2% | +2.7% | +3.4% | +30.9% | +25.1% | +122% | +71% |
+| Keyera (KEY) | −9.2% | −15.9% | −13.3% | +13.9% | +14.2% | +67% | +29% |
+| South Bow (SOBO) | −5.7% | −14.3% | −12.6% | +20.5% | +15.7% | +63% | +63% |
+| Gibson Energy (GEI) | −6.2% | −1.4% | +7.6% | +23.4% | +25.1% | +33% | +90% |
+| *Average* | −3.5% | −4.6% | −5.7% | +19.8% | +16.9% | +61% | +56% |
 
-*Source: TSX screener merge `tsx-2026-11-14.csv` (2,561 rows, November 14, 2026) · CAD · price returns. Bold = leader on 1M and on 1Y. Average skips blanks.*
+*Source: TSX screener merge `tsx-2026-11-23.csv` (2,448 rows, November 23, 2026 file; November 20 close) · CAD · price returns. Bold = leader on 1M and on 1Y. Average skips blanks.*
 
 Three months are still red for everyone except Gibson. The sector rallied over six and twelve months, then gave some of it back into late summer, and October has been a partial repair — sharpest at Pembina and Gibson. Enbridge’s five-year and ten-year price returns (**+28%** and **+16%**) are the reminder that a high yield has done more of the long-run work than the share price.
 
@@ -113,16 +117,16 @@ Three months are still red for everyone except Gibson. The sector rallied over s
 
 | Company (Ticker) | P/E | Fwd P/E | PEG | P/S | P/B | P/FCF |
 |:--|--:|--:|--:|--:|--:|--:|
-| Enbridge (ENB) | 23.6 | 22.5 | 1.95 | 1.68 | 2.49 | 131.3 |
-| TC Energy (TRP) | 24.7 | 23.9 | 1.70 | 5.90 | 3.76 | 22.1 |
-| Pembina (PPL) | 21.5 | 21.7 | 1.13 | 5.04 | 2.70 | 19.7 |
-| AltaGas (ALA) | 28.0 | 23.6 | — | 1.18 | 1.89 | — |
-| Keyera (KEY) | 63.3 | 16.3 | — | 1.84 | 3.01 | — |
-| South Bow (SOBO) | 15.3 | 17.9 | 0.39 | 4.28 | 2.62 | 9.1 |
-| Gibson Energy (GEI) | 28.0 | 20.2 | 1.02 | 0.42 | 5.48 | 18.7 |
-| *Average* | 29.2 | 20.9 | 1.24 | 2.91 | 3.14 | 40.2 |
+| Enbridge (ENB) | 22.8 | 21.7 | 1.87 | 1.62 | 2.40 | 126.6 |
+| TC Energy (TRP) | 23.8 | 23.2 | 1.66 | 5.78 | 3.63 | 21.4 |
+| Pembina (PPL) | 20.7 | 20.8 | 1.11 | 4.95 | 2.60 | 19.0 |
+| AltaGas (ALA) | 27.8 | 23.4 | — | 1.18 | 1.88 | — |
+| Keyera (KEY) | 61.3 | 15.8 | — | 1.82 | 2.91 | — |
+| South Bow (SOBO) | 14.7 | 17.1 | 0.38 | 4.16 | 2.51 | 8.7 |
+| Gibson Energy (GEI) | 26.8 | 19.3 | 1.00 | 0.41 | 5.24 | 17.9 |
+| *Average* | 28.3 | 20.2 | 1.20 | 2.84 | 3.02 | 38.7 |
 
-*Source: TSX screener merge `tsx-2026-11-14.csv` (2,561 rows, November 14, 2026) · CAD. Average skips blanks; one large multiple can dominate a column average, so read the medians in the snapshot.*
+*Source: TSX screener merge `tsx-2026-11-23.csv` (2,448 rows, November 23, 2026 file; November 20 close) · CAD. Average skips blanks; one large multiple can dominate a column average, so read the medians in the snapshot.*
 
 **South Bow** is the cheap earnings multiple (**17.2x** trailing, **19.7x** forward). **Keyera** is the expensive trailing multiple (**38.7x**) and the one that compresses the most on the forward figure (**18.8x**). Enbridge, TC Energy, Pembina, AltaGas and Gibson all still sit near **22–23x** forward earnings. Gibson’s **0.45x** sales multiple and **5.65x** book multiple should be read together: marketing revenue inflates sales, and the equity is not cheap against book. Enbridge at **62.5x** price to free cash flow is the number that says the distribution is being funded with a balance sheet and with the equity issued in September, not with a wide free-cash-flow surplus on this screener’s definition.
 
@@ -130,16 +134,16 @@ Three months are still red for everyone except Gibson. The sector rallied over s
 
 | Company (Ticker) | Dividend / share | Yield (ind.) | Payout ratio |
 |:--|--:|--:|--:|
-| Enbridge (ENB) | $3.77 | 5.71% | 133.4% |
-| TC Energy (TRP) | $3.40 | 3.80% | 93.2% |
-| Pembina (PPL) | $2.82 | 4.10% | 86.6% |
-| AltaGas (ALA) | $1.26 | 2.40% | 66.3% |
-| Keyera (KEY) | $2.12 | 4.35% | 267.0% |
-| South Bow (SOBO) | $2.78 | 6.00% | 90.4% |
-| Gibson Energy (GEI) | $1.72 | 5.52% | 152.0% |
-| *Average* | $2.55 | 4.55% | 127.0% |
+| Enbridge (ENB) | $3.77 | 5.92% | 133.4% |
+| TC Energy (TRP) | $3.40 | 3.94% | 93.2% |
+| Pembina (PPL) | $2.82 | 4.26% | 86.6% |
+| AltaGas (ALA) | $1.26 | 2.42% | 66.3% |
+| Keyera (KEY) | $2.12 | 4.49% | 267.0% |
+| South Bow (SOBO) | $2.78 | 6.26% | 90.4% |
+| Gibson Energy (GEI) | $1.72 | 5.78% | 152.0% |
+| *Average* | $2.55 | 4.72% | 127.0% |
 
-*Source: TSX screener merge `tsx-2026-11-14.csv` (2,561 rows, November 14, 2026) · CAD. DPS is annual; yield is indicated. Payout is trailing; negative payouts show as — and are left out of the average.*
+*Source: TSX screener merge `tsx-2026-11-23.csv` (2,448 rows, November 23, 2026 file; November 20 close) · CAD. DPS is annual; yield is indicated. Payout is trailing; negative payouts show as — and are left out of the average.*
 
 Yield is the point of the sector, and it is not evenly shared. **Enbridge (5.76%)**, **South Bow (5.75%)** and **Gibson (5.36%)** are the income names. Pembina, Keyera and TC Energy cluster near **4.0–4.2%**. AltaGas at **2.41%** is priced more like a utility growth story than a pipeline coupon. Payout ratios above 100% at Enbridge, Keyera and Gibson are in the screener because dividends exceed trailing accounting earnings. That is common in this business. It is also why a single soft cash quarter matters more here than a single soft earnings multiple.
 
@@ -147,18 +151,20 @@ Yield is the point of the sector, and it is not evenly shared. **Enbridge (5.76%
 
 | Company (Ticker) | Rating | Price | Target 1Y | Upside | Analysts |
 |:--|:--|--:|--:|--:|--:|
-| Enbridge (ENB) | Buy | $67.96 | CA$77.63 | +14.2% | 13 |
-| TC Energy (TRP) | Buy | $92.31 | CA$96.29 | +4.3% | 15 |
-| Pembina (PPL) | Buy | $71.73 | CA$69.29 | −3.4% | 13 |
-| AltaGas (ALA) | Buy | $55.60 | CA$57.44 | +3.3% | 8 |
-| Keyera (KEY) | Buy | $51.75 | CA$73.00 | +41.1% | 14 |
-| South Bow (SOBO) | Neutral | $47.49 | — | — | — |
-| Gibson Energy (GEI) | Buy | $32.61 | CA$33.10 | +1.5% | 9 |
-| *Average* | — | — | CA$67.79 | +10.2% | — |
+| Enbridge (ENB) | Buy | $65.54 | CA$77.63 | +18.4% | 13 |
+| TC Energy (TRP) | Buy | $89.08 | CA$96.71 | +8.6% | 15 |
+| Pembina (PPL) | Buy | $69.06 | CA$70.50 | +2.1% | 13 |
+| AltaGas (ALA) | Buy | $55.20 | CA$58.10 | +5.3% | 8 |
+| Keyera (KEY) | Buy | $50.08 | CA$73.07 | +45.9% | 14 |
+| South Bow (SOBO) | Neutral | $45.52 | — | — | — |
+| Gibson Energy (GEI) | Buy | $31.14 | CA$34.20 | +9.8% | 10 |
+| *Average* | — | — | CA$68.37 | +15.0% | — |
 
-*Rating = screener analyst rating on the November 14, 2026 file. Target 1Y and analyst counts are the MarketBeat TSE consensus figures (CAD) pulled October 27, 2026, not re-pulled in bulk for this refresh. Upside is the October 27 target versus the November 14 screener price. The dollar average mixes very different share prices; read the upside column.*
+*Rating = screener analyst rating on the November 23, 2026 file. Target 1Y and analyst counts are the MarketBeat TSE consensus figures (CAD) re-pulled November 23, 2026; MarketBeat priced those pages at the November 20 close. Upside is that target versus the November 20 screener price. The dollar average mixes very different share prices; read the upside column.*
 
-**South Bow has no CAD target in this table.** MarketBeat’s TSE forecast address redirects to the NYSE listing, where the consensus pulled the same day is **US$32.50** from **15** analysts. That figure is US dollars against a US listing price, so it is not converted and not averaged with the Canadian-dollar targets.
+**November 23 target read.** Against the November 20 close, the widest implied upside to the MarketBeat consensus is **Keyera (+45.9%)** and **Enbridge (+18.4%)**; the narrowest is **Pembina (+2.1%)** and **AltaGas (+5.3%)**. Every name with a CAD target trades below it. South Bow has no Canadian-dollar consensus in this table. A falling price lifts upside mechanically, so read it next to the target count and the tape, not as a buy signal.
+
+**South Bow has no CAD target in this table.** MarketBeat’s TSE forecast address redirects to the NYSE listing, where the consensus re-pulled November 23, 2026 is **US$32.67** from **15** analysts (it was **US$32.50** on October 27). That figure is US dollars against a US listing price, so it is not converted and not averaged with the Canadian-dollar targets.
 
 Among the CAD targets, the Street still has room at **Enbridge (+15.2%)** and **TC Energy (+10.3%)** — the two largest names, and the ones that lagged the smaller pipes over one year. **Pembina and Gibson are at or through the average target** after strong one-year runs. **Keyera** shows the largest gap (**+32.9%** to **CA$73**), with a high target of **CA$112** that a single bullish note can move. AltaGas is only about **4%** above the screener price.
 
@@ -170,6 +176,8 @@ Among the CAD targets, the Street still has room at **Enbridge (+15.2%)** and **
 
 ## Bull case for Canadian pipeline stocks
 
+**November 23 check.** A 3.6% median drop in an 8.1% index week, with long yields falling, is the defensive income case at work. Enbridge and Keyera show the widest implied upside to the re-pulled CAD consensus, about 18% and 46%.
+
 1. **The coupon is still high versus the TSX, and two giants are below the Street.** A median indicated yield near **4.2%**, with Enbridge and South Bow near **5.8%**, is the income case. Enbridge’s **CA$77.63** target and TC Energy’s **CA$96.29** target are still above the October 25 prices.
 
 2. **Volume and sanctioned gas projects have a home.** The Westcoast expansions Enbridge and KKR are funding, and TC Energy’s contracted gas network, are the growth that does not need a new oil-price spike. Pacific Link, if it is built, is extra takeaway for the producers in the oil-and-gas note — and a fee opportunity for Pembina only after a final investment decision.
@@ -178,6 +186,8 @@ Among the CAD targets, the Street still has room at **Enbridge (+15.2%)** and **
 
 ## Bear case and risks for Canadian pipeline stocks
 
+**November 23 check.** Pembina (about 2%) and AltaGas (about 5%) sit close to their targets. If crude’s slide toward US$83 becomes a Western Canadian volume story, the more commodity-linked names give back their one-year lead first.
+
 1. **Enbridge’s catch-up is an equity story as much as an earnings story.** The company issued **C$3.0 billion** of stock in September. A target **15%** above the screener price can sit there for a long time if cash flow per share has to digest the new shares. The **62.5x** price to free cash flow is the screener’s version of that warning.
 
 2. **Pacific Link is not a 2026 cash flow.** Pembina has said it has no at-risk development capital before a final investment decision, and the federal timetable points at conditions by September 2027. A headline can move the stock, as October did. It does not move the dividend.
@@ -185,6 +195,8 @@ Among the CAD targets, the Street still has room at **Enbridge (+15.2%)** and **
 3. **Accounting payouts over 100% leave less room for a mistake.** Enbridge, Keyera and Gibson all distribute more than trailing earnings on this merge. If a project slips or a regulatory decision trims tolls, the yield the sector is priced for is the first thing that gets questioned.
 
 ## What to watch next for Canadian pipelines: Enbridge’s quarter, Pacific Link and targets
+
+**November 23 update to the watch list.** Crude and Strait of Hormuz flows, the December 9 Bank of Canada decision for the rate-sensitive yield trade, and any target changes after the energy selloff.
 
 1. **November 6, 2026 — Enbridge third-quarter webcast, 9 a.m. ET.** Equity deployed, dividend coverage, and how management frames the Tallgrass, Salt Creek and Westcoast projects.
 
@@ -205,12 +217,16 @@ Pembina, Keyera, South Bow, Gibson and AltaGas are not in the coverage log yet.
 
 ## Data notes: screener date, peer set and where the targets come from
 
-**November 16, 2026 refresh.** The snapshot strip and every peer table now come straight from merge `tsx-2026-11-14.csv` (2,561 rows, November 14, 2026 file): prices, market caps, LTM revenue and net income, returns, multiples, dividends and screener ratings. Average rows skip blanks. Analyst targets were not re-pulled in bulk: Target 1Y and analyst counts are still the MarketBeat TSE figures pulled October 27, 2026(a November 16 spot-check of Royal Bank’s MarketBeat page showed the consensus at C$292.57 on 12 analysts, down from C$292.86, after Desjardins trimmed its target to C$316 from C$320 on November 11); upside compares those targets with the November 14 price. Rows for tickers missing from the November 14 export keep the previous build’s values and are named under the snapshot. The November 16 update paragraph uses the news and company releases listed under Sources, checked November 16, 2026; the TSX comparison column is the approximate index return carried from the October 26 build. The method notes below describe the October 27 build and still apply to the commentary written on it.
+**November 23, 2026 refresh.** The snapshot strip and every peer table now come straight from merge `tsx-2026-11-23.csv` (2,448 rows; exported November 23, 2026, November 20 close): prices, market caps, LTM revenue and net income, returns, multiples, dividends and screener ratings. Average rows skip blanks. Analyst targets were re-pulled in bulk on November 23, 2026: Target 1Y and analyst counts are the MarketBeat TSE consensus figures from that day, and upside compares them with the November 20 price. Rows for tickers missing from the November 23 export keep the last screener values this page had for them and are named under the snapshot; in the analyst table those rows use MarketBeat’s November 20 close. The November 23 update paragraph uses the StockSummarizer TSX Market Wraps for November 16–20 and the briefs and releases listed under Sources, checked November 23, 2026. The TSX comparison column is the S&P/TSX Composite price return to the November 20 close from daily index closes. The method notes below describe the October 27 build and still apply to the commentary written on it.
 
 Table figures are TSX screener values from merge `tsx-2026-10-25.csv` (2,532 rows; October 25, 2026 close; CAD) unless labelled otherwise. Peer rule: liquid Canadian pipeline and midstream operators — ENB, TRP, PPL, KEY, SOBO, GEI, plus ALA as the utility-and-midstream hybrid. Excluded: oil and gas producers, royalties, drillers, oilfield services, engineering firms, Waste Connections, Tidewater Midstream (scale) and Rockpoint Gas Storage (gas-storage specialist). Average rows include all seven names and skip blank cells. South Bow’s identical 5-year and 10-year return is flagged under the performance table. Target 1Y is MarketBeat TSE consensus in **CAD**, pulled October 27, 2026 (analyst counts 8–15 on the six CAD targets). South Bow’s TSE page redirects to NYSE:SOBO, where the consensus is US$32.50 from 15 analysts; that USD figure is excluded from the table and the average. Screener ratings are in the analyst table. MarketBeat’s own labels are Moderate Buy on the CAD pages. Enbridge dates and the C$2.7 billion and C$3.0 billion figures are from the company’s 2026 news index. Pacific Link terms are from Pembina’s October 1, 2026 release and the Prime Minister’s October 1, 2026 release. The TC Energy sale figure is from the October 1 StockSummarizer brief. TSX Composite 1M/1Y are approximate public index price returns near October 26, 2026. Snapshot medians use the seven-name set.
 
 ## Sources for Pacific Link, Enbridge’s deals, targets and the TSX screener
 
+- StockSummarizer TSX Market Wraps for November 16–20, 2026 (/market-wrap/2026-11-16-tsx/ to /market-wrap/2026-11-20-tsx/), compiled from Reuters via MarketScreener, The Canadian Press via BNN Bloomberg, Baystreet.ca, Investing.com, RTTNews, Investcom, the TSX daily trading report and Statistics Canada releases: index closes and the 8.1% weekly drop, crude and gold settles, copper, sector and named-stock moves, October CPI, December-hike odds, bond yields and the Nvidia, Anthropic and SEC headlines
+- MarketBeat TSE forecast pages for every ticker in the analyst table (consensus targets and analyst counts re-pulled November 23, 2026; MarketBeat priced the pages at the November 20, 2026 close; tickers missing from the screener export use that MarketBeat close in the analyst table)
+- S&P/TSX Composite daily closes (^GSPTSE via Yahoo Finance chart history): November 20, 2026 close 33,189.85 against October 20, 2026 and November 20, 2025, for the snapshot’s TSX column
+- TSX screener merge `tsx-2026-11-23.csv` (StockSummarizer data pipeline; TradingView screener export of November 23, 2026, carrying the November 20, 2026 close)
 - Reuters via MarketScreener, Baystreet.ca, Investing.com and The Canadian Press TSX closing reports, November 9–13, 2026, as compiled in the StockSummarizer TSX Market Wraps for those sessions (/market-wrap/2026-11-09-tsx/ to /market-wrap/2026-11-13-tsx/): gold, crude and copper settles, sector and named-stock moves, Bank of Canada minutes and December-hike odds, US inflation data and the Nvidia CEO change
 - TSX screener merge `tsx-2026-10-25.csv` (StockSummarizer data pipeline), October 25, 2026
 - Pembina Pipeline, “Pacific Link Listed as a Project of National Interest,” October 1, 2026

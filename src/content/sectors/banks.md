@@ -2,9 +2,9 @@
 title: "Canadian bank stocks: Big Six Q3 earnings, valuation, dividends and analyst targets"
 description: "How Canadian bank stocks look after a beat-heavy Q3 2026: Big Six plus EQB on performance, valuation, dividends and analyst targets, plus Bank of Canada, credit and capital-return watches for DIY TSX investors."
 sector: "Banks"
-thesis: "The Big Six printed another beat-heavy quarter and still outrun the TSX on a one-year tape, but Street targets sit close to the market, so the next move hinges on a Bank of Canada that just hiked to 2.50%, credit as unemployment rises to 6.7%, and capital return, not another easy re-rating."
-updatedDate: 2026-11-16
-screenerDate: 2026-11-14
+thesis: "Canadian bank stocks fell with the market in the TSX’s worst week in more than four years — the median dropped about 8.8% between the November 13 and November 20 closes — which trims the one-year median to about +27% against roughly +11% for the TSX and widens implied upside to the November 23 MarketBeat consensus to about 7% to 18%; the December 9 Bank of Canada decision, credit as the economy softens and fiscal fourth-quarter results now carry the next move."
+updatedDate: 2026-11-23
+screenerDate: 2026-11-23
 image: "/images/sectors/banks.jpg"
 imageAlt: "Night view of Toronto’s financial district in August 2017, including First Canadian Place and Scotia Plaza"
 imageCredit: "Toronto financial district, August 2017, including First Canadian Place and Scotia Plaza. Photo by Arild Vågen, CC BY-SA 4.0, via Wikimedia Commons. Cropped and resized."
@@ -18,20 +18,22 @@ The Big Six — Royal Bank, TD, BMO, Scotiabank, CIBC and National Bank — plus
 
 | Metric | Peer set (7) | vs TSX (approx.) |
 |:--|--:|--:|
-| Combined market cap | ~CA$1.27T | — |
-| Median trailing P/E | 18.1x | — |
-| Median forward P/E | 15.4x | — |
-| Median indicated yield | 2.49% | — |
-| Median 1M price return | +5.8% | TSX ~+1.4% |
-| Median 1Y price return | +38.9% | TSX ~+18.2% |
+| Combined market cap | ~CA$1.16T | — |
+| Median trailing P/E | 16.5x | — |
+| Median forward P/E | 13.9x | — |
+| Median indicated yield | 2.72% | — |
+| Median 1M price return | −6.1% | TSX −8.1% |
+| Median 1Y price return | +26.9% | TSX +11.0% |
 
-*Screener as of November 14, 2026 (CAD; merge `tsx-2026-11-14.csv`, 2,561 rows). Peer set: RY, TD, BMO, BNS, CM, NA, EQB. Medians skip blank cells; P/E medians skip non-positive multiples. The TSX column is the approximate index return carried from the October 26 build and was not re-pulled for this refresh.*
+*Screener as of the November 20, 2026 close (CAD; merge `tsx-2026-11-23.csv`, 2,448 rows, exported November 23, 2026). Peer set: RY, TD, BMO, BNS, CM, NA, EQB. Medians skip blank cells; P/E medians skip non-positive multiples. The TSX column is the S&P/TSX Composite price return to the November 20 close (one month from October 20, 2026; one year from November 20, 2025), from daily index closes.*
 
-**November 14, 2026 refresh.** Between the November 9 and November 14 screener files the median peer price moved **+1.8%**. Best: EQB (+2.9%) and Bank of Montreal (+2.3%). The snapshot and every peer table below are on the November 14 file. Commentary paragraphs between the tables were written on the October 25 file and quote those figures unless they give a later date.
+**November 23, 2026 refresh.** Between the November 14 and November 23 screener files (November 13 and November 20 closes) the median peer price moved **−8.8%**, against **−8.1%** for the S&P/TSX Composite. Held up best: TD Bank (−8.1%) and EQB (−8.2%). Weakest: CIBC (−10.7%) and Bank of Montreal (−9.1%). The snapshot and every peer table below are on the November 23 file. Commentary paragraphs between the tables were written on the October 25 file and quote those figures unless they give a later date.
 
 Valuation looks mid-cycle, not panic-cheap: trailing P/E in the mid-to-high teens, forward P/E in the mid-teens, yields mid-2% to mid-3%. Scotiabank still screens as the income name; CIBC is the cheapest Big Six name on trailing earnings.
 
 ## What is driving Canadian bank stocks: Q3 earnings, buybacks and the Bank of Canada
+
+**November 23, 2026 update.** Banks fell with the market. Royal Bank, TD, Bank of Montreal and Scotiabank were among the heaviest point drags on November 16; all of the big five fell about 1.6% to 2.1% on November 17; financials lost about 2.2% on November 18; and the big banks were down roughly 1.7% to 3% at midday on November 20, when the S&P/TSX Composite closed at 33,189.85, its seventh straight loss and an 8.1% drop for the week. October inflation came in at 3.1% on November 16, below the 3.2% forecast, and cut the odds of a December hike to about 40% from 54%; by November 20 markets put roughly even odds on a hike again, while Canada’s 10-year yield fell to about 3.70%, its lowest since November 12. Between the November 14 and November 23 screener files the peer median price moved **−8.8%** (CIBC −10.7%, Bank of Montreal −9.1%, Scotiabank −9.1%; TD −8.1% and EQB −8.2% fell least). Consensus targets barely moved on the November 23 MarketBeat re-pull (Royal Bank C$294.29 from 12 analysts, against C$292.86 on October 27), so the wider upside below comes from lower prices. Next: the December 4 Labour Force Survey and the December 9 Bank of Canada decision.
 
 **November 16, 2026 update.** Banks had a steady week. On November 9 the big lenders rose about 1.5% to 2% as yields eased, and on November 11 all of the big five gained 0.7% to 1.1% after Bank of Canada minutes from the October 28 hike showed policymakers see a lot of uncertainty from energy prices and the US trade war but would act again if needed. By November 13 markets priced about a 64% chance of another hike in December. Royal Bank slipped C$1.02 to C$288.37 that day amid reports it cut several senior climate and ESG roles, and Desjardins trimmed its Royal Bank target to C$316 from C$320 on November 11. Between the November 9 and November 14 screener files the peer median price moved **+1.8%** (EQB +2.9%, BMO +2.3%; National Bank +0.4%, CIBC +1.4%). Canada’s October consumer price index is due on November 16 (economists expected annual inflation of 3.2%, per Reuters), the next Labour Force Survey is December 4, and the next Bank of Canada decision is December 9.
 
@@ -59,6 +61,8 @@ Valuation looks mid-cycle, not panic-cheap: trailing P/E in the mid-to-high teen
 
 ## Which Canadian banks are leading and lagging
 
+**On the November 23 file (November 20 close):** over one month the leaders are **EQB (+0.1%)** and **National Bank (−3.5%)** and the laggards are **Scotiabank (−8.0%)** and **CIBC (−7.9%)**; over one year the leaders are **TD Bank (+40.6%)** and **EQB (+37.8%)** and the laggards are **National Bank (+21.3%)** and **CIBC (+23.6%)**. The S&P/TSX Composite was about −8.1% over the month and +11.0% over the year to the same close. The paragraphs below were written on the October 25 file and keep those figures.
+
 **One month (screener):** only **TD (+1.3%)** finished green. Softest: **EQB (−6.2%)**, then **National Bank (−4.0%)** and **BMO (−3.0%)**. The Big Six median was roughly flat-to-down — a cooldown after the summer rerating, not a sector break.
 
 **One year:** **TD (+54.2%)** still leads by a wide margin, then **Scotiabank (+44.9%)** and **CIBC (+40.5%)**. The pack from RBC through EQB sits in a tight **+34% to +37%** band. Relative to the TSX’s approximate **+18%** one-year move, every name in this peer set won — the question is how much of that win is already in the price.
@@ -79,16 +83,16 @@ Peer set for this living post: **Royal Bank (RY), TD Bank (TD), Bank of Montreal
 
 | Company (Ticker) | Price | Market cap | Revenue (LTM) | Net income (LTM) |
 |:--|--:|--:|--:|--:|
-| Royal Bank (RY) | $288.37 | $399.9B | $141.5B | $22.7B |
-| TD Bank (TD) | $176.42 | $298.1B | $113.0B | $16.2B |
-| Bank of Montreal (BMO) | $247.02 | $171.6B | $77.6B | $9.2B |
-| Scotiabank (BNS) | $131.85 | $162.4B | $70.5B | $10.0B |
-| CIBC (CM) | $164.99 | $149.8B | $62.4B | $10.1B |
-| National Bank (NA) | $215.43 | $83.4B | $32.2B | $4.9B |
-| EQB (EQB) | $128.50 | $5.5B | $3.0B | −$2.4M |
-| *Average* | — | $181.5B | $71.5B | $10.4B |
+| Royal Bank (RY) | $263.05 | $364.7B | $141.5B | $22.7B |
+| TD Bank (TD) | $162.05 | $273.8B | $113.0B | $16.2B |
+| Bank of Montreal (BMO) | $224.49 | $155.3B | $77.6B | $9.2B |
+| Scotiabank (BNS) | $119.90 | $147.6B | $70.5B | $10.0B |
+| CIBC (CM) | $147.36 | $133.8B | $62.4B | $10.1B |
+| National Bank (NA) | $197.27 | $76.4B | $32.2B | $4.9B |
+| EQB (EQB) | $117.93 | $5.0B | $3.0B | −$2.4M |
+| *Average* | — | $165.2B | $71.5B | $10.4B |
 
-*Source: TSX screener merge `tsx-2026-11-14.csv` (2,561 rows, November 14, 2026) · CAD · LTM = last 12 months. Average includes every row.*
+*Source: TSX screener merge `tsx-2026-11-23.csv` (2,448 rows, November 23, 2026 file; November 20 close) · CAD · LTM = last 12 months. Average includes every row.*
 
 RBC and TD are the scale poles. BMO, Scotiabank and CIBC cluster around CA$145–165B. National Bank is the smaller Big Six name with a sharper Canadian (and now western) growth story. EQB is an order of magnitude smaller — a challenger reference, not a Big Six substitute.
 
@@ -96,16 +100,16 @@ RBC and TD are the scale poles. BMO, Scotiabank and CIBC cluster around CA$145�
 
 | Company (Ticker) | 1M | 3M | 6M | YTD | 1Y | 5Y | 10Y |
 |:--|--:|--:|--:|--:|--:|--:|--:|
-| Royal Bank (RY) | +4.8% | −3.7% | +15.1% | +22.7% | +38.5% | +116% | +237% |
-| **TD Bank (TD)** | +5.8% | +2.9% | +19.7% | +36.1% | **+52.6%** | +90% | +185% |
-| Bank of Montreal (BMO) | +6.0% | −3.6% | +18.6% | +38.1% | +40.0% | +76% | +187% |
-| Scotiabank (BNS) | +3.5% | +4.6% | +25.1% | +29.8% | +38.9% | +60% | +85% |
-| CIBC (CM) | +4.9% | −3.2% | +8.1% | +32.1% | +35.7% | +120% | +223% |
-| **National Bank (NA)** | **+7.2%** | −6.7% | +5.6% | +24.7% | +32.2% | +105% | +349% |
-| EQB (EQB) | +6.1% | −8.0% | +12.8% | +23.7% | +47.6% | +62% | +369% |
-| *Average* | +5.4% | −2.5% | +15.0% | +29.6% | +40.8% | +90% | +233% |
+| Royal Bank (RY) | −6.1% | −7.3% | +0.4% | +11.9% | +25.7% | +101% | +203% |
+| **TD Bank (TD)** | −6.1% | +0.1% | +5.2% | +25.0% | **+40.6%** | +76% | +158% |
+| Bank of Montreal (BMO) | −5.2% | −6.5% | +1.2% | +25.5% | +30.2% | +63% | +157% |
+| Scotiabank (BNS) | −8.0% | −0.3% | +9.0% | +18.0% | +26.9% | +46% | +68% |
+| CIBC (CM) | −7.9% | −8.3% | −7.6% | +18.0% | +23.6% | +99% | +185% |
+| National Bank (NA) | −3.5% | −9.6% | −7.3% | +14.2% | +21.3% | +89% | +306% |
+| **EQB (EQB)** | **+0.1%** | −11.5% | +0.3% | +13.5% | +37.8% | +46% | +329% |
+| *Average* | −5.2% | −6.2% | +0.2% | +18.0% | +29.4% | +74% | +201% |
 
-*Source: TSX screener merge `tsx-2026-11-14.csv` (2,561 rows, November 14, 2026) · CAD · price returns. Bold = leader on 1M and on 1Y. Average skips blanks.*
+*Source: TSX screener merge `tsx-2026-11-23.csv` (2,448 rows, November 23, 2026 file; November 20 close) · CAD · price returns. Bold = leader on 1M and on 1Y. Average skips blanks.*
 
 One-year is the known story: a sector-wide re-rating with TD in front. One-month is the new information — leadership narrowed to TD while EQB and National Bank gave back more. Long windows still favour the compounders; near-term tape is digestion, not discovery.
 
@@ -113,16 +117,16 @@ One-year is the known story: a sector-wide re-rating with TD in front. One-month
 
 | Company (Ticker) | P/E | Fwd P/E | PEG | P/S | P/B | P/FCF |
 |:--|--:|--:|--:|--:|--:|--:|
-| Royal Bank (RY) | 18.2 | 16.6 | 0.92 | 5.60 | 2.98 | 12.1 |
-| TD Bank (TD) | 18.9 | 16.2 | — | 4.46 | 2.53 | 6.2 |
-| Bank of Montreal (BMO) | 20.1 | 15.4 | 2.69 | 4.54 | 2.18 | 2.1 |
-| Scotiabank (BNS) | 17.2 | 14.3 | 0.37 | 4.22 | 2.03 | 7.2 |
-| CIBC (CM) | 15.8 | 15.0 | 0.61 | 4.78 | 2.53 | 5.2 |
-| National Bank (NA) | 18.0 | 15.4 | 1.04 | 5.59 | 2.63 | 2.8 |
-| EQB (EQB) | — | 11.6 | — | 3.72 | 1.48 | 8.0 |
-| *Average* | 18.1 | 14.9 | 1.12 | 4.70 | 2.34 | 6.2 |
+| Royal Bank (RY) | 16.6 | 15.1 | 0.85 | 5.21 | 2.72 | 11.1 |
+| TD Bank (TD) | 17.4 | 14.8 | — | 4.17 | 2.33 | 5.6 |
+| Bank of Montreal (BMO) | 18.3 | 13.9 | 2.51 | 4.25 | 1.99 | 1.9 |
+| Scotiabank (BNS) | 15.7 | 13.0 | 0.34 | 3.94 | 1.84 | 6.5 |
+| CIBC (CM) | 14.2 | 13.5 | 0.57 | 4.40 | 2.26 | 4.6 |
+| National Bank (NA) | 16.5 | 14.1 | 0.97 | 5.23 | 2.41 | 2.6 |
+| EQB (EQB) | — | 10.6 | — | 3.50 | 1.36 | 7.3 |
+| *Average* | 16.4 | 13.6 | 1.05 | 4.39 | 2.13 | 5.7 |
 
-*Source: TSX screener merge `tsx-2026-11-14.csv` (2,561 rows, November 14, 2026) · CAD. Average skips blanks; one large multiple can dominate a column average, so read the medians in the snapshot.*
+*Source: TSX screener merge `tsx-2026-11-23.csv` (2,448 rows, November 23, 2026 file; November 20 close) · CAD. Average skips blanks; one large multiple can dominate a column average, so read the medians in the snapshot.*
 
 **CIBC** is the cheapest Big Six name on trailing P/E (**15.3x**). **BMO** is richest on trailing earnings (**19.3x**) but compresses toward the pack on forward P/E (**14.8x**). **EQB** screens cheapest on forward earnings (**10.6x**) and book (**1.35x**) — the discount that comes with a challenger balance sheet and a noisy trailing print. RBC still pays up for quality on P/B (**2.91x**). None of these multiples look like deep-value banking; they look like a sector that has already been rediscovered.
 
@@ -130,16 +134,16 @@ One-year is the known story: a sector-wide re-rating with TD in front. One-month
 
 | Company (Ticker) | Dividend / share | Yield (ind.) | Payout ratio |
 |:--|--:|--:|--:|
-| Royal Bank (RY) | $6.04 | 2.44% | 41.4% |
-| TD Bank (TD) | $4.20 | 2.49% | 46.3% |
-| Bank of Montreal (BMO) | $6.44 | 2.77% | 54.3% |
-| Scotiabank (BNS) | $4.32 | 3.46% | 57.5% |
-| CIBC (CM) | $3.88 | 2.59% | 39.8% |
-| National Bank (NA) | $4.64 | 2.45% | 41.1% |
-| EQB (EQB) | $2.16 | 1.96% | — |
-| *Average* | $4.53 | 2.60% | 46.7% |
+| Royal Bank (RY) | $6.04 | 2.68% | 41.4% |
+| TD Bank (TD) | $4.20 | 2.72% | 46.3% |
+| Bank of Montreal (BMO) | $6.44 | 3.05% | 54.3% |
+| Scotiabank (BNS) | $4.32 | 3.80% | 57.5% |
+| CIBC (CM) | $3.88 | 2.90% | 39.8% |
+| National Bank (NA) | $4.64 | 2.68% | 41.1% |
+| EQB (EQB) | $2.16 | 2.14% | — |
+| *Average* | $4.53 | 2.85% | 46.7% |
 
-*Source: TSX screener merge `tsx-2026-11-14.csv` (2,561 rows, November 14, 2026) · CAD. DPS is annual; yield is indicated. Payout is trailing; negative payouts show as — and are left out of the average.*
+*Source: TSX screener merge `tsx-2026-11-23.csv` (2,448 rows, November 23, 2026 file; November 20 close) · CAD. DPS is annual; yield is indicated. Payout is trailing; negative payouts show as — and are left out of the average.*
 
 This is still a **total-return** sector more than a pure income sleeve. Scotiabank’s **~3.5%** indicated yield leads; CIBC and RBC sit nearer **2.5–2.7%** with lower payouts. The bank case here is earnings power and buybacks as much as the coupon.
 
@@ -147,16 +151,18 @@ This is still a **total-return** sector more than a pure income sleeve. Scotiaba
 
 | Company (Ticker) | Rating | Price | Target 1Y | Upside | Analysts |
 |:--|:--|--:|--:|--:|--:|
-| Royal Bank (RY) | Buy | $288.37 | CA$292.86 | +1.6% | 12 |
-| TD Bank (TD) | Buy | $176.42 | CA$171.08 | −3.0% | 11 |
-| Bank of Montreal (BMO) | Neutral | $247.02 | CA$256.57 | +3.9% | 13 |
-| Scotiabank (BNS) | Buy | $131.85 | CA$129.50 | −1.8% | 12 |
-| CIBC (CM) | Buy | $164.99 | CA$167.79 | +1.7% | 12 |
-| National Bank (NA) | Neutral | $215.43 | CA$218.50 | +1.4% | 11 |
-| EQB (EQB) | Buy | $128.50 | CA$139.10 | +8.2% | 11 |
-| *Average* | — | — | CA$196.49 | +1.7% | — |
+| Royal Bank (RY) | Buy | $263.05 | CA$294.29 | +11.9% | 12 |
+| TD Bank (TD) | Buy | $162.05 | CA$173.81 | +7.3% | 11 |
+| Bank of Montreal (BMO) | Neutral | $224.49 | CA$259.68 | +15.7% | 13 |
+| Scotiabank (BNS) | Buy | $119.90 | CA$130.54 | +8.9% | 12 |
+| CIBC (CM) | Buy | $147.36 | CA$168.83 | +14.6% | 12 |
+| National Bank (NA) | Neutral | $197.27 | CA$217.75 | +10.4% | 11 |
+| EQB (EQB) | Buy | $117.93 | CA$139.10 | +18.0% | 11 |
+| *Average* | — | — | CA$197.71 | +12.4% | — |
 
-*Rating = screener analyst rating on the November 14, 2026 file. Target 1Y and analyst counts are the MarketBeat TSE consensus figures (CAD) pulled October 27, 2026, not re-pulled in bulk for this refresh. Upside is the October 27 target versus the November 14 screener price. The dollar average mixes very different share prices; read the upside column.*
+*Rating = screener analyst rating on the November 23, 2026 file. Target 1Y and analyst counts are the MarketBeat TSE consensus figures (CAD) re-pulled November 23, 2026; MarketBeat priced those pages at the November 20 close. Upside is that target versus the November 20 screener price. The dollar average mixes very different share prices; read the upside column.*
+
+**November 23 target read.** Against the November 20 close, the widest implied upside to the MarketBeat consensus is **EQB (+18.0%)** and **Bank of Montreal (+15.7%)**; the narrowest is **TD Bank (+7.3%)** and **Scotiabank (+8.9%)**. Every name with a CAD target trades below it. A falling price lifts upside mechanically, so read it next to the target count and the tape, not as a buy signal.
 
 The Street message is blunt: **TD and Scotiabank already trade at or above the average target**; RBC has only low-single-digit implied upside; BMO, CIBC and National Bank still show mid-single to high-single-digit room; **EQB** carries the largest implied gap (**~18%**) — and the widest disagreement (including a recent Strong Sell / low target from one shop). When average targets hug the tape on the Big Six, the next catalyst has to be earnings or rates, not “catch-up to the Street.”
 
@@ -168,6 +174,8 @@ The **Big Six** share OSFI capital rules, national deposit franchises, and wealt
 
 ## Bull case for Canadian bank stocks
 
+**November 23 check.** The selloff did some of the bull case’s work. On the November 20 close, implied upside to the re-pulled consensus runs from about 7% (TD) to 18% (EQB), against late October, when several names sat at or above target, and the median forward P/E is down to about 13.9x. Falling Canadian bond yields and lower December-hike odds after the 3.1% inflation print are a cushion for valuations.
+
 1. **Earnings and capital return still compound.** Q3 showed beats across the group, CET1 ratios that support buybacks, and payout ratios that leave room. If loan losses stay contained, buybacks (TD’s FY27 illustration, BMO’s 25M authorization, NA’s program) can keep EPS growing even if revenue growth cools.
 
 2. **Rate path may help NIMs again.** After the October 28 hike to **2.50%**, a firmer Bank of Canada path into late 2026 would not automatically hurt banks — higher policy rates can widen lending spreads, especially for deposit-rich franchises, as long as credit costs do not spike.
@@ -176,6 +184,8 @@ The **Big Six** share OSFI capital rules, national deposit franchises, and wealt
 
 ## Bear case and risks for Canadian bank stocks
 
+**November 23 check.** A drop of about 9% in a week with no bank results is market beta and positioning, not earnings, and it can repeat. Weak Canadian data — September retail sales gains that were mostly prices, and an early October estimate pointing lower — keeps the credit question open into fiscal fourth-quarter results.
+
 1. **The re-rating is largely done.** Median +37% over one year vs ~+18% for the TSX, with several names at or above consensus targets, leaves less cushion if Q4 credit or capital-markets fees disappoint.
 
 2. **Credit and household leverage.** Canadian mortgages, HELOCs and commercial books are still the swing factor. A harder landing, sticky unemployment, or a sharper rate shock would show up in provisions faster than in dividends.
@@ -183,6 +193,8 @@ The **Big Six** share OSFI capital rules, national deposit franchises, and wealt
 3. **U.S. and regulatory overhang.** TD’s remediation and U.S. returns, BMO’s U.S. profitability rebuild, and ongoing OSFI/U.S. supervisory attention are slower-burn risks that can cap multiples even when Canadian quarters look fine.
 
 ## What to watch next for Canadian banks: rates, Q4 earnings and Street targets
+
+**November 23 update to the watch list.** December 4: the Labour Force Survey. December 9: the Bank of Canada decision, with markets split on a hike as of November 20. Then the fiscal fourth-quarter prints in the December window, and whether the consensus targets re-pulled on November 23 move after results or only the prices do.
 
 1. **December 9, 2026 — next Bank of Canada decision.** After the October 28 hike to 2.50%, whether a second hike follows is the near-term macro pivot for NIMs and the mortgage pipeline.
 
@@ -202,12 +214,16 @@ No other Big Six tickers are in the coverage log yet. This sector page will link
 
 ## Data notes: screener date, peer set and where the targets come from
 
-**November 16, 2026 refresh.** The snapshot strip and every peer table now come straight from merge `tsx-2026-11-14.csv` (2,561 rows, November 14, 2026 file): prices, market caps, LTM revenue and net income, returns, multiples, dividends and screener ratings. Average rows skip blanks. Analyst targets were not re-pulled in bulk: Target 1Y and analyst counts are still the MarketBeat TSE figures pulled October 27, 2026(a November 16 spot-check of Royal Bank’s MarketBeat page showed the consensus at C$292.57 on 12 analysts, down from C$292.86, after Desjardins trimmed its target to C$316 from C$320 on November 11); upside compares those targets with the November 14 price. Rows for tickers missing from the November 14 export keep the previous build’s values and are named under the snapshot. The November 16 update paragraph uses the news and company releases listed under Sources, checked November 16, 2026; the TSX comparison column is the approximate index return carried from the October 26 build. The method notes below describe the October 27 build and still apply to the commentary written on it.
+**November 23, 2026 refresh.** The snapshot strip and every peer table now come straight from merge `tsx-2026-11-23.csv` (2,448 rows; exported November 23, 2026, November 20 close): prices, market caps, LTM revenue and net income, returns, multiples, dividends and screener ratings. Average rows skip blanks. Analyst targets were re-pulled in bulk on November 23, 2026: Target 1Y and analyst counts are the MarketBeat TSE consensus figures from that day, and upside compares them with the November 20 price. Rows for tickers missing from the November 23 export keep the last screener values this page had for them and are named under the snapshot; in the analyst table those rows use MarketBeat’s November 20 close. The November 23 update paragraph uses the StockSummarizer TSX Market Wraps for November 16–20 and the briefs and releases listed under Sources, checked November 23, 2026. The TSX comparison column is the S&P/TSX Composite price return to the November 20 close from daily index closes. The method notes below describe the October 27 build and still apply to the commentary written on it.
 
 Table figures are TSX screener values from merge `tsx-2026-10-25.csv` (2,532 rows; October 25, 2026 close; CAD) unless labelled otherwise. Peer rule: liquid Canadian banks by ticker/name inside screener sector Finance — RY, TD, BMO, BNS, CM, NA, plus EQB as challenger. Excluded: insurers (MFC, SLF, GWO, IFC, …), REITs, asset managers, Laurentian (scale), and CWB (inside NA’s acquisition). Average rows include all seven names and skip blank cells. Target 1Y is MarketBeat TSE consensus in **CAD**, pulled October 27, 2026 (analyst counts 11–13; all ≥5). Screener ratings are shown in the Analyst table; MarketBeat’s own consensus labels (Moderate Buy / Hold) are noted in Sources. Q3 earnings figures are from company releases and the Globe and Mail sector roundup. TSX Composite 1M/1Y are approximate public index price returns near October 26, 2026. Snapshot medians use the seven-name set (trailing P/E median uses the six names with a trailing multiple).
 
 ## Sources for earnings, the Bank of Canada, targets and the TSX screener
 
+- StockSummarizer TSX Market Wraps for November 16–20, 2026 (/market-wrap/2026-11-16-tsx/ to /market-wrap/2026-11-20-tsx/), compiled from Reuters via MarketScreener, The Canadian Press via BNN Bloomberg, Baystreet.ca, Investing.com, RTTNews, Investcom, the TSX daily trading report and Statistics Canada releases: index closes and the 8.1% weekly drop, crude and gold settles, copper, sector and named-stock moves, October CPI, December-hike odds, bond yields and the Nvidia, Anthropic and SEC headlines
+- MarketBeat TSE forecast pages for every ticker in the analyst table (consensus targets and analyst counts re-pulled November 23, 2026; MarketBeat priced the pages at the November 20, 2026 close; tickers missing from the screener export use that MarketBeat close in the analyst table)
+- S&P/TSX Composite daily closes (^GSPTSE via Yahoo Finance chart history): November 20, 2026 close 33,189.85 against October 20, 2026 and November 20, 2025, for the snapshot’s TSX column
+- TSX screener merge `tsx-2026-11-23.csv` (StockSummarizer data pipeline; TradingView screener export of November 23, 2026, carrying the November 20, 2026 close)
 - Reuters via MarketScreener, Baystreet.ca, Investing.com and The Canadian Press TSX closing reports, November 9–13, 2026, as compiled in the StockSummarizer TSX Market Wraps for those sessions (/market-wrap/2026-11-09-tsx/ to /market-wrap/2026-11-13-tsx/): gold, crude and copper settles, sector and named-stock moves, Bank of Canada minutes and December-hike odds, US inflation data and the Nvidia CEO change
 - TSX screener merge `tsx-2026-10-25.csv` (StockSummarizer data pipeline), October 25, 2026
 - Globe and Mail, “A breakdown of the big banks’ third-quarter earnings,” Q3 2026 roundup (RBC, TD, BMO, BNS, CM, NA)
