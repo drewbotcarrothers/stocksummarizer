@@ -1,10 +1,10 @@
 ---
 title: "Canadian software and tech stocks: the one-month rebound, Celestica’s quarter, valuation and targets"
-description: "Shopify, Thomson Reuters, Constellation, Celestica, CGI, Descartes, OpenText, Topicus and Kinaxis on the November 14, 2026 screener: returns, multiples and which targets are CAD."
+description: "Shopify, Thomson Reuters, Constellation, Celestica, CGI, Descartes, OpenText, Topicus and Kinaxis on the November 20, 2026 close: returns, multiples and which targets are CAD."
 sector: "Software & tech"
-thesis: "Liquid Canadian software and tech are up a median of about 11% over the past month but still down over one year, Celestica bounced back about 17% between the November 9 and November 14 screener files as Nvidia’s CEO exit moved AI-hardware money around, and several widely quoted targets are US-listing numbers that do not belong in a Canadian-dollar average."
-updatedDate: 2026-11-16
-screenerDate: 2026-11-14
+thesis: "Canadian tech took the AI unwind head-on: the median fell about 6% between the November 13 and November 20 closes, Celestica dropped about 16% for the week to a 52-week low as Nvidia fell on a report of an SEC accounting inquiry, Constellation slid about 11%, and only Descartes and Kinaxis are up over one year among the names with fresh rows. Several widely quoted targets are still US-listing numbers that do not belong in a Canadian-dollar average."
+updatedDate: 2026-11-23
+screenerDate: 2026-11-23
 image: "/images/sectors/software-tech.jpg"
 imageAlt: "The former Southam Press Building on Duncan Street in Toronto, a historic brick block beside the glass Thomson Reuters tower"
 imageCredit: "Former Southam Press Building, now part of the Thomson Reuters complex at 19 Duncan Street, Toronto. Photo by Can Pac Swire, Toronto, CC BY-SA 2.0, via Wikimedia Commons. Cropped and resized."
@@ -12,26 +12,28 @@ draft: false
 author: "Andrew"
 ---
 
-Nine liquid names — Shopify, Thomson Reuters, Constellation Software, Celestica, CGI, Descartes, OpenText, Topicus and Kinaxis — are about **CA$547 billion** of market value on the November 14, 2026 screener. Shopify’s row, about **CA$304 billion**, is carried from an earlier export because Shopify is missing from the newest file. Over the past month the peer median is about **+11%**, far ahead of the S&P/TSX Composite’s approximate **+1.4%** (carried from the October 26 build). Over one year the median is about **−4%**, against a Composite near **+18%**. Celestica is the exception inside the month: it is still down about **32%** over one month even after this week’s rebound. Setup for this living note: a rebound that is real, a one-year hole that is also real, and a target column that has to stay in Canadian dollars.
+Nine liquid names — Shopify, Thomson Reuters, Constellation Software, Celestica, CGI, Descartes, OpenText, Topicus and Kinaxis — are about **CA$525 billion** of market value on the November 20, 2026 close. Shopify’s row is carried from an earlier export because Shopify is missing from the newest file, so that sum uses its older market cap. Over the past month the peer median is about **+0.6%**, against an S&P/TSX Composite at about **−8.1%**. Over one year the median is about **−7%**, against a Composite near **+11%**. Celestica is the outlier: down about **34%** over one month after its November 20 drop to a 52-week low. Setup for this living note: an AI unwind that hit hardware hardest, a one-year hole that got deeper, and a target column that has to stay in Canadian dollars.
 
 ## Canadian software snapshot: market cap, P/E, yield and returns vs the TSX
 
 | Metric | Peer set (9) | vs TSX (approx.) |
 |:--|--:|--:|
-| Combined market cap | ~CA$547.3B | — |
-| Median trailing P/E | 45.2x | — |
-| Median forward P/E | 20.4x | — |
-| Median indicated yield | 1.24% | — |
-| Median 1M price return | +11.2% | TSX ~+1.4% |
-| Median 1Y price return | −4.2% | TSX ~+18.2% |
+| Combined market cap | ~CA$524.9B | — |
+| Median trailing P/E | 42.9x | — |
+| Median forward P/E | 19.2x | — |
+| Median indicated yield | 1.31% | — |
+| Median 1M price return | +0.6% | TSX −8.1% |
+| Median 1Y price return | −6.8% | TSX +11.0% |
 
-*Screener as of November 14, 2026 (CAD; merge `tsx-2026-11-14.csv`, 2,561 rows). Peer set: SHOP, TRI, CSU, CLS, GIB.A, DSG, OTEX, TOI, KXS. Medians skip blank cells; P/E medians skip non-positive multiples. Not in the November 14 export, so their rows still carry the previous build’s values: SHOP. The TSX column is the approximate index return carried from the October 26 build and was not re-pulled for this refresh.*
+*Screener as of the November 20, 2026 close (CAD; merge `tsx-2026-11-23.csv`, 2,448 rows, exported November 23, 2026). Peer set: SHOP, TRI, CSU, CLS, GIB.A, DSG, OTEX, TOI, KXS. Medians skip blank cells; P/E medians skip non-positive multiples. Not in the November 23 export, so their rows still carry the last screener values the page had for them: SHOP. The TSX column is the S&P/TSX Composite price return to the November 20 close (one month from October 20, 2026; one year from November 20, 2025), from daily index closes.*
 
-**November 14, 2026 refresh.** Between the November 9 and November 14 screener files the median peer price moved **+0.1%**. Best: Celestica (+17.2%) and Kinaxis (+10.9%). Weakest: Topicus (−4.1%) and Thomson Reuters (−1.9%). The snapshot and every peer table below are on the November 14 file. Commentary paragraphs between the tables were written on the October 25 file and quote those figures unless they give a later date.
+**November 23, 2026 refresh.** Between the November 14 and November 23 screener files (November 13 and November 20 closes) the median peer price moved **−6.2%**, against **−8.1%** for the S&P/TSX Composite. Held up best: CGI (−2.6%) and Kinaxis (−3.4%). Weakest: Celestica (−15.9%) and Constellation (−11.3%). The snapshot and every peer table below are on the November 23 file. Commentary paragraphs between the tables were written on the October 25 file and quote those figures unless they give a later date.
 
 This is not an income sector. Constellation yields **0.17%**. OpenText at **3.46%** is the income name, and it is also the worst one-year software stock in the set after Topicus. Trailing P/E runs from OpenText at **11.0x** to Shopify at **114.6x**. The median of **38.8x** is a growth multiple, not a bank multiple.
 
 ## What is driving Canadian software and tech stocks: AI headlines, a hardware print and a November stack
+
+**November 23, 2026 update.** The AI trade unwound. On November 17 information technology fell about 2.8% to 2.9% before Nvidia’s results, with BlackBerry −7.3%, Shopify −4.07% to C$202.83, Constellation −3.5% to C$3,316.93 and Descartes −3.6% to C$131.07. Nvidia reported third-quarter revenue of US$115.8 billion after the close that day, but the relief did not last. Anthropic began trading on the Nasdaq on November 19 and closed about 17% above its US$83 IPO price, while tech fell about 3.2% and Constellation lost 4.3% to C$3,180. On November 20 the group fell about 6% after Reuters reported the US Securities and Exchange Commission is looking into possible accounting issues at Nvidia; Celestica fell 16.4% to C$288.00, a 52-week low, with no company news. Between the November 14 and November 23 screener files the peer median price moved **−6.2%** (Celestica −15.9%, Constellation −11.3%; CGI −2.6% and Kinaxis −3.4% held up best). Shopify is missing from the export; MarketBeat priced it at C$177.09 at the November 20 close.
 
 **November 16, 2026 update.** A volatile week for AI hardware. On November 9 Constellation Software fell about 3.8% to C$3,392.29 after reporting a 16% year-over-year drop in third-quarter free cash flow, and Thomson Reuters fell about 3.6% to C$153.18. Kinaxis hit a three-year high on November 10 and a record C$229.37 on November 11, when Celestica jumped about 8% to roughly C$345 as CoreWeave’s beat revived the AI trade; Shopify rose about 2.1% to C$212.57 that day. On November 12 Nvidia CEO Jensen Huang resigned and finance chief Colette Kress became interim CEO; money rotated toward rival chipmakers and Celestica rose about 4.8% to roughly C$362, then fell about 5.3% to C$342.58 on November 13 after HSBC downgraded Nvidia. Between the November 9 and November 14 screener files Celestica moved **+17.2%** and Kinaxis **+10.9%**, while Topicus fell 4.1% and Thomson Reuters 1.9%; the peer median was **+0.1%**. Shopify is still missing from the export, so its row carries an earlier build’s values. Canada’s October consumer price index is due on November 16 (economists expected annual inflation of 3.2%, per Reuters), the next Labour Force Survey is December 4, and the next Bank of Canada decision is December 9.
 
@@ -59,6 +61,8 @@ This is not an income sector. Constellation yields **0.17%**. OpenText at **3.46
 
 ## Which Canadian software and tech stocks are leading and lagging
 
+**On the November 23 file (November 20 close):** over one month the leaders are **Kinaxis (+13.1%)** and **CGI (+2.5%)** and the laggards are **Celestica (−33.7%)** and **OpenText (−12.9%)**; over one year the leaders are **Kinaxis (+28.7%)** and **Descartes (+13.2%)** and the laggards are **Celestica (−37.7%)** and **OpenText (−31.5%)**. The S&P/TSX Composite was about −8.1% over the month and +11.0% over the year to the same close. The paragraphs below were written on the October 25 file and keep those figures. SHOP is left out of this line because it is not in the November 23 export.
+
 **One month:** **Thomson Reuters (+28.0%)** leads on the October 25 screener field, then **Constellation (+22.1%)** and **OpenText (+21.1%)**. **Celestica (−28.7%)** is the only one-month loser, on an exchange-close series. The rebound the October 26 brief described — every name in its smaller peer set up over the month — still holds for the software rows. It does not hold for the hardware row.
 
 **One year:** **Kinaxis (+13.3%)** is the leader, and **Shopify (+1.2%)** is the only other name above zero. **Topicus (−32.6%)** is the laggard, then **OpenText (−28.5%)** and **Thomson Reuters (−24.6%)**. Constellation is **−9.2%** over the year after being **+22.1%** over the month. The sector story is a bounce inside a drawdown, not a new high.
@@ -72,17 +76,17 @@ Peer set: **Shopify (SHOP), Thomson Reuters (TRI), Constellation Software (CSU),
 | Company (Ticker) | Price | Market cap | Revenue (LTM) | Net income (LTM) |
 |:--|--:|--:|--:|--:|
 | Shopify (SHOP) | $236.24 | $303.9B | $18.3B | $2.7B |
-| Thomson Reuters (TRI) | $155.90 | $67.6B | $10.9B | $2.2B |
-| Constellation (CSU) | $3,492.29 | $74.0B | $18.3B | $1.3B |
-| Celestica (CLS) | $342.32 | $43.2B | $25.3B | $1.7B |
-| CGI (GIB.A) | $116.83 | $23.9B | $16.6B | $1.8B |
-| Descartes (DSG) | $134.65 | $11.5B | $1.1B | $260M |
-| OpenText (OTEX) | $35.51 | $8.6B | $7.2B | $904M |
-| Topicus (TOI) | $100.50 | $8.4B | $2.8B | $230M |
-| Kinaxis (KXS) | $229.24 | $6.2B | $872M | $125M |
-| *Average* | — | $60.8B | $11.3B | $1.3B |
+| Thomson Reuters (TRI) | $145.57 | $63.1B | $10.9B | $2.2B |
+| Constellation (CSU) | $3,096.00 | $65.6B | $18.3B | $1.3B |
+| Celestica (CLS) | $288.00 | $36.3B | $25.3B | $1.7B |
+| CGI (GIB.A) | $113.76 | $23.3B | $16.6B | $1.8B |
+| Descartes (DSG) | $127.84 | $10.9B | $1.1B | $260M |
+| OpenText (OTEX) | $32.50 | $7.9B | $7.2B | $904M |
+| Topicus (TOI) | $94.65 | $8.0B | $2.8B | $230M |
+| Kinaxis (KXS) | $221.49 | $6.0B | $872M | $125M |
+| *Average* | — | $58.3B | $11.3B | $1.3B |
 
-*Source: TSX screener merge `tsx-2026-11-14.csv` (2,561 rows, November 14, 2026) · CAD · LTM = last 12 months. Average includes every row. Not in the November 14 export, so their rows still carry the previous build’s values: SHOP.*
+*Source: TSX screener merge `tsx-2026-11-23.csv` (2,448 rows, November 23, 2026 file; November 20 close) · CAD · LTM = last 12 months. Average includes every row. Not in the November 23 export, so their rows still carry the last screener values the page had for them: SHOP.*
 
 Shopify is the index. Thomson Reuters and Constellation are the next tier, near **CA$72–75 billion**, with very different earnings: Thomson Reuters earned about **CA$2.3 billion** on **CA$10.8 billion** of revenue, Constellation about **CA$1.3 billion** on **CA$17.5 billion**. Celestica’s **CA$21.6 billion** of trailing revenue is the hardware scale, larger than Shopify’s revenue and a fraction of Shopify’s market cap. CGI is the Canadian-dollar IT-services name, **CA$23.5 billion**, with more trailing profit than Constellation (**CA$1.7 billion** versus **CA$1.3 billion**) at a third of the market cap. Topicus at **CA$58 million** of trailing profit is a spin-off, not a second Constellation.
 
@@ -90,18 +94,18 @@ Shopify is the index. Thomson Reuters and Constellation are the next tier, near 
 
 | Company (Ticker) | 1M | 3M | 6M | YTD | 1Y | 5Y | 10Y |
 |:--|--:|--:|--:|--:|--:|--:|--:|
-| Shopify (SHOP) | +17.8% | +49.7% | +38.7% | +5.4% | +1.2% | +34% | +3976% |
-| Thomson Reuters (TRI) | +3.9% | +5.7% | +42.5% | −14.2% | −19.1% | +0% | +142% |
-| Constellation (CSU) | +12.4% | +10.6% | +39.7% | +5.3% | +5.8% | +63% | +451% |
-| Celestica (CLS) | −31.7% | −29.6% | −32.2% | −16.6% | −25.5% | +2256% | +2010% |
-| CGI (GIB.A) | +13.6% | +12.8% | +35.6% | −7.8% | −4.2% | +4% | +79% |
-| Descartes (DSG) | +11.2% | +25.3% | +45.7% | +11.3% | +14.4% | +25% | +375% |
-| OpenText (OTEX) | +0.3% | +2.7% | +15.7% | −20.8% | −26.5% | −45% | −14% |
-| Topicus (TOI) | +8.5% | −3.8% | +11.0% | −21.5% | −23.3% | −21% | +52% |
-| **Kinaxis (KXS)** | **+24.5%** | +31.3% | +67.7% | +31.3% | **+30.1%** | +10% | +233% |
-| *Average* | +6.7% | +11.6% | +29.4% | −3.1% | −5.2% | +258% | +812% |
+| **Shopify (SHOP)** | **+17.8%** | +49.7% | +38.7% | +5.4% | +1.2% | +34% | +3976% |
+| Thomson Reuters (TRI) | −8.3% | −0.5% | +24.5% | −19.9% | −22.9% | −8% | +125% |
+| Constellation (CSU) | −4.2% | +0.3% | +14.0% | −6.6% | −5.4% | +39% | +395% |
+| Celestica (CLS) | −33.7% | −31.3% | −42.0% | −29.8% | −37.7% | +1922% | +1621% |
+| CGI (GIB.A) | +2.5% | +11.4% | +24.6% | −10.3% | −6.8% | +5% | +78% |
+| Descartes (DSG) | +0.6% | +19.4% | +29.8% | +5.7% | +13.2% | +13% | +321% |
+| OpenText (OTEX) | −12.9% | −4.5% | +1.2% | −27.6% | −31.5% | −51% | −22% |
+| Topicus (TOI) | +0.9% | −6.9% | −3.8% | −26.1% | −26.5% | −22% | +43% |
+| **Kinaxis (KXS)** | +13.1% | +24.9% | +51.6% | +26.9% | **+28.7%** | −1% | +254% |
+| *Average* | −2.7% | +6.9% | +15.4% | −9.1% | −9.7% | +215% | +755% |
 
-*Source: TSX screener merge `tsx-2026-11-14.csv` (2,561 rows, November 14, 2026) · CAD · price returns. Bold = leader on 1M and on 1Y. Average skips blanks.*
+*Source: TSX screener merge `tsx-2026-11-23.csv` (2,448 rows, November 23, 2026 file; November 20 close) · CAD · price returns. Bold = leader on 1M and on 1Y. Average skips blanks.*
 
 Year-to-date is the sober column. Kinaxis **+14.7%** and Descartes **+9.1%** lead. Topicus is **−23.7%**, OpenText **−13.4%**, Celestica **−11.1%**. Constellation’s year-to-date is only **+2.5%** after a one-month surge, which is what a stock looks like when the year was spent in a hole and October filled part of it.
 
@@ -110,17 +114,17 @@ Year-to-date is the sober column. Kinaxis **+14.7%** and Descartes **+9.1%** lea
 | Company (Ticker) | P/E | Fwd P/E | PEG | P/S | P/B | P/FCF |
 |:--|--:|--:|--:|--:|--:|--:|
 | Shopify (SHOP) | 114.6 | 87.7 | — | 16.71 | 16.92 | 94.2 |
-| Thomson Reuters (TRI) | 31.5 | 24.8 | — | 6.18 | 4.24 | 23.1 |
-| Constellation (CSU) | 55.5 | 19.0 | 1.29 | 4.04 | 12.10 | 19.7 |
-| Celestica (CLS) | 23.3 | 13.4 | 0.34 | 1.74 | 4.89 | 55.1 |
-| CGI (GIB.A) | 13.6 | 11.9 | 0.81 | 1.45 | 2.28 | 10.2 |
-| Descartes (DSG) | 45.2 | 38.5 | 1.75 | 11.04 | 4.99 | 28.3 |
-| OpenText (OTEX) | 9.7 | 6.5 | 0.26 | 1.19 | 1.47 | 7.3 |
-| Topicus (TOI) | 56.8 | 20.4 | — | 4.56 | 9.09 | 18.3 |
-| Kinaxis (KXS) | 51.6 | 32.6 | 0.31 | 7.26 | 10.81 | 30.1 |
-| *Average* | 44.6 | 28.3 | 0.79 | 6.02 | 7.42 | 31.8 |
+| Thomson Reuters (TRI) | 29.4 | 23.2 | — | 5.73 | 3.96 | 21.5 |
+| Constellation (CSU) | 49.2 | 16.8 | 1.17 | 3.68 | 10.73 | 17.5 |
+| Celestica (CLS) | 19.6 | 11.3 | 0.33 | 1.66 | 4.12 | 46.3 |
+| CGI (GIB.A) | 13.2 | 11.6 | 0.78 | 1.39 | 2.22 | 9.9 |
+| Descartes (DSG) | 42.9 | 36.5 | 1.65 | 10.45 | 4.73 | 26.9 |
+| OpenText (OTEX) | 8.9 | 5.9 | 0.23 | 1.08 | 1.35 | 6.7 |
+| Topicus (TOI) | 53.5 | 19.2 | — | 4.45 | 8.56 | 17.2 |
+| Kinaxis (KXS) | 49.9 | 31.5 | 0.30 | 7.09 | 10.44 | 29.0 |
+| *Average* | 42.4 | 27.1 | 0.75 | 5.80 | 7.00 | 29.9 |
 
-*Source: TSX screener merge `tsx-2026-11-14.csv` (2,561 rows, November 14, 2026) · CAD. Average skips blanks; one large multiple can dominate a column average, so read the medians in the snapshot.*
+*Source: TSX screener merge `tsx-2026-11-23.csv` (2,448 rows, November 23, 2026 file; November 20 close) · CAD. Average skips blanks; one large multiple can dominate a column average, so read the medians in the snapshot.*
 
 **OpenText is the cheap stock** on almost every column: **11.0x** trailing, **7.1x** forward, **1.31x** sales, **1.66x** book, **8.5x** free cash flow. It is also down **28.5%** over one year. **CGI at 14.2x / 12.8x** is the other reasonable multiple, and it reports in Canadian dollars. **Constellation at 54.3x trailing and 20.6x forward** is the compounder gap this whole sub-sector is priced on: you are paying a trailing premium for a forward multiple that assumes the acquisition machine keeps earning. **Shopify at 114.6x trailing and 87.7x forward** is a different planet, and that forward figure is this page’s estimate method, not a claim that the October 25 file printed 87.7. **Celestica at 27.4x trailing and 59.1x free cash flow** is the hardware warning: earnings ran ahead of cash, which is the same point as the cut to the 2026 free-cash-flow outlook.
 
@@ -129,17 +133,17 @@ Year-to-date is the sober column. Kinaxis **+14.7%** and Descartes **+9.1%** lea
 | Company (Ticker) | Dividend / share | Yield (ind.) | Payout ratio |
 |:--|--:|--:|--:|
 | Shopify (SHOP) | — | — | — |
-| Thomson Reuters (TRI) | $3.34 | 1.88% | 71.3% |
-| Constellation (CSU) | $5.56 | 0.16% | 8.9% |
+| Thomson Reuters (TRI) | $3.34 | 2.01% | 71.3% |
+| Constellation (CSU) | $5.56 | 0.19% | 8.9% |
 | Celestica (CLS) | $0.00 | — | 0.0% |
-| CGI (GIB.A) | — | 0.59% | 0.0% |
+| CGI (GIB.A) | $0.69 | 0.61% | 8.0% |
 | Descartes (DSG) | $0.00 | — | 0.0% |
-| OpenText (OTEX) | $1.52 | 3.81% | 41.6% |
+| OpenText (OTEX) | $1.52 | 4.17% | 41.6% |
 | Topicus (TOI) | $0.00 | — | 0.0% |
 | Kinaxis (KXS) | $0.00 | — | 0.0% |
-| *Average* | $1.49 | 1.61% | 15.2% |
+| *Average* | $1.39 | 1.74% | 16.2% |
 
-*Source: TSX screener merge `tsx-2026-11-14.csv` (2,561 rows, November 14, 2026) · CAD. DPS is annual; yield is indicated. Payout is trailing; negative payouts show as — and are left out of the average.*
+*Source: TSX screener merge `tsx-2026-11-23.csv` (2,448 rows, November 23, 2026 file; November 20 close) · CAD. DPS is annual; yield is indicated. Payout is trailing; negative payouts show as — and are left out of the average.*
 
 OpenText’s **3.46%** is the only yield an income investor would notice, with a **42.6%** payout. Thomson Reuters pays **1.70%** and distributes about two-thirds of trailing earnings. Constellation’s **C$5.56** dividend is **0.17%** of a **$3,395** stock, and the payout is under **9%**. The bull case here is reinvestment, not the coupon.
 
@@ -147,18 +151,20 @@ OpenText’s **3.46%** is the only yield an income investor would notice, with a
 
 | Company (Ticker) | Rating | Price | Target 1Y | Upside | Analysts |
 |:--|:--|--:|--:|--:|--:|
-| Shopify (SHOP) | Buy | $236.24 | CA$198.00 | −16.2% | 4 |
-| Thomson Reuters (TRI) | Buy | $155.90 | CA$166.33 | +6.7% | 10 |
-| Constellation (CSU) | Strong buy | $3,492.29 | CA$3,931.27 | +12.6% | 10 |
-| Celestica (CLS) | Strong buy | $342.32 | CA$388.33 | +13.4% | 9 |
-| CGI (GIB.A) | Buy | $116.83 | CA$124.00 | +6.1% | 12 |
-| Descartes (DSG) | Strong buy | $134.65 | — | — | — |
-| OpenText (OTEX) | Neutral | $35.51 | CA$27.50 | −22.6% | 2 |
-| Topicus (TOI) | Strong buy | $100.50 | CA$143.75 | +43.0% | 3 |
-| Kinaxis (KXS) | Strong buy | $229.24 | CA$203.89 | −11.1% | 8 |
-| *Average* | — | — | CA$647.88 | +4.0% | — |
+| Shopify (SHOP) | Buy | $177.09 | CA$206.00 | +16.3% | 3 |
+| Thomson Reuters (TRI) | Buy | $145.57 | CA$168.00 | +15.4% | 9 |
+| Constellation (CSU) | Strong buy | $3,096.00 | CA$4,012.00 | +29.6% | 11 |
+| Celestica (CLS) | Strong buy | $288.00 | CA$430.00 | +49.3% | 8 |
+| CGI (GIB.A) | Buy | $113.76 | CA$128.85 | +13.3% | 12 |
+| Descartes (DSG) | Strong buy | $127.84 | — | — | — |
+| OpenText (OTEX) | Neutral | $32.50 | CA$27.50 | −15.4% | 2 |
+| Topicus (TOI) | Strong buy | $94.65 | CA$143.75 | +51.9% | 3 |
+| Kinaxis (KXS) | Strong buy | $221.49 | CA$210.56 | −4.9% | 8 |
+| *Average* | — | — | CA$665.83 | +19.4% | — |
 
-*Rating = screener analyst rating on the November 14, 2026 file. Target 1Y and analyst counts are the MarketBeat TSE consensus figures (CAD) pulled October 27, 2026, not re-pulled in bulk for this refresh. Upside is the October 27 target versus the November 14 screener price. The dollar average mixes very different share prices; read the upside column.*
+*Rating = screener analyst rating on the November 23, 2026 file. Target 1Y and analyst counts are the MarketBeat TSE consensus figures (CAD) re-pulled November 23, 2026; MarketBeat priced those pages at the November 20 close. Upside is that target versus the November 20 screener price. SHOP is not in the November 23 export, so Price and Upside on that row use MarketBeat’s November 20 close and the Rating is from the last file that carried it. The dollar average mixes very different share prices; read the upside column.*
+
+**November 23 target read.** Against the November 20 close, the widest implied upside to the MarketBeat consensus is **Topicus (+51.9%)** and **Celestica (+49.3%)**; the narrowest is **OpenText (−15.4%)** and **Kinaxis (−4.9%)**. OpenText and Kinaxis trade above their average target. Descartes has no Canadian-dollar consensus in this table. A falling price lifts upside mechanically, so read it next to the target count and the tape, not as a buy signal.
 
 **Constellation is the clean CAD gap:** **CA$3,931.27** from **10** analysts, **+15.8%** versus **$3,395**. The same MarketBeat page’s high target is **CA$4,400**, which matches the RBC Outperform target the October 26 brief cited from October 23. The brief’s separate S&P Global average was **C$3,954** from 12 analysts. Both are Canadian dollars. Neither is a reason to treat the US-listing targets below as Canadian dollars.
 
@@ -186,6 +192,8 @@ OpenText’s **3.46%** is the only yield an income investor would notice, with a
 
 ## Bull case for Canadian software and tech stocks
 
+**November 23 check.** The re-pulled CAD consensus rose for Celestica (C$430.00 from C$388.33, though MarketBeat shows the high and low both at C$430) and Constellation (C$4,012.00 from C$3,931.27), and the selloff leaves implied upside near 49% and 30%. Kinaxis and Descartes kept their one-year gains through the week.
+
 1. **The one-month rebound is broad.** Eight of the nine names are up over the month, and the median is about **+18%** against a TSX near **+1%**. Constellation’s **+22%** month and Thomson Reuters’ **+28%** month are in the October 25 file, not a rounding choice.
 
 2. **Constellation still has a CAD gap, and OpenText and CGI are not priced like Shopify.** **+15.8%** to **CA$3,931** is a ten-analyst Canadian target. OpenText at **7.1x** forward and CGI at **12.8x** forward are the valves if a buyer does not want **88x** forward at Shopify or **54x** trailing at Constellation.
@@ -194,6 +202,8 @@ OpenText’s **3.46%** is the only yield an income investor would notice, with a
 
 ## Bear case and risks for Canadian software and tech stocks
 
+**November 23 check.** The week’s losses came from outside Canada — Nvidia, an AI IPO and the SEC report — which is the point: Celestica’s price is set by global AI-hardware sentiment, not by its own quarter. OpenText and Kinaxis trade above their thin CAD targets.
+
 1. **The one-year hole is still there.** Median about **−8%**, with Topicus, OpenText and Thomson Reuters down more than **24%**, against a TSX up about **18%**. A one-month bounce can be short covering and multiple repair. It is not a new base until the one-year column turns.
 
 2. **The forward P/E on this page is a method, and the file’s own forward P/E was lower for the compounders.** Constellation’s file print was **18.95**, not the **20.6** in this table. Thomson Reuters was **26.37**, not **28.2**. Using the higher figure does not make the stocks cheaper. Shopify at **87.7x** on this method is a reminder that “forward” still means expensive when the estimate is not a step-change.
@@ -201,6 +211,8 @@ OpenText’s **3.46%** is the only yield an income investor would notice, with a
 3. **US targets and thin CAD pages will mislead anyone who averages them.** Descartes has no TSE price target. Shopify’s four-analyst **CA$198** and OpenText’s two-analyst **CA$27.50** are not the 49-analyst and 13-analyst US pages. Celestica’s NYSE target is a different panel from the nine-analyst CAD target. Mix those and the upside is fiction.
 
 ## What to watch next for Canadian software and tech: November 3, then Constellation’s week
+
+**November 23 update to the watch list.** Nvidia and the AI chip group after the SEC report, how Anthropic trades after its debut, and whether Celestica stabilises after its 52-week low. Shopify’s row needs a fresh export before its figures can be compared again.
 
 1. **November 3, 2026 — Shopify before the open, call 8:30 a.m. ET, and Thomson Reuters’ third quarter the same day.** Half the market cap of this note, plus the one-month leader, on one morning.
 
@@ -223,12 +235,16 @@ CGI, Descartes, OpenText, Topicus and Kinaxis are not in the coverage log yet. T
 
 ## Data notes: screener date, peer set and where the targets come from
 
-**November 16, 2026 refresh.** The snapshot strip and every peer table now come straight from merge `tsx-2026-11-14.csv` (2,561 rows, November 14, 2026 file): prices, market caps, LTM revenue and net income, returns, multiples, dividends and screener ratings. Average rows skip blanks. Analyst targets were not re-pulled in bulk: Target 1Y and analyst counts are still the MarketBeat TSE figures pulled October 27, 2026(a November 16 spot-check of Royal Bank’s MarketBeat page showed the consensus at C$292.57 on 12 analysts, down from C$292.86, after Desjardins trimmed its target to C$316 from C$320 on November 11); upside compares those targets with the November 14 price. Rows for tickers missing from the November 14 export keep the previous build’s values and are named under the snapshot. The November 16 update paragraph uses the news and company releases listed under Sources, checked November 16, 2026; the TSX comparison column is the approximate index return carried from the October 26 build. The method notes below describe the October 27 build and still apply to the commentary written on it.
+**November 23, 2026 refresh.** The snapshot strip and every peer table now come straight from merge `tsx-2026-11-23.csv` (2,448 rows; exported November 23, 2026, November 20 close): prices, market caps, LTM revenue and net income, returns, multiples, dividends and screener ratings. Average rows skip blanks. Analyst targets were re-pulled in bulk on November 23, 2026: Target 1Y and analyst counts are the MarketBeat TSE consensus figures from that day, and upside compares them with the November 20 price. Rows for tickers missing from the November 23 export keep the last screener values this page had for them and are named under the snapshot; in the analyst table those rows use MarketBeat’s November 20 close. The November 23 update paragraph uses the StockSummarizer TSX Market Wraps for November 16–20 and the briefs and releases listed under Sources, checked November 23, 2026. The TSX comparison column is the S&P/TSX Composite price return to the November 20 close from daily index closes. The method notes below describe the October 27 build and still apply to the commentary written on it.
 
 Prices for Constellation (**$3,395.00**), Thomson Reuters (**$172.41**), CGI (**$114.81**), Descartes (**$131.57**), OpenText (**$39.14**) and Topicus (**$96.48**) are the October 23, 2026 closes printed from merge `tsx-2026-10-25.csv` in the October 26 Constellation brief. Shopify, Celestica and Kinaxis prices are the same October 23 TSX close from the exchange history. The file itself is not in this checkout. Market cap, revenue, net income, trailing P/E, P/S, P/B, P/FCF, PEG, DPS, yield and payout are the TradingView Canada fields that reproduce that file on those published rows, with market cap scaled to the October 23 close. Rounding on this page is the sector-page convention (P/E to one decimal), so Constellation’s P/E reads 54.3 rather than the brief’s 54.29, and net income reads $1.3 billion rather than $1.33 billion. P/S can sit about 0.02 away (Constellation 4.12 here, 4.13 in the brief). Forward P/E is October 23 price ÷ TradingView’s next-fiscal-year EPS consensus, pulled October 27, 2026. It is **not** the file’s forward-P/E cell; the brief’s file figures are listed under the valuation table. Performance for the six brief names, other than year-to-date, is the screener field from that brief. Year-to-date for every name, and all windows for Shopify, Celestica and Kinaxis, are exchange-close price returns. Topicus’s ten-year cell is blank because it has not traded for ten years. Peer rule: liquid compounders and the data-centre hardware name — SHOP, TRI, CSU, CLS, GIB.A, DSG, OTEX, KXS, plus TOI on TSXV. Excluded: Bitfarms, Hut 8, Lumine, BlackBerry, Lightspeed, Ritchie Bros., MDA Space, Bombardier. Average rows include all nine names and skip blank cells. The five- and ten-year averages are dominated by Celestica and Shopify. Target 1Y is MarketBeat’s Canadian-listing consensus in **CAD**, pulled October 27, 2026. The average uses only targets with at least five analysts (CSU, TRI, CLS, GIB.A, KXS). Shopify (CA$198, 4 analysts), OpenText (CA$27.50, 2) and Topicus (CA$143.75, 3) are excluded from the average. Descartes has no TSE consensus price target. US-listing MarketBeat consensuses pulled the same day and **not** converted: Shopify US$177.28 (49 analysts, Nasdaq), OpenText US$30.95 (13, Nasdaq), Descartes US$100.33 (15, Nasdaq), Celestica US$448.30 (25, NYSE), Thomson Reuters US$127.42 (17, Nasdaq). Screener ratings are in the analyst table. Several companies report in US dollars or euros; revenue and earnings are the CAD field that matched the October 26 brief, not a further FX adjustment. Celestica’s October 26 results are after the October 23 close and are not in the price. TSX Composite 1M/1Y are approximate public index price returns near October 26, 2026.
 
 ## Sources for the AI headlines, Celestica’s quarter, targets and the screener
 
+- StockSummarizer TSX Market Wraps for November 16–20, 2026 (/market-wrap/2026-11-16-tsx/ to /market-wrap/2026-11-20-tsx/), compiled from Reuters via MarketScreener, The Canadian Press via BNN Bloomberg, Baystreet.ca, Investing.com, RTTNews, Investcom, the TSX daily trading report and Statistics Canada releases: index closes and the 8.1% weekly drop, crude and gold settles, copper, sector and named-stock moves, October CPI, December-hike odds, bond yields and the Nvidia, Anthropic and SEC headlines
+- MarketBeat TSE forecast pages for every ticker in the analyst table (consensus targets and analyst counts re-pulled November 23, 2026; MarketBeat priced the pages at the November 20, 2026 close; tickers missing from the screener export use that MarketBeat close in the analyst table)
+- S&P/TSX Composite daily closes (^GSPTSE via Yahoo Finance chart history): November 20, 2026 close 33,189.85 against October 20, 2026 and November 20, 2025, for the snapshot’s TSX column
+- TSX screener merge `tsx-2026-11-23.csv` (StockSummarizer data pipeline; TradingView screener export of November 23, 2026, carrying the November 20, 2026 close)
 - Reuters via MarketScreener, Baystreet.ca, Investing.com and The Canadian Press TSX closing reports, November 9–13, 2026, as compiled in the StockSummarizer TSX Market Wraps for those sessions (/market-wrap/2026-11-09-tsx/ to /market-wrap/2026-11-13-tsx/): gold, crude and copper settles, sector and named-stock moves, Bank of Canada minutes and December-hike odds, US inflation data and the Nvidia CEO change
 - TSX screener merge `tsx-2026-10-25.csv`, as printed in the StockSummarizer Constellation brief dated 2026-10-26, for CSU, TOI, TRI, GIB.A, DSG and OTEX
 - TradingView Canada scanner and TSX closes for October 23, 2026, for SHOP, CLS and KXS, and as the cross-check on the published rows
