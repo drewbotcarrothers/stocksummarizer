@@ -2,6 +2,7 @@
 import { getCollection } from 'astro:content';
 import Layout from '../../layouts/Layout.astro';
 import AdSlot from '../../components/AdSlot.astro';
+import FeaturedImage from '../../components/FeaturedImage.astro';
 import { INVESTING_CATEGORIES } from '../../lib/investing-categories';
 import { splitInvestingId } from '../../lib/investing-categories';
 
@@ -34,8 +35,15 @@ const counts = Object.fromEntries(
         <li>
           <a
             href={`/investing/${c.slug}/`}
-            class="flex h-full flex-col rounded-xl border border-border bg-surface p-5 no-underline shadow-sm transition hover:border-accent-dark/40 hover:shadow-md"
+            class="flex h-full flex-col overflow-hidden rounded-xl border border-border bg-surface p-5 no-underline shadow-sm transition hover:border-accent-dark/40 hover:shadow-md"
           >
+            <span class="-mx-5 -mt-5 mb-4 block border-b border-border">
+              <FeaturedImage
+                image={c.image}
+                alt={c.imageAlt}
+                sizes="(min-width: 1024px) 360px, (min-width: 640px) 45vw, 100vw"
+              />
+            </span>
             <div class="flex flex-wrap items-center gap-2">
               <h2 class="font-display text-lg font-semibold text-ink">{c.name}</h2>
             </div>
