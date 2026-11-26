@@ -1,0 +1,155 @@
+---
+import Layout from '../../layouts/Layout.astro';
+import Byline from '../../components/Byline.astro';
+import JsonLd from '../../components/JsonLd.astro';
+import { getEarningsRows, DATASET_AS_OF, DATASET_PATH, DATASET_CSV } from '../../lib/earnings-q3-2026';
+
+const rows = await getEarningsRows();
+const site = 'https://stocksummarizer.com';
+const pageUrl = `${site}${DATASET_PATH}`;
+const csvUrl = `${site}${DATASET_CSV}`;
+const asOf = DATASET_AS_OF.toLocaleDateString('en-CA', { year: 'numeric', month: 'long', day: 'numeric', timeZone: 'UTC' });
+const withQ3 = rows.filter((r) => r.reported !== 'n/a');
+const count = (v: string) => withQ3.filter((r) => r.beatMiss === v).length;
+const fmtDate = (s: string) =>
+  s === 'n/a' ? 'n/a' : new Date(`${s}T12:00:00Z`).toLocaleDateString('en-CA', { month: 'short', day: 'numeric', timeZone: 'UTC' });
+
+const citeHtml = `<p>Source: <a href="${pageUrl}">StockSummarizer</a> Q3 2026 TSX earnings season dataset (as of ${asOf}).</p>`;
+const citeMd = `Source: [StockSummarizer](${pageUrl}) Q3 2026 TSX earnings season dataset (as of ${asOf}).`;
+
+const datasetLd = {
+  '@context': 'https://schema.org',
+  '@type': 'Dataset',
+  name: 'Q3 2026 TSX earnings season summary',
+  description: `One row per TSX company StockSummarizer covered from October 22 to November 26, 2026: headline results, beat or miss, stock reaction and a link to the full summary. ${rows.length} companies.`,
+  url: pageUrl,
+  creator: { '@type': 'Organization', name: 'StockSummarizer', url: site },
+  author: { '@type': 'Person', name: 'Andrew', url: `${site}/author/andrew/` },
+  dateModified: DATASET_AS_OF.toISOString().slice(0, 10),
+  temporalCoverage: '2026-10-21/2026-11-26',
+  spatialCoverage: 'Canada',
+  isAccessibleForFree: true,
+  license: `${pageUrl}#use-this-data`,
+  distribution: [{ '@type': 'DataDownload', encodingFormat: 'text/csv', contentUrl: csvUrl }],
+};
+---
+
+<Layout
+  title="Q3 2026 TSX earnings season: free summary dataset (CSV)"
+  description={`Free Q3 2026 TSX earnings season dataset: ${rows.length} Canadian companies with headline results, beat or miss, stock reaction and links to plain-English summaries. Download the CSV.`}
+  canonicalPath={DATASET_PATH}
+>
+  <JsonLd data={[datasetLd]} />
+  <article class="mx-auto max-w-5xl px-4 py-12 sm:px-6">
+    <nav class="text-sm text-ink-muted">
+      <a href="/" class="no-underline hover:text-accent-dark">Home</a>
+      <span class="mx-2" aria-hidden="true">/</span>
+      <span>Q3 2026 earnings</span>
+    </nav>
+    <h1 class="mt-4 font-display text-3xl font-bold leading-tight sm:text-4xl">Q3 2026 TSX earnings season: summary dataset</h1>
+    <Byline published={DATASET_AS_OF} updated={DATASET_AS_OF} />
+    <div class="mt-4 max-w-3xl space-y-3 text-lg text-ink-muted">
+      <p>
+        From October 22 to November 26, 2026 we published a plain-English summary for {rows.length} TSX companies. This page puts
+        them in one table: what each company reported, whether it beat or missed what analysts expected, and how the stock reacted.
+        {withQ3.length} of the posts include third-quarter figures; the other {rows.length - withQ3.length} covered a deal, a ruling or
+        a product launch instead, and are listed at the bottom.
+      </p>
+      <p>
+        Every number comes straight from our published summary. If a post did not state something, the cell says n/a. Of the
+        {' '}{withQ3.length} results, our posts called {count('Beat')} a beat, {count('Miss')} a miss and {count('Mixed')} mixed; the rest
+        did not compare the result with estimates. Currencies are as reported (US$ or C$).
+      </p>
+    </div>
+    <p class="mt-4 text-sm text-ink-muted">
+      Data as of {asOf}. <a href={DATASET_CSV} download>Download the CSV</a> · Click a column heading to sort.
+    </p>
+
+    <div class="mt-6 overflow-x-auto">
+      <table id="earnings-table" class="min-w-full border-collapse text-sm">
+        <thead>
+          <tr class="border-b border-border text-left">
+            <th class="cursor-pointer px-2 py-2" data-sort="text">Ticker</th>
+            <th class="cursor-pointer px-2 py-2" data-sort="text">Company</th>
+            <th class="cursor-pointer px-2 py-2" data-sort="text">Sector</th>
+            <th class="cursor-pointer px-2 py-2" data-sort="date">Reported</th>
+            <th class="min-w-[16rem] px-2 py-2">Headline result</th>
+            <th class="cursor-pointer px-2 py-2" data-sort="text">Beat / miss</th>
+            <th class="px-2 py-2">Stock reaction</th>
+            <th class="px-2 py-2">Summary</th>
+          </tr>
+        </thead>
+        <tbody>
+          {rows.map((r) => (
+            <tr class="border-b border-border align-top">
+              <td class="px-2 py-2 font-semibold whitespace-nowrap">{r.ticker}</td>
+              <td class="px-2 py-2">{r.company}</td>
+              <td class="px-2 py-2">{r.sector}</td>
+              <td class="px-2 py-2 whitespace-nowrap" data-value={r.reported}>{fmtDate(r.reported)}</td>
+              <td class="px-2 py-2">
+                {r.headline}
+                {r.period !== 'Q3 2026' && r.period !== 'n/a' && <span class="block text-xs text-ink-muted">{r.period}</span>}
+                <span class="block text-xs text-ink-muted">{r.focus}</span>
+              </td>
+              <td class="px-2 py-2" title={r.beatMissDetail !== 'n/a' ? r.beatMissDetail : undefined}>
+                {r.beatMiss}
+                {r.beatMissDetail !== 'n/a' && <span class="block text-xs text-ink-muted">{r.beatMissDetail}</span>}
+              </td>
+              <td class="px-2 py-2">{r.reaction}</td>
+              <td class="px-2 py-2 whitespace-nowrap"><a href={r.url.replace(site, '')}>Read</a></td>
+            </tr>
+          ))}
+        </tbody>
+      </table>
+    </div>
+
+    <section id="use-this-data" class="mt-10 max-w-3xl">
+      <h2 class="font-display text-2xl font-bold">Use this data</h2>
+      <p class="mt-3 text-ink-muted">
+        This dataset is free to use with a link back to StockSummarizer. Quote it, chart it or drop the
+        <a href={DATASET_CSV} download>CSV</a> into a spreadsheet for a blog post, newsletter or class. Please cite it like this:
+      </p>
+      <p class="mt-4 text-sm font-medium">HTML</p>
+      <textarea readonly rows="3" class="mt-1 w-full rounded border border-border p-2 font-mono text-xs" onclick="this.select()">{citeHtml}</textarea>
+      <p class="mt-3 text-sm font-medium">Markdown</p>
+      <textarea readonly rows="2" class="mt-1 w-full rounded border border-border p-2 font-mono text-xs" onclick="this.select()">{citeMd}</textarea>
+      <p class="mt-4 text-ink-muted">
+        For sector valuation and dividend comparisons, see our free <a href="/peer-tables/">TSX peer comparison tables</a>.
+      </p>
+    </section>
+
+    <p class="mt-8 text-sm text-ink-muted">
+      Not investment advice. Figures are taken from our published summaries as of {asOf}, are in the currency each company reports,
+      and can lag the market; check the latest filings before you act.
+    </p>
+  </article>
+</Layout>
+
+<script is:inline>
+  (function () {
+    var table = document.getElementById('earnings-table');
+    if (!table) return;
+    var heads = table.querySelectorAll('th[data-sort]');
+    heads.forEach(function (th) {
+      th.setAttribute('role', 'button');
+      th.setAttribute('tabindex', '0');
+      var dir = 1;
+      function sort() {
+        var idx = Array.prototype.indexOf.call(th.parentNode.children, th);
+        var body = table.tBodies[0];
+        var rows = Array.prototype.slice.call(body.rows);
+        rows.sort(function (a, b) {
+          var x = a.cells[idx].getAttribute('data-value') || a.cells[idx].textContent.trim();
+          var y = b.cells[idx].getAttribute('data-value') || b.cells[idx].textContent.trim();
+          if (x === 'n/a' && y !== 'n/a') return 1;
+          if (y === 'n/a' && x !== 'n/a') return -1;
+          return x.localeCompare(y) * dir;
+        });
+        rows.forEach(function (r) { body.appendChild(r); });
+        dir = -dir;
+      }
+      th.addEventListener('click', sort);
+      th.addEventListener('keydown', function (e) { if (e.key === 'Enter' || e.key === ' ') { e.preventDefault(); sort(); } });
+    });
+  })();
+</script>

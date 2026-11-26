@@ -29,6 +29,10 @@ const sectors = (await getCollection('sectors', ({ data }) => !data.draft))
         </li>
       ))}
     </ul>
+    <div class="mt-8 rounded-xl border border-border p-4">
+      <a href="/data/q3-2026-earnings/" class="font-semibold">Q3 2026 TSX earnings season dataset</a>
+      <p class="mt-1 text-sm text-ink-muted">Headline results, beat or miss and stock reaction for every TSX company we covered this earnings season, with a free CSV download.</p>
+    </div>
     <p class="mt-8 text-sm text-ink-muted">Not investment advice. Figures are in CAD unless noted and can lag the market; check the latest filings before you act.</p>
   </section>
 </Layout>
